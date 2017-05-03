@@ -1,9 +1,9 @@
 // API KEYS
-var apiKey = 'ENTER API KEY';
-var apiSecret = 'ENTER API SECRET';
+var apiKey = "ENTER API KEY";
+var apiSecret = "ENTER API SECRET";
 
 // DEPENDENCIES
-var sailthru = require('sailthru-client').createSailthruClient(apiKey, apiSecret);
+var sailthru = require("sailthru-client").createSailthruClient(apiKey, apiSecret);
 var readlineSync = require("readline-sync");
 var chalk = require("./console-colors.js");
 var thisMinFile = {};
@@ -17,9 +17,9 @@ function initPush(minFile) {
   }
 
   var newInclude = {
-    include: 'phoenix_' + thisMinFile.name,
-    content_html: '{set(\"' + thisMinFile.name + '\", ' + thisMinFile.data + ')}',
-    content_text: '',
+    include: "phoenix_" + thisMinFile.name,
+    content_html: "{set(\"" + thisMinFile.name + "\", " + thisMinFile.data + ")}",
+    content_text: "",
     content_sms: null,
     content_app: null
   };
@@ -28,27 +28,27 @@ function initPush(minFile) {
 }
 
 function pushInclude(newInclude) {
-  sailthru.apiPost('include', newInclude, function(err, response) {
+  sailthru.apiPost("include", newInclude, function(err, response) {
     if (err) {
-      console.log(chalk.error('Error: ' + err.message));
+      console.log(chalk.error("Error: " + err.message));
     } else {
-      console.log(chalk.success('The file was uploaded to Sailthru.'));
-      console.log('Sailthru include is named phoenix_' + thisMinFile.name + '.');
+      console.log(chalk.success("The file was uploaded to Sailthru."));
+      console.log("Sailthru include is named phoenix_" + thisMinFile.name + ".");
     }
   });
 }
 
 function initTest() {
-  console.log(chalk.request('Enter recipient email(s) for test.\n'));
+  console.log(chalk.request("Enter recipient email(s) for test.\n"));
   var recipients = readlineSync.promptCL();
-  // console.log(chalk.success('You entered:\n' + recipients));
+  // console.log(chalk.success("You entered:\n" + recipients));
   console.log(chalk.success(recipients));
 
   var template = readlineSync.question("Use AM or PM template? ");
-  console.log(chalk.success('You entered: ' + template));
+  console.log(chalk.success("You entered: " + template));
 
   var testDate = readlineSync.question("Enter date (MM/dd/yy): ");
-  console.log(chalk.success('You entered: ' + testDate));
+  console.log(chalk.success("You entered: " + testDate));
 
   var other = {
     "vars": {
@@ -67,7 +67,7 @@ function initTest() {
     template = "[TEST] Phoenix PM w/ 600x150 Banners + Duplicate Story Prevention";
     sendTest(template, recipients, other);
   } else {
-    console.log(chalk.error('Did not recognize template.'));
+    console.log(chalk.error("Did not recognize template."));
   }
 }
 
@@ -75,9 +75,9 @@ function sendTest(template, recipients, options) {
   sailthru.multiSend(template, recipients, options, function(err, response) {
     console.log(template, recipients, options);
     if (err) {
-      console.log(chalk.error('Error: ' + err.message));
+      console.log(chalk.error("Error: " + err.message));
     } else {
-      console.log(chalk.success('The test was sent to all recipients.'));
+      console.log(chalk.success("The test was sent to all recipients."));
     }
   });
 }
