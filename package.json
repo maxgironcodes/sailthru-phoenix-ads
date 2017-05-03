@@ -1,0 +1,25 @@
+{
+  "name": "json-phoenix-ads",
+  "version": "1.0.0",
+  "description": "A NodeJS environment for TheBlaze's daily newsletters",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./scripts/index.js",
+    "minify": "node -e \"require('./scripts/ad-minify.js').init();\"",
+    "sort": "node -e \"require('./scripts/ad-sort.js').init();\"",
+    "filter": "node ./scripts/ad-filter.js",
+    "new": "node -e \"require('./scripts/ad-new.js').init();\"",
+    "push": "node -e \"require('./scripts/sailthru-api.js').initPush();\"",
+    "test": "node -e \"require('./scripts/sailthru-api.js').initTest();\""
+  },
+  "author": "Max Giron",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^1.1.3",
+    "minimist": "^1.2.0",
+    "node-json-minify": "^1.0.0",
+    "readline-sync": "^1.4.7",
+    "sailthru-client": "^3.0.2",
+    "sort-json-array": "^0.1.7"
+  }
+}
