@@ -52,12 +52,12 @@ Shows outdated ads from the selected file and asks whether to delete or preserve
 ------------------------------------------
 
 ### 5. Run "Push"
-Looks for the minified version of the selected file and wraps it around a Zephyr object. The Zephyr object is then formatted into a Sailthru include with the "phoenix_" prefix and pushed to production. Make sure to minify your latest changes beforehand!
+Looks for the minified version of the selected file and wraps it around a Zephyr object. The Zephyr object is then formatted into a Sailthru include with the "phoenix_" prefix and pushed to production. **Make sure to minify your latest changes beforehand!**
 
 ------------------------------------------
 
 ### 6. Run "Test"
-Send an email using the test versions of the AM / PM templates. Emails must be separated by spaces, NOT commas. (Comma-separated certainly feels more natural; working on it!)
+Send an email using the test versions of the AM / PM templates. **Multiple emails are now be separated by commas.** (Comma-separated certainly feels more natural; working on it!)
 
 ------------------------------------------
 
