@@ -23,7 +23,7 @@ function chooseAdType() {
 }
 
 function getSponsorNative() {
-  console.log(chalk.request('Enter new native values.\n'));
+  console.log(chalk.request("Enter new native values.\n"));
   var newNative = {};
 
   newNative.date = readlineSync.question("Date (MM/dd/yy): ");
@@ -32,11 +32,12 @@ function getSponsorNative() {
   newNative.url = readlineSync.question("Sponsor URL: ");
   newNative.image = readlineSync.question("Image URL: ");
 
-  addJSON(newNative);
+  // addJSON(newNative);
+  checkForDuplicates(newNative);
 }
 
 function getSponsorBanner() {
-  console.log(chalk.request('Enter new banner values.\n'));
+  console.log(chalk.request("Enter new banner values.\n"));
   var newBanner = {};
 
   newBanner.date = readlineSync.question("Date (MM/dd/yy): ");
@@ -45,11 +46,12 @@ function getSponsorBanner() {
   newBanner.url = readlineSync.question("Sponsor URL: ");
   newBanner.image = readlineSync.question("Image URL: ");
 
-  addJSON(newBanner);
+  // addJSON(newBanner);
+  checkForDuplicates(newNative);
 }
 
 function getChannelBanner() {
-  console.log(chalk.request('Enter new banner values.\n'));
+  console.log(chalk.request("Enter new banner values.\n"));
   var newBanner = {};
 
   newBanner.name = readlineSync.question("Channel Name: ");
@@ -59,11 +61,25 @@ function getChannelBanner() {
   addJSON(newBanner);
 }
 
+function checkForDuplicates(newEntry) {
+  var adEntries = JSON.parse(file.data);
+  var numOfDuplicates = 0;
+  adEntries.forEach(function(oldEntry) {
+    if (newEntry.date == oldEntry.date && newEntry.newsletter == oldEntry.newsletter) {
+      console.log(chalk.error("There is already a sponsor for this date. Please contact Sales and notify."));
+      numOfDuplicates++;
+    }
+  });
+
+  if (numOfDuplicates === 0) {
+    addJSON(newEntry);
+  }
+}
+
 function addJSON(newEntry) {
-  file.data = JSON.parse(file.data);
-  file.data.push(newEntry);
-  file.data = JSON.stringify(file.data, null, 2); // beautifies JSON string output
-  // console.log(file.data);
+  var adEntries = JSON.parse(file.data);
+  adEntries.push(newEntry);
+  file.data = JSON.stringify(adEntries, null, 2); // beautifies JSON string output
   fileSave.fileSave(file, "unminified", "\nNew entry added to " + file.name + ".");
 }
 
