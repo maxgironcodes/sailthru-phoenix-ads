@@ -33,13 +33,13 @@ function filterJSON() {
   if (outdated.length > 0) {
     getConsent(outdated);
   } else {
-    console.log("All entries are up-to-date.");
+    console.log(chalk.success("All entries are up-to-date."));
   }
 }
 
 
 function getConsent(outdated) {
-  console.log("These entries are outdated: \n");
+  console.log(chalk.request("These entries are outdated: \n"));
 
   for (var index = 0; index < outdated.length; index++) {
     if (file.name == "sponsor_natives") {
@@ -47,16 +47,16 @@ function getConsent(outdated) {
     } else if (file.name == "sponsor_banners") {
       console.log("- " + file.data[outdated[index]].date + " " + file.data[outdated[index]].url + "\n");
     } else {
-      console.log("Error: Could not get file name.");
+      console.log(chalk.error("Error: Could not get file name."));
     }
   }
 
-  if (readlineSync.keyInYN("Delete these entries?")) {
+  if (readlineSync.keyInYN(chalk.request("Delete these entries?"))) {
     // Yes
     deleteOld(outdated);
   } else {
     // No or Other
-    console.log("Okay, entries preserved.");
+    console.log(chalk.success("Okay, entries preserved."));
   }
 }
 
@@ -70,9 +70,9 @@ function deleteOld(outdated) {
 
   // NOTE: Must check if entry was actually deleted...
   if (total == 1) {
-    console.log(total + " entry deleted.");
+    console.log(chalk.success(total + " entry deleted."));
   } else {
-    console.log(total + " entries deleted.");
+    console.log(chalk.success(total + " entries deleted."));
   }
 
   file.data = JSON.stringify(file.data, null, 2); // beautifies JSON string output
