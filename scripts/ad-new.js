@@ -33,7 +33,7 @@ function getSponsorNative() {
   newNative.image = readlineSync.question("Image URL: ");
 
   // addJSON(newNative);
-  checkForDuplicates(newNative);
+  checkForConflict(newNative);
 }
 
 function getSponsorBanner() {
@@ -47,7 +47,7 @@ function getSponsorBanner() {
   newBanner.image = readlineSync.question("Image URL: ");
 
   // addJSON(newBanner);
-  checkForDuplicates(newNative);
+  checkForConflict(newNative);
 }
 
 function getChannelBanner() {
@@ -61,7 +61,7 @@ function getChannelBanner() {
   addJSON(newBanner);
 }
 
-function checkForDuplicates(newEntry) {
+function checkForConflict(newEntry) {
   var adEntries = JSON.parse(file.data);
   var numOfDuplicates = 0;
   adEntries.forEach(function(oldEntry) {
