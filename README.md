@@ -57,7 +57,7 @@ Looks for the minified version of the selected file and wraps it around a Zephyr
 ------------------------------------------
 
 ### 6. Run "Test"
-Send an email using the test versions of the AM / PM templates. **Multiple emails are now be separated by commas.** (Comma-separated certainly feels more natural; working on it!)
+Send an email using the test versions of the AM / PM templates. **Multiple emails are now be separated by commas.**
 
 ------------------------------------------
 
