@@ -50,7 +50,11 @@ function initTest() {
 
   console.log(chalk.request("Enter recipient email(s) for test.\n"));
   var recipients = readlineSync.promptCL();
-  console.log(chalk.success(recipients));
+
+  // Strip commas in recipients
+  for(i = 0; i < recipients.length; i++) {
+    recipients[i] = recipients[i].replace(/,/g, '');
+  }
 
   var other = {
     "vars": {
