@@ -39,20 +39,23 @@ function pushInclude(newInclude) {
 }
 
 function initTest() {
-  console.log(chalk.request("Enter recipient email(s) for test.\n"));
-  var recipients = readlineSync.promptCL();
-  // console.log(chalk.success("You entered:\n" + recipients));
-  console.log(chalk.success(recipients));
+  var testDate = readlineSync.question("Enter date (MM/dd/yy): ");
+  console.log(chalk.success("You entered: " + testDate));
 
   var template = readlineSync.question("Use AM or PM template? ");
   console.log(chalk.success("You entered: " + template));
 
-  var testDate = readlineSync.question("Enter date (MM/dd/yy): ");
-  console.log(chalk.success("You entered: " + testDate));
+  var subject = readlineSync.question("Enter the subject line (project name): ");
+  console.log(chalk.success("You entered: " + subject));
+
+  console.log(chalk.request("Enter recipient email(s) for test.\n"));
+  var recipients = readlineSync.promptCL();
+  console.log(chalk.success(recipients));
 
   var other = {
     "vars": {
-      "todays_date": testDate
+      "todays_date": testDate,
+      "subject": subject
     },
     "options": {
       "test": 1
