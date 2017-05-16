@@ -47,7 +47,7 @@ function getSponsorBanner() {
   newBanner.image = readlineSync.question("Image URL: ");
 
   // addJSON(newBanner);
-  checkForConflict(newNative);
+  checkForConflict(newBanner);
 }
 
 function getChannelBanner() {
