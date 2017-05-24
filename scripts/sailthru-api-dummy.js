@@ -6,9 +6,10 @@ var apiSecret = "ENTER API SECRET";
 var sailthru = require("sailthru-client").createSailthruClient(apiKey, apiSecret);
 var readlineSync = require("readline-sync");
 var chalk = require("./console-colors.js");
-var thisMinFile = {};
 
 function initPush(minFile) {
+  var thisMinFile = {};
+
   if (minFile) {
     thisMinFile = minFile;
   }
@@ -24,37 +25,45 @@ function initPush(minFile) {
     content_app: null
   };
 
-  pushInclude(newInclude);
+  pushInclude(newInclude, thisMinFile.name);
 }
 
-function pushInclude(newInclude) {
+function pushInclude(newInclude, includeName) {
   sailthru.apiPost("include", newInclude, function(err, response) {
     if (err) {
       console.log(chalk.error("Error: " + err.message));
     } else {
       console.log(chalk.success("The file was uploaded to Sailthru."));
-      console.log(chalk.success("Sailthru include is named phoenix_" + thisMinFile.name + "."));
+      console.log(chalk.success("Sailthru include is named phoenix_" + includeName + "."));
     }
   });
 }
 
-function initTest() {
-  var testDate = readlineSync.question("Enter date (MM/dd/yy): ");
-  var template = readlineSync.question("Use AM or PM template? ");
-  var subject = readlineSync.question("Enter the subject line (project name): ");
-  
-  console.log(chalk.request("Enter recipient email(s) for test.\n"));
-  var recipients = readlineSync.promptCL();
+function initTest(newEntry) {
+  var test = {};
 
-  // Strip commas in recipients
-  for(i = 0; i < recipients.length; i++) {
-    recipients[i] = recipients[i].replace(/,/g, '');
+  if (newEntry) {
+    test.date = newEntry.date;
+    test.template = newEntry.newsletter;
+  } else {
+    test.date = readlineSync.question("Enter date (MM/dd/yy): ");
+    test.template = readlineSync.question("Use AM or PM template? ");
+  }
+
+  test.subject = readlineSync.question("Enter the subject line: ");
+
+  console.log(chalk.request("Enter recipient email(s) for test.\n"));
+  test.recipients = readlineSync.promptCL();
+
+  // Strip commas in test.recipients
+  for(i = 0; i < test.recipients.length; i++) {
+    test.recipients[i] = test.recipients[i].replace(/,/g, '');
   }
 
   var other = {
     "vars": {
-      "todays_date": testDate,
-      "subject": subject
+      "todays_date": test.date,
+      "subject": test.subject
     },
     "options": {
       "test": 1
@@ -62,12 +71,12 @@ function initTest() {
     // See https://getstarted.sailthru.com/developers/api/send/#POST_to_Send_Schedule_or_Update for more
   };
 
-  if (template == "AM") {
-    template = "[TEST] Phoenix AM w/ 600x150 Banners + Duplicate Story Prevention";
-    sendTest(template, recipients, other);
-  } else if (template == "PM") {
-    template = "[TEST] Phoenix PM w/ 600x150 Banners + Duplicate Story Prevention";
-    sendTest(template, recipients, other);
+  if (test.template == "AM") {
+    test.template = "[TEST] Phoenix AM w/ 600x150 Banners + Duplicate Story Prevention";
+    sendTest(test.template, test.recipients, other);
+  } else if (test.template == "PM") {
+    test.template = "[TEST] Phoenix PM w/ 600x150 Banners + Duplicate Story Prevention";
+    sendTest(test.template, test.recipients, other);
   } else {
     console.log(chalk.error("Did not recognize template."));
   }

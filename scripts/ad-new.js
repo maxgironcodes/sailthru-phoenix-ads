@@ -9,14 +9,14 @@ function init(thisFile) {
   } else {
     file = require("./file-get.js").fileGet();
   }
-  chooseAdType();
+  return chooseAdType();
 }
 
 function chooseAdType() {
   if (file.name == "sponsor_natives") {
-    getSponsorNative();
+    return getSponsorNative();
   } else if (file.name == "sponsor_banners") {
-    getSponsorBanner();
+     return getSponsorBanner();
   } else if (file.name == "channel_banners") {
     getChannelBanner();
   }
@@ -33,7 +33,7 @@ function getSponsorNative() {
   newNative.image = readlineSync.question("Image URL: ");
 
   // addJSON(newNative);
-  checkForConflict(newNative);
+  return checkForConflict(newNative);
 }
 
 function getSponsorBanner() {
@@ -47,7 +47,7 @@ function getSponsorBanner() {
   newBanner.image = readlineSync.question("Image URL: ");
 
   // addJSON(newBanner);
-  checkForConflict(newBanner);
+  return checkForConflict(newBanner);
 }
 
 function getChannelBanner() {
@@ -73,6 +73,9 @@ function checkForConflict(newEntry) {
 
   if (numOfDuplicates === 0) {
     addJSON(newEntry);
+    return newEntry;
+  } else {
+    return false;
   }
 }
 
