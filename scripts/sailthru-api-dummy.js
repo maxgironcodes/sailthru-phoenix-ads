@@ -40,14 +40,9 @@ function pushInclude(newInclude) {
 
 function initTest() {
   var testDate = readlineSync.question("Enter date (MM/dd/yy): ");
-  console.log(chalk.success("You entered: " + testDate));
-
   var template = readlineSync.question("Use AM or PM template? ");
-  console.log(chalk.success("You entered: " + template));
-
   var subject = readlineSync.question("Enter the subject line (project name): ");
-  console.log(chalk.success("You entered: " + subject));
-
+  
   console.log(chalk.request("Enter recipient email(s) for test.\n"));
   var recipients = readlineSync.promptCL();
 
