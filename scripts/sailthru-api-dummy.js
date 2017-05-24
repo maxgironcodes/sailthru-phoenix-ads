@@ -33,7 +33,7 @@ function pushInclude(newInclude) {
       console.log(chalk.error("Error: " + err.message));
     } else {
       console.log(chalk.success("The file was uploaded to Sailthru."));
-      console.log("Sailthru include is named phoenix_" + thisMinFile.name + ".");
+      console.log(chalk.success("Sailthru include is named phoenix_" + thisMinFile.name + "."));
     }
   });
 }
