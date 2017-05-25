@@ -1,7 +1,7 @@
 {
-  "name": "json-phoenix-ads",
+  "name": "sailthru-phoenix-ads",
   "version": "1.0.0",
-  "description": "A NodeJS environment for TheBlaze's daily newsletters",
+  "description": "A NodeJS workflow to manage TheBlaze's Daily Newsletter.",
   "main": "index.js",
   "scripts": {
     "start": "node ./scripts/index.js",
@@ -16,7 +16,6 @@
   "license": "ISC",
   "devDependencies": {
     "chalk": "^1.1.3",
-    "minimist": "^1.2.0",
     "node-json-minify": "^1.0.0",
     "readline-sync": "^1.4.7",
     "sailthru-client": "^3.0.2",
