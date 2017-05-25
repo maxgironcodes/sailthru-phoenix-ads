@@ -14,7 +14,7 @@ function init(thisFile) {
 function sortJSON() {
   file.data = JSON.parse(file.data);
   if (file.name == "channel-banners") {
-    file.data = sort(file.data, "name", "asc");
+    file.data = sort(file.data, "channel_name", "asc");
   } else {
     file.data = sort(file.data, "date", "des");
   }

@@ -28,10 +28,10 @@ function getSponsorNative() {
 
   newNative.date = readlineSync.question("Date (MM/dd/yy): ");
   newNative.newsletter = readlineSync.question("Newsletter (AM or PM): ");
-  newNative.headline = readlineSync.question("Headline: ");
-  newNative.sponsor = readlineSync.question("Sponsor Name: ");
-  newNative.url = readlineSync.question("Sponsor URL: ");
-  newNative.image = readlineSync.question("Image URL: ");
+  newNative.headline = readlineSync.question("Headline (Do not escape quotes): ");
+  newNative.sponsor_name = readlineSync.question("Sponsor Name: ");
+  newNative.sponsor_url = readlineSync.question("Sponsor URL: ");
+  newNative.image_url = readlineSync.question("Image URL: ");
 
   // addJSON(newNative);
   return checkForConflict(newNative);
@@ -44,9 +44,9 @@ function getSponsorBanner() {
   newBanner.date = readlineSync.question("Date (MM/dd/yy): ");
   newBanner.newsletter = readlineSync.question("Newsletter (AM or PM): ");
   newBanner.position = readlineSync.question("Position (Top, Bottom, or Both): ");
-  newBanner.sponsor = readlineSync.question("Sponsor Name: ");
-  newBanner.url = readlineSync.question("Sponsor URL: ");
-  newBanner.image = readlineSync.question("Image URL: ");
+  newBanner.sponsor_name = readlineSync.question("Sponsor Name: ");
+  newBanner.sponsor_url = readlineSync.question("Sponsor URL: ");
+  newBanner.image_url = readlineSync.question("Image URL: ");
 
   // addJSON(newBanner);
   return checkForConflict(newBanner);
@@ -56,9 +56,9 @@ function getChannelBanner() {
   console.log(chalk.request("Enter new banner values.\n"));
   var newBanner = {};
 
-  newBanner.name = readlineSync.question("Channel Name: ");
-  newBanner.url = readlineSync.question("Channel URL: ");
-  newBanner.image = readlineSync.question("Image URL: ");
+  newBanner.channel_name = readlineSync.question("Channel Name: ");
+  newBanner.channel_url = readlineSync.question("Channel URL: ");
+  newBanner.image_url = readlineSync.question("Image URL: ");
 
   addJSON(newBanner);
 }
