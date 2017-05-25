@@ -16,7 +16,7 @@ function chooseAdType() {
   if (file.name == "sponsor_natives") {
     return getSponsorNative();
   } else if (file.name == "sponsor_banners") {
-     return getSponsorBanner();
+    return getSponsorBanner();
   } else if (file.name == "channel_banners") {
     getChannelBanner();
   }
