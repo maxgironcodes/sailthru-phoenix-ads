@@ -44,11 +44,12 @@
     "image": "https://media.sailthru.com/3ia/1k1/5/p/59271e40dd6d3.jpg"
   },
   {
-    "date": "05/25/17",
+    "date": "05/26/17",
     "newsletter": "PM",
-    "headline": "Google won’t dare show this, enter your name to see what site posts about you",
-    "url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=heather_5.25",
-    "image": "https://media.sailthru.com/3ia/1k1/5/n/59248e2096f09.jpg"
+    "headline": "The unbelievably sharp Smith & Wesson knife. Be ready for anything",
+    "sponsor": "JRWA",
+    "url": "https://scienceofskill.com/smith-wesson-special/?utm_campaign=jrwa-the-blaze&utm_medium=paid-email&utm_source=email&utm_content=knifebanner&utm_term=05_26_17",
+    "image": "https://media.sailthru.com/3ia/1k1/5/p/592752ba7ff49.png"
   },
   {
     "date": "05/25/17",
@@ -58,11 +59,11 @@
     "image": "https://media.sailthru.com/3ia/1k1/5/o/59259bf6361cd.jpg"
   },
   {
-    "date": "05/24/17",
-    "newsletter": "AM",
-    "headline": "Florida man reveals his secret to collecting an extra $1,038 every week",
-    "url": "http://tracking.lifestylejournal.com/aff_c?offer_id=859&aff_id=1346&sub=blz&pub=nwsl",
-    "image": "https://media.sailthru.com/3ia/1k1/5/n/592489998943a.jpg"
+    "date": "05/25/17",
+    "newsletter": "PM",
+    "headline": "Google won’t dare show this, enter your name to see what site posts about you",
+    "url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=heather_5.25",
+    "image": "https://media.sailthru.com/3ia/1k1/5/n/59248e2096f09.jpg"
   },
   {
     "date": "05/24/17",
@@ -70,6 +71,13 @@
     "headline": "Balloons and cookies won't sell your home",
     "url": "http://www.realestateagentsitrust.com/",
     "image": "https://media.sailthru.com/3ia/1k1/5/a/59133e2edddbb.jpg"
+  },
+  {
+    "date": "05/24/17",
+    "newsletter": "AM",
+    "headline": "Florida man reveals his secret to collecting an extra $1,038 every week",
+    "url": "http://tracking.lifestylejournal.com/aff_c?offer_id=859&aff_id=1346&sub=blz&pub=nwsl",
+    "image": "https://media.sailthru.com/3ia/1k1/5/n/592489998943a.jpg"
   },
   {
     "date": "05/23/17",
@@ -94,24 +102,17 @@
   },
   {
     "date": "05/21/17",
-    "newsletter": "PM",
-    "headline": "Stunning truth about neuropathy nerve pain",
-    "url": "http://tracking.lifestylejournal.com/aff_c?offer_id=855&aff_id=1346&sub=blz&pub=nwsl",
-    "image": "https://media.sailthru.com/3ia/1k1/5/j/591f3a2319b5f.jpg"
-  },
-  {
-    "date": "05/21/17",
     "newsletter": "AM",
     "headline": "You’ll never guess who’s declaring Obama as the greatest President of all time",
     "url": "https://awb.iljmp.com/19/5-21-obama-greatest-the-blaze-cs-poa-r2r",
     "image": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
   },
   {
-    "date": "05/20/17",
+    "date": "05/21/17",
     "newsletter": "PM",
-    "headline": "Top U.S. companies are waging war on OPEC",
-    "url": "http://mmptrack.com/click.track?CID=399496&AFID=417059&ADID=1917222&SID=blaze-nativenl_052017&iris=679677",
-    "image": "https://media.sailthru.com/3ia/1k1/5/i/591de5dd7c9e9.jpg"
+    "headline": "Stunning truth about neuropathy nerve pain",
+    "url": "http://tracking.lifestylejournal.com/aff_c?offer_id=855&aff_id=1346&sub=blz&pub=nwsl",
+    "image": "https://media.sailthru.com/3ia/1k1/5/j/591f3a2319b5f.jpg"
   },
   {
     "date": "05/20/17",
@@ -121,11 +122,11 @@
     "image": "https://media.sailthru.com/3ia/1k1/4/r/5902629d56250.jpg"
   },
   {
-    "date": "05/19/17",
-    "newsletter": "AM",
-    "headline": "Outlawed pill for pain and anxiety? Legal in all 50 states now available without prescription?",
-    "url": "http://tracking.lifestylejournal.com/aff_c?offer_id=857&aff_id=1346&sub=blz&pub=nwsl",
-    "image": "https://media.sailthru.com/3ia/1k1/5/9/59121bc07a5e9.jpg"
+    "date": "05/20/17",
+    "newsletter": "PM",
+    "headline": "Top U.S. companies are waging war on OPEC",
+    "url": "http://mmptrack.com/click.track?CID=399496&AFID=417059&ADID=1917222&SID=blaze-nativenl_052017&iris=679677",
+    "image": "https://media.sailthru.com/3ia/1k1/5/i/591de5dd7c9e9.jpg"
   },
   {
     "date": "05/19/17",
@@ -135,11 +136,11 @@
     "image": "https://media.sailthru.com/3ia/1k1/5/i/591e1193b7999.jpg"
   },
   {
-    "date": "05/18/17",
+    "date": "05/19/17",
     "newsletter": "AM",
-    "headline": "How to avoid fake, mafia-made olive oil",
-    "url": "https://www.freshpressedoliveoil.com/c/SATB006_NA_Q217/transition",
-    "image": "https://media.sailthru.com/3ia/1k1/5/c/5915d331b9a2e.jpg"
+    "headline": "Outlawed pill for pain and anxiety? Legal in all 50 states now available without prescription?",
+    "url": "http://tracking.lifestylejournal.com/aff_c?offer_id=857&aff_id=1346&sub=blz&pub=nwsl",
+    "image": "https://media.sailthru.com/3ia/1k1/5/9/59121bc07a5e9.jpg"
   },
   {
     "date": "05/18/17",
@@ -147,6 +148,13 @@
     "headline": "Stop stressing and connect with our agents today!",
     "url": "http://www.realestateagentsitrust.com/",
     "image": "https://media.sailthru.com/3ia/1k1/5/9/59121d2c7b31a.jpg"
+  },
+  {
+    "date": "05/18/17",
+    "newsletter": "AM",
+    "headline": "How to avoid fake, mafia-made olive oil",
+    "url": "https://www.freshpressedoliveoil.com/c/SATB006_NA_Q217/transition",
+    "image": "https://media.sailthru.com/3ia/1k1/5/c/5915d331b9a2e.jpg"
   },
   {
     "date": "05/17/17",
