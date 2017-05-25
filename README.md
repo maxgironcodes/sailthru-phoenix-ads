@@ -13,7 +13,7 @@ Here's a list of available commands:
 4. `npm run filter`
 5. `npm run push`&#42;
 6. `npm run test`&#42;
-7. `npm start`
+7. `npm start`&#42;
 
 All commands (except test) will ask you to select a JSON file from the ads/ folder:
 
@@ -62,7 +62,7 @@ Send an email using the test versions of the AM / PM templates. **Multiple email
 ------------------------------------------
 
 ### 7. "Start"
-Runs commands 1-3 and asks whether to push the result to production.
+Runs all commands back-to-back, except for filter.
 
 ------------------------------------------
 
