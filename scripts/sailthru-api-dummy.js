@@ -45,12 +45,15 @@ function initTest(newEntry) {
   if (newEntry) {
     test.date = newEntry.date;
     test.template = newEntry.newsletter;
+    test.subject =
+      newEntry.date + " " +
+      newEntry.newsletter + " " +
+      newEntry.sponsor + " ";
   } else {
     test.date = readlineSync.question("Enter date (MM/dd/yy): ");
     test.template = readlineSync.question("Use AM or PM template? ");
+    test.subject = readlineSync.question("Enter the subject line: "); // Enter manually
   }
-
-  test.subject = readlineSync.question("Enter the subject line: ");
 
   console.log(chalk.request("Enter recipient email(s) for test.\n"));
   test.recipients = readlineSync.promptCL();
@@ -80,6 +83,8 @@ function initTest(newEntry) {
   } else {
     console.log(chalk.error("Did not recognize template."));
   }
+
+  return test.subject;
 }
 
 function sendTest(template, recipients, options) {
