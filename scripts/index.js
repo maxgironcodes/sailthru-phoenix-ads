@@ -2,7 +2,7 @@ var file = require("./file-get.js").fileGet();
 var readlineSync = require("readline-sync");
 var chalk = require("./console-colors.js");
 var sailthruAPI = require("./sailthru-api.js");
-var nodeCMD = require("node-run-cmd");
+var simpleGit = require("simple-git")();
 
 if (file) {
   var adNew = require("./ad-new.js");
@@ -13,9 +13,9 @@ if (file) {
     var adMinify = require("./ad-minify.js").init(file);
 
     setTimeout(function() {
-      requestGitHubPush();
-      // requestSailthruPush();
-      // requestSailthruTest();
+      // requestGitHubPush();
+      requestSailthruPush();
+      requestSailthruTest();
     }, 200);
   }
 }
@@ -34,7 +34,8 @@ function requestGitHubPush() {
   if (readlineSync.keyInYN(chalk.request("Push data to GitHub?"))) {
     // Yes
     newEntry.project = readlineSync.question("Enter project name: ");
-    nodeCMD.run("git commit -a -m " + newEntry.project);
+    simpleGit.commit(newEntry.project);
+    simpleGit.push('origin', 'append-git-push-to-start');
   } else {
     // No or Other
     console.log(chalk.success("Okay..."));
@@ -44,6 +45,7 @@ function requestGitHubPush() {
 function requestSailthruTest() {
   if (readlineSync.keyInYN(chalk.request("Send test?"))) {
     // Yes
+    newEntry.project = readlineSync.question("Enter project name: ");
     sailthruAPI.initTest(newEntry);
   } else {
     // No or Other
