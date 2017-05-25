@@ -29,6 +29,7 @@ function getSponsorNative() {
   newNative.date = readlineSync.question("Date (MM/dd/yy): ");
   newNative.newsletter = readlineSync.question("Newsletter (AM or PM): ");
   newNative.headline = readlineSync.question("Headline: ");
+  newNative.sponsor = readlineSync.question("Sponsor Name: ");
   newNative.url = readlineSync.question("Sponsor URL: ");
   newNative.image = readlineSync.question("Image URL: ");
 
@@ -43,6 +44,7 @@ function getSponsorBanner() {
   newBanner.date = readlineSync.question("Date (MM/dd/yy): ");
   newBanner.newsletter = readlineSync.question("Newsletter (AM or PM): ");
   newBanner.position = readlineSync.question("Position (Top, Bottom, or Both): ");
+  newBanner.sponsor = readlineSync.question("Sponsor Name: ");
   newBanner.url = readlineSync.question("Sponsor URL: ");
   newBanner.image = readlineSync.question("Image URL: ");
 

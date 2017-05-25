@@ -19,7 +19,6 @@
     "node-json-minify": "^1.0.0",
     "readline-sync": "^1.4.7",
     "sailthru-client": "^3.0.2",
-    "simple-git": "^1.73.0",
     "sort-json-array": "^0.1.7"
   }
 }

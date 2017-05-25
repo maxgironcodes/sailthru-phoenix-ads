@@ -2,7 +2,6 @@ var file = require("./file-get.js").fileGet();
 var readlineSync = require("readline-sync");
 var chalk = require("./console-colors.js");
 var sailthruAPI = require("./sailthru-api.js");
-var simpleGit = require("simple-git")();
 
 if (file) {
   var adNew = require("./ad-new.js");
@@ -30,22 +29,9 @@ function requestSailthruPush() {
   }
 }
 
-function requestGitHubPush() {
-  if (readlineSync.keyInYN(chalk.request("Push data to GitHub?"))) {
-    // Yes
-    newEntry.project = readlineSync.question("Enter project name: ");
-    simpleGit.commit(newEntry.project);
-    simpleGit.push('origin', 'append-git-push-to-start');
-  } else {
-    // No or Other
-    console.log(chalk.success("Okay..."));
-  }
-}
-
 function requestSailthruTest() {
   if (readlineSync.keyInYN(chalk.request("Send test?"))) {
     // Yes
-    newEntry.project = readlineSync.question("Enter project name: ");
     sailthruAPI.initTest(newEntry);
   } else {
     // No or Other
