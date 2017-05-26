@@ -3,42 +3,7 @@
     "date": "05/25/17",
     "newsletter": "AM",
     "position": "Both",
-    "url": "http://gfg.thegoldfinancialgroup.com/banks-tb/",
-    "image": "https://media.sailthru.com/3ia/1k1/5/m/5922fa75c7e6a.jpg"
-  },
-  {
-    "date": "05/24/17",
-    "newsletter": "AM",
-    "position": "Both",
-    "url": "http://gfg.thegoldfinancialgroup.com/ira-tb/",
-    "image": "https://media.sailthru.com/3ia/1k1/5/m/5922f97f82463.jpg"
-  },
-  {
-    "date": "05/23/17",
-    "newsletter": "AM",
-    "position": "Both",
-    "url": "http://www.trackmds.com/aff_c?offer_id=256&aff_id=2&aff_sub=theblazespons052317",
-    "image": "https://media.sailthru.com/3ia/1k1/5/m/59233df764260.png"
-  },
-  {
-    "date": "05/18/17",
-    "newsletter": "AM",
-    "position": "Top",
-    "url": "https://offers.learcapital.com/a/jgroup/bg_wwwlearcapitalcom_LearCap-tblz-modular-185_305.html?src=tblz&cmp=nlspon&trg=nlspon600t&tfn=3165&msg=mod185slvr3i&ads=600&prd=slvr&crt=3isbsr&chl=3pe",
-    "image": "https://media.sailthru.com/3ia/1k1/5/a/591332f592f38.jpg"
-  },
-  {
-    "date": "05/18/17",
-    "newsletter": "AM",
-    "position": "Bottom",
-    "url": "https://offers.learcapital.com/a/jgroup/bg_wwwlearcapitalcom_LearCap-tblz-modular-185_305.html?src=tblz&cmp=nlspon&trg=nlspon600b&tfn=3165&msg=mod185slvr3i&ads=600&prd=slvr&crt=3isbsr&chl=3pe",
-    "image": "https://media.sailthru.com/3ia/1k1/5/a/591332f592f38.jpg"
-  },
-  {
-    "date": "05/18/17",
-    "newsletter": "PM",
-    "position": "Both",
-    "url": "https://preparewith.com/Blaze.Dly-40DayFoodKit.w.Silver",
-    "image": "https://media.sailthru.com/3ia/1k1/5/g/591b3ab7eaf70.jpg"
+    "sponsor_url": "http://gfg.thegoldfinancialgroup.com/banks-tb/",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/m/5922fa75c7e6a.jpg"
   }
 ]

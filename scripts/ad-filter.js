@@ -45,7 +45,7 @@ function getConsent(outdated) {
     if (file.name == "sponsor_natives") {
       console.log("- " + file.data[outdated[index]].date + " " + file.data[outdated[index]].headline + "\n");
     } else if (file.name == "sponsor_banners") {
-      console.log("- " + file.data[outdated[index]].date + " " + file.data[outdated[index]].url + "\n");
+      console.log("- " + file.data[outdated[index]].date + " " + file.data[outdated[index]].sponsor_url + "\n");
     } else {
       console.log(chalk.error("Error: Could not get file name."));
     }
