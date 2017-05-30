@@ -33,8 +33,8 @@ function pushInclude(newInclude, includeName) {
     if (err) {
       console.log(chalk.error("Error: " + err.message));
     } else {
-      console.log(chalk.success("The file was uploaded to Sailthru."));
-      console.log(chalk.success("Sailthru include is named phoenix_" + includeName + "."));
+      console.log(chalk.success("The file was uploaded to Sailthru.\nSailthru include is named phoenix_" + includeName + "."));
+      console.log(chalk.error("Please commit to GitHub."));
     }
   });
 }
@@ -48,7 +48,7 @@ function initTest(newEntry) {
     test.subject =
       newEntry.date + " " +
       newEntry.newsletter + " " +
-      newEntry.sponsor + " ";
+      newEntry.sponsor_name + " ";
   } else {
     test.date = readlineSync.question("Enter date (MM/dd/yy): ");
     test.template = readlineSync.question("Use AM or PM template? ");
@@ -83,8 +83,6 @@ function initTest(newEntry) {
   } else {
     console.log(chalk.error("Did not recognize template."));
   }
-
-  return test.subject;
 }
 
 function sendTest(template, recipients, options) {

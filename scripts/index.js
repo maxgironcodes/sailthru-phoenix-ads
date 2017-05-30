@@ -25,7 +25,7 @@ function requestSailthruPush() {
     sailthruAPI.initPush(file);
   } else {
     // No or Other
-    console.log(chalk.success("Okay..."));
+    console.log(chalk.success("Okay, skipped push."));
   }
 }
 
@@ -35,6 +35,6 @@ function requestSailthruTest() {
     sailthruAPI.initTest(newEntry);
   } else {
     // No or Other
-    console.log(chalk.success("Okay, no test was sent."));
+    console.log(chalk.success("Okay, skipped test."));
   }
 }
