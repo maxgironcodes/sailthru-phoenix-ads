@@ -9,19 +9,19 @@
   },
   {
     "date": "06/02/17",
+    "newsletter": "PM",
+    "headline": "The end of Facebook?",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=124&aff_id=2&aff_sub=theblazanewsnative060217",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/v/592f375c4ac30.png"
+  },
+  {
+    "date": "06/02/17",
     "newsletter": "AM",
     "headline": "Banks get approval to seize your money and bank deposits",
     "sponsor_name": "Gold Financial Group",
     "sponsor_url": "http://gfg.thegoldfinancialgroup.com/banks-tb/",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/v/592f35fc8ddf5.jpg"
-  },
-  {
-    "date": "06/01/17",
-    "newsletter": "PM",
-    "headline": "Balloons & cookies won't sell your home",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "06/01/17",
@@ -32,12 +32,12 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/q/5928aea059905.jpg"
   },
   {
-    "date": "05/31/17",
-    "newsletter": "AM",
-    "headline": "You won't believe what this new search engine can uncover, enter name",
-    "sponsor_name": "Truth Finder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=kim_5.31",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/q/592833ec7d14b.jpg"
+    "date": "06/01/17",
+    "newsletter": "PM",
+    "headline": "Balloons & cookies won't sell your home",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "05/31/17",
@@ -46,6 +46,14 @@
     "sponsor_name": "JRWA",
     "sponsor_url": "https://scienceofskill.com/smith-wesson-special/?utm_campaign=jrwa-the-blaze&utm_medium=paid-email&utm_source=email&utm_content=knifebanner&utm_term=05_26_17",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/p/592752ba7ff49.png"
+  },
+  {
+    "date": "05/31/17",
+    "newsletter": "AM",
+    "headline": "You won't believe what this new search engine can uncover, enter name",
+    "sponsor_name": "Truth Finder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=kim_5.31",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/q/592833ec7d14b.jpg"
   },
   {
     "date": "05/30/17",
