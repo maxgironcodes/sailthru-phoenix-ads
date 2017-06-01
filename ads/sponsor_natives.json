@@ -8,6 +8,14 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/1/59303028e38b0.png"
   },
   {
+    "date": "06/05/17",
+    "newsletter": "AM",
+    "headline": "Have you looked your name up? Americans urged to search their name on site",
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=heather_6.5",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/1/5930315ed7f59.jpg"
+  },
+  {
     "date": "06/03/17",
     "newsletter": "AM",
     "headline": "One tablespoon of this may keep your blood sugar below 100 mg/dl",
@@ -65,19 +73,19 @@
   },
   {
     "date": "05/30/17",
-    "newsletter": "AM",
-    "headline": "Voters are \"rattled\" by this new website",
-    "sponsor_name": "Media Force",
-    "sponsor_url": "http://tracking.lifestylejournal.com/aff_c?offer_id=183&aff_id=1346&aff_sub=blz&aff_sub2=nwsl",
-    "image_url": "https://media.sailthru.com/3ia/1k1/4/a/58eba12032910.jpg"
-  },
-  {
-    "date": "05/30/17",
     "newsletter": "PM",
     "headline": "How to fix your fatigue. Do this everyday",
     "sponsor_name": "Golden Hippo",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=852645",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/p/5927353fc59f9.jpg"
+  },
+  {
+    "date": "05/30/17",
+    "newsletter": "AM",
+    "headline": "Voters are \"rattled\" by this new website",
+    "sponsor_name": "Media Force",
+    "sponsor_url": "http://tracking.lifestylejournal.com/aff_c?offer_id=183&aff_id=1346&aff_sub=blz&aff_sub2=nwsl",
+    "image_url": "https://media.sailthru.com/3ia/1k1/4/a/58eba12032910.jpg"
   },
   {
     "date": "05/29/17",
