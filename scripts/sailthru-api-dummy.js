@@ -34,6 +34,7 @@ function pushInclude(newInclude, includeName) {
       console.log(chalk.error("Error: " + err.message));
     } else {
       console.log(chalk.success("The file was uploaded to Sailthru.\nSailthru include is named phoenix_" + includeName + "."));
+      console.log(chalk.error("Please push new entry to GitHub."));
     }
   });
 }
