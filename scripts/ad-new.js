@@ -28,8 +28,8 @@ function getSponsorNative() {
 
   newNative.date = readlineSync.question("Date (MM/dd/yy): ");
   newNative.newsletter = readlineSync.question("Newsletter (AM or PM): ");
-  newNative.headline = readlineSync.question("Headline (Do not escape quotes): ");
   newNative.sponsor_name = readlineSync.question("Sponsor Name: ");
+  newNative.headline = readlineSync.question("Headline (Do not escape quotes): ");
   newNative.sponsor_url = readlineSync.question("Sponsor URL: ");
   newNative.image_url = readlineSync.question("Image URL: ");
 
@@ -43,10 +43,10 @@ function getSponsorBanner() {
 
   newBanner.date = readlineSync.question("Date (MM/dd/yy): ");
   newBanner.newsletter = readlineSync.question("Newsletter (AM or PM): ");
-  newBanner.position = readlineSync.question("Position (Top, Bottom, or Both): ");
   newBanner.sponsor_name = readlineSync.question("Sponsor Name: ");
   newBanner.sponsor_url = readlineSync.question("Sponsor URL: ");
   newBanner.image_url = readlineSync.question("Image URL: ");
+  newBanner.position = readlineSync.question("Position (Top, Bottom, or Both): ");
 
   // addJSON(newBanner);
   return checkForConflict(newBanner);

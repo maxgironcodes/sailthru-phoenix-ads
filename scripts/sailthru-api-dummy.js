@@ -51,7 +51,11 @@ function initTest(newEntry) {
   } else {
     test.date = readlineSync.question("Enter date (MM/dd/yy): ");
     test.template = readlineSync.question("Use AM or PM template? ");
-    test.subject = readlineSync.question("Enter the subject line: "); // Enter manually
+    test.sponsor_name = readlineSync.question("Sponsor Name: ");
+    test.subject =
+      test.date + " " +
+      test.newsletter + " " +
+      test.sponsor_name + " ";
   }
 
   console.log(chalk.request("Enter recipient email(s) for test.\n"));
