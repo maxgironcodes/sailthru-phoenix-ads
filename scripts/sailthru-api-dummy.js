@@ -55,7 +55,7 @@ function initTest(newEntry) {
     test.sponsor_name = readlineSync.question("Sponsor Name: ");
     test.subject =
       test.date + " " +
-      test.newsletter + " " +
+      test.template + " " +
       test.sponsor_name + " ";
   }
 
