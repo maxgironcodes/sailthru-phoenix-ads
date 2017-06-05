@@ -28,9 +28,10 @@ function getSponsorNative() {
 
   newNative.date = readlineSync.question("Date (MM/dd/yy): ");
   newNative.newsletter = readlineSync.question("Newsletter (AM or PM): ");
+  newBanner.type = "Native";
   newNative.sponsor_name = readlineSync.question("Sponsor Name: ");
-  newNative.headline = readlineSync.question("Headline (Do not escape quotes): ");
   newNative.sponsor_url = readlineSync.question("Sponsor URL: ");
+  newNative.headline = readlineSync.question("Headline (Do not escape quotes): ");
   newNative.image_url = readlineSync.question("Image URL: ");
 
   // addJSON(newNative);
@@ -43,10 +44,11 @@ function getSponsorBanner() {
 
   newBanner.date = readlineSync.question("Date (MM/dd/yy): ");
   newBanner.newsletter = readlineSync.question("Newsletter (AM or PM): ");
+  newBanner.type = "Banners";
   newBanner.sponsor_name = readlineSync.question("Sponsor Name: ");
   newBanner.sponsor_url = readlineSync.question("Sponsor URL: ");
-  newBanner.image_url = readlineSync.question("Image URL: ");
   newBanner.position = readlineSync.question("Position (Top, Bottom, or Both): ");
+  newBanner.image_url = readlineSync.question("Image URL: ");
 
   // addJSON(newBanner);
   return checkForConflict(newBanner);
@@ -67,9 +69,16 @@ function checkForConflict(newEntry) {
   var adEntries = JSON.parse(file.data);
   var numOfDuplicates = 0;
   adEntries.forEach(function(oldEntry) {
-    if (newEntry.date == oldEntry.date && newEntry.newsletter == oldEntry.newsletter && newEntry.position == false) {
-      console.log(chalk.error("There is already a sponsor for this date. Please contact Sales and notify."));
-      numOfDuplicates++;
+    if (newEntry.date == oldEntry.date && newEntry.newsletter == oldEntry.newsletter) {
+      // If "Native", then count as duplicate
+      if (newEntry.type == "Native") {
+        console.log(chalk.error("There is already a sponsored native for this date. Please contact Sales and notify."));
+        numOfDuplicates++;
+      // Else, assume "Banner" and check for duplicate positions
+      } else if (newEntry.position == oldEntry.position) {
+        console.log(chalk.error("There is already a sponsored banner for this date. Please contact Sales and notify.")); 
+        numOfDuplicates++;
+      }
     }
   });
 
