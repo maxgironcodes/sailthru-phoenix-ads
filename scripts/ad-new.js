@@ -28,7 +28,7 @@ function getSponsorNative() {
 
   newNative.date = readlineSync.question("Date (MM/dd/yy): ");
   newNative.newsletter = readlineSync.question("Newsletter (AM or PM): ");
-  newBanner.type = "Native";
+  newNative.type = "Native";
   newNative.sponsor_name = readlineSync.question("Sponsor Name: ");
   newNative.sponsor_url = readlineSync.question("Sponsor URL: ");
   newNative.headline = readlineSync.question("Headline (Do not escape quotes): ");
@@ -76,7 +76,7 @@ function checkForConflict(newEntry) {
         numOfDuplicates++;
       // Else, assume "Banner" and check for duplicate positions
       } else if (newEntry.position == oldEntry.position) {
-        console.log(chalk.error("There is already a sponsored banner for this date. Please contact Sales and notify.")); 
+        console.log(chalk.error("There is already a sponsored banner for this date. Please contact Sales and notify."));
         numOfDuplicates++;
       }
     }
