@@ -67,7 +67,7 @@ function checkForConflict(newEntry) {
   var adEntries = JSON.parse(file.data);
   var numOfDuplicates = 0;
   adEntries.forEach(function(oldEntry) {
-    if (newEntry.date == oldEntry.date && newEntry.newsletter == oldEntry.newsletter) {
+    if (newEntry.date == oldEntry.date && newEntry.newsletter == oldEntry.newsletter && newEntry.position == false) {
       console.log(chalk.error("There is already a sponsor for this date. Please contact Sales and notify."));
       numOfDuplicates++;
     }
