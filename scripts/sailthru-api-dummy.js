@@ -48,15 +48,18 @@ function initTest(newEntry) {
     test.subject =
       newEntry.date + " " +
       newEntry.newsletter + " " +
-      newEntry.sponsor_name + " ";
+      newEntry.sponsor_name + " (" +
+      newEntry.type + ")";
   } else {
     test.date = readlineSync.question("Enter date (MM/dd/yy): ");
     test.template = readlineSync.question("Use AM or PM template? ");
+    test.type = readlineSync.question("Testing for Native or Banners? ");
     test.sponsor_name = readlineSync.question("Sponsor Name: ");
     test.subject =
       test.date + " " +
       test.template + " " +
-      test.sponsor_name + " ";
+      test.sponsor_name + " (" +
+      test.type + ")";
   }
 
   console.log(chalk.request("Enter recipient email(s) for test.\n"));
