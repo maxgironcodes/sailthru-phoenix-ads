@@ -9,6 +9,15 @@
   },
   {
     "date": "06/10/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=238&aff_id=2&aff_sub=tblazenate061017",
+    "headline": "Fox News fired Megyn Kelly after controversial drug discovery?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939c2e65a116.jpg"
+  },
+  {
+    "date": "06/10/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
@@ -61,14 +70,6 @@
   },
   {
     "date": "06/06/17",
-    "newsletter": "AM",
-    "headline": "What would happen to LA, if Kim pulled the trigger?",
-    "sponsor_name": "JA Banker",
-    "sponsor_url": "http://jackassbanker.com/book-black-storm-curse-on-the-caliphate-volume-ii-a-colt-jackson-thriller-adventure-story/",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/1/59303028e38b0.png"
-  },
-  {
-    "date": "06/06/17",
     "newsletter": "PM",
     "sponsor_name": "MRES",
     "headline": "Dabbling in real estate is a terrible mistake",
@@ -76,12 +77,12 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
-    "date": "06/05/17",
+    "date": "06/06/17",
     "newsletter": "AM",
-    "headline": "Have you looked your name up? Americans urged to search their name on site",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=heather_6.5",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/1/5930315ed7f59.jpg"
+    "headline": "What would happen to LA, if Kim pulled the trigger?",
+    "sponsor_name": "JA Banker",
+    "sponsor_url": "http://jackassbanker.com/book-black-storm-curse-on-the-caliphate-volume-ii-a-colt-jackson-thriller-adventure-story/",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/1/59303028e38b0.png"
   },
   {
     "date": "06/05/17",
@@ -90,6 +91,14 @@
     "headline": "Research reveals 68% of churchgoing men struggle with porn. Here’s how they’re finding freedom. See video",
     "sponsor_url": "https://conquerseries.com?ims=blaze-060517",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/2/59319c3bdca5e.jpg"
+  },
+  {
+    "date": "06/05/17",
+    "newsletter": "AM",
+    "headline": "Have you looked your name up? Americans urged to search their name on site",
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=heather_6.5",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/1/5930315ed7f59.jpg"
   },
   {
     "date": "06/03/17",
