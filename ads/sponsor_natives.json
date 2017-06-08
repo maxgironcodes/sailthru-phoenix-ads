@@ -1,5 +1,14 @@
 [
   {
+    "date": "06/17/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=854078",
+    "headline": "New report reveals 50 million affected, are you?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
+  },
+  {
     "date": "06/15/17",
     "newsletter": "AM",
     "type": "Native",
@@ -7,14 +16,6 @@
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=854075",
     "headline": "New research reveals once daily trick to get rid of belly fat",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d06063bfd.jpg"
-  },
-  {
-    "date": "06/12/17",
-    "newsletter": "PM",
-    "sponsor_name": "Thomas Nelson",
-    "headline": "Discover the untold story of Jackie Robinson",
-    "sponsor_url": "http://42faithbook.com",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/2/5931c06f5696a.jpg"
   },
   {
     "date": "06/12/17",
@@ -26,13 +27,12 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939c764f08e8.jpg"
   },
   {
-    "date": "06/10/17",
+    "date": "06/12/17",
     "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=238&aff_id=2&aff_sub=tblazenate061017",
-    "headline": "Fox News fired Megyn Kelly after controversial drug discovery?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939c2e65a116.jpg"
+    "sponsor_name": "Thomas Nelson",
+    "headline": "Discover the untold story of Jackie Robinson",
+    "sponsor_url": "http://42faithbook.com",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/2/5931c06f5696a.jpg"
   },
   {
     "date": "06/10/17",
@@ -42,6 +42,15 @@
     "sponsor_url": "http://quietmind.plus/?cf=1&aff_id=6&subid=cakeaff_2&s1=blnaneded10Jun17A",
     "headline": "Scientists: Tinnitus has nothing to do with your ears",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/8/59395c22acd90.jpg"
+  },
+  {
+    "date": "06/10/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=238&aff_id=2&aff_sub=tblazenate061017",
+    "headline": "Fox News fired Megyn Kelly after controversial drug discovery?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939c2e65a116.jpg"
   },
   {
     "date": "06/09/17",
@@ -72,14 +81,6 @@
   },
   {
     "date": "06/07/17",
-    "newsletter": "PM",
-    "sponsor_name": "Gold Financial Group",
-    "headline": "Banks get approval to seize your money and bank deposits",
-    "sponsor_url": "http://gfg.thegoldfinancialgroup.com/banks-tb/",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/v/592f35fc8ddf5.jpg"
-  },
-  {
-    "date": "06/07/17",
     "newsletter": "AM",
     "sponsor_name": "Golden Hippo Media",
     "headline": "How to fix your fatigue and get more energy",
@@ -87,12 +88,12 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/5/590cbedfd17e8.jpg"
   },
   {
-    "date": "06/06/17",
+    "date": "06/07/17",
     "newsletter": "PM",
-    "sponsor_name": "MRES",
-    "headline": "Dabbling in real estate is a terrible mistake",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+    "sponsor_name": "Gold Financial Group",
+    "headline": "Banks get approval to seize your money and bank deposits",
+    "sponsor_url": "http://gfg.thegoldfinancialgroup.com/banks-tb/",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/v/592f35fc8ddf5.jpg"
   },
   {
     "date": "06/06/17",
@@ -101,6 +102,14 @@
     "sponsor_name": "JA Banker",
     "sponsor_url": "http://jackassbanker.com/book-black-storm-curse-on-the-caliphate-volume-ii-a-colt-jackson-thriller-adventure-story/",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/1/59303028e38b0.png"
+  },
+  {
+    "date": "06/06/17",
+    "newsletter": "PM",
+    "sponsor_name": "MRES",
+    "headline": "Dabbling in real estate is a terrible mistake",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "06/05/17",
