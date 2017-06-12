@@ -10,12 +10,30 @@
   },
   {
     "date": "06/12/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=60&aff_id=2&aff_sub=bl0612tambot",
+    "position": "Bottom",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ac35564238.jpg"
+  },
+  {
+    "date": "06/12/17",
     "newsletter": "PM",
     "type": "Banners",
     "sponsor_name": "Mediatonas",
     "sponsor_url": "http://mds.go2cloud.org/aff_c?offer_id=22&aff_id=2&aff_sub=bl0612pmbot",
     "position": "Bottom",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ac521f0ade.jpg"
+  },
+  {
+    "date": "06/12/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=238&aff_id=2&aff_sub=bl0612tamtop",
+    "position": "Top",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ac3136e12e.jpg"
   },
   {
     "date": "06/11/17",
@@ -58,18 +76,18 @@
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=274&aff_id=2&aff_sub=bl0609amtop",
-    "position": "Top",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939a103e0c03.jpg"
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=70&aff_id=2&aff_sub=bl0609ambot",
+    "position": "Bottom",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939a1460cdbd.jpg"
   },
   {
     "date": "06/09/17",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=70&aff_id=2&aff_sub=bl0609ambot",
-    "position": "Bottom",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939a1460cdbd.jpg"
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=274&aff_id=2&aff_sub=bl0609amtop",
+    "position": "Top",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939a103e0c03.jpg"
   },
   {
     "date": "06/08/17",
