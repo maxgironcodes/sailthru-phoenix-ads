@@ -1,21 +1,21 @@
 [
   {
-    "date": "06/12/17",
-    "newsletter": "PM",
-    "type": "Banners",
-    "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=70&aff_id=2&aff_sub=bl0612pmtop",
-    "position": "Top",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ac8d69fdb7.jpg"
-  },
-  {
-    "date": "06/12/17",
+    "date": "06/13/17",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=60&aff_id=2&aff_sub=bl0612tambot",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=380&aff_id=2&aff_sub=bl0613amtop",
+    "position": "Top",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/c/593ea1eaa0b79.jpg"
+  },
+  {
+    "date": "06/13/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=370&aff_id=2&aff_sub=bl0613ambot",
     "position": "Bottom",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ac35564238.jpg"
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/c/593ea22c04df0.jpg"
   },
   {
     "date": "06/12/17",
@@ -31,18 +31,27 @@
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=238&aff_id=2&aff_sub=bl0612tamtop",
-    "position": "Top",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ac3136e12e.jpg"
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=60&aff_id=2&aff_sub=bl0612tambot",
+    "position": "Bottom",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ac35564238.jpg"
   },
   {
-    "date": "06/11/17",
+    "date": "06/12/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=70&aff_id=2&aff_sub=bl0612pmtop",
+    "position": "Top",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ac8d69fdb7.jpg"
+  },
+  {
+    "date": "06/12/17",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=62&aff_id=2&aff_sub=bl0611tambot",
-    "position": "Bottom",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ac1d642ef7.jpg"
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=238&aff_id=2&aff_sub=bl0612tamtop",
+    "position": "Top",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ac3136e12e.jpg"
   },
   {
     "date": "06/11/17",
@@ -54,13 +63,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ac19d507b5.jpg"
   },
   {
-    "date": "06/10/17",
+    "date": "06/11/17",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=54&aff_id=2&aff_sub=bl0610amtop",
-    "position": "Top",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ad2fbc1101.jpg"
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=62&aff_id=2&aff_sub=bl0611tambot",
+    "position": "Bottom",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ac1d642ef7.jpg"
   },
   {
     "date": "06/10/17",
@@ -72,13 +81,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ad35dbb68b.jpg"
   },
   {
-    "date": "06/09/17",
+    "date": "06/10/17",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=70&aff_id=2&aff_sub=bl0609ambot",
-    "position": "Bottom",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939a1460cdbd.jpg"
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=54&aff_id=2&aff_sub=bl0610amtop",
+    "position": "Top",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ad2fbc1101.jpg"
   },
   {
     "date": "06/09/17",
@@ -88,6 +97,15 @@
     "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=274&aff_id=2&aff_sub=bl0609amtop",
     "position": "Top",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939a103e0c03.jpg"
+  },
+  {
+    "date": "06/09/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=70&aff_id=2&aff_sub=bl0609ambot",
+    "position": "Bottom",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939a1460cdbd.jpg"
   },
   {
     "date": "06/08/17",
