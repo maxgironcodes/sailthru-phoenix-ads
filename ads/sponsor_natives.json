@@ -27,13 +27,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ae0f20b85c.jpg"
   },
   {
-    "date": "06/12/17",
-    "newsletter": "AM",
+    "date": "06/13/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=854071",
-    "headline": "New study reveals what a single diet soda drink does",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939c764f08e8.jpg"
+    "sponsor_name": "Truth Finder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=naomi_6.13",
+    "headline": "It's scary what this site knows about you, enter your name to see results",
+    "image_url": "https://media.sailthru.com/3ia/1k1/4/r/5902629d56250.jpg"
   },
   {
     "date": "06/12/17",
@@ -44,13 +44,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/2/5931c06f5696a.jpg"
   },
   {
-    "date": "06/11/17",
-    "newsletter": "PM",
+    "date": "06/12/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=364&aff_id=2&aff_sub=tblazenate061117",
-    "headline": "Megyn Kelly vs Kelly Ripa - which ‘Kelly’ will win the daytime TV war?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593aba96932d7.png"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=854071",
+    "headline": "New study reveals what a single diet soda drink does",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939c764f08e8.jpg"
   },
   {
     "date": "06/11/17",
@@ -60,6 +60,15 @@
     "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=kim_6.11",
     "headline": "New search engine goes viral. Have you seen what is posted about you?",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593abf247c02f.jpg"
+  },
+  {
+    "date": "06/11/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=364&aff_id=2&aff_sub=tblazenate061117",
+    "headline": "Megyn Kelly vs Kelly Ripa - which ‘Kelly’ will win the daytime TV war?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593aba96932d7.png"
   },
   {
     "date": "06/10/17",
