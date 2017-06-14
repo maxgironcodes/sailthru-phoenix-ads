@@ -10,21 +10,21 @@
   },
   {
     "date": "06/15/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/648208",
-    "headline": "Liberal snowflakes having total meltdown over new footage",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/c/593ee8cea3f38.jpg"
-  },
-  {
-    "date": "06/15/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=854075",
     "headline": "New research reveals once daily trick to get rid of belly fat",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d06063bfd.jpg"
+  },
+  {
+    "date": "06/15/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/648208",
+    "headline": "Liberal snowflakes having total meltdown over new footage",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/c/593ee8cea3f38.jpg"
   },
   {
     "date": "06/14/17",
@@ -36,13 +36,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/c/593ed63d553a9.jpg"
   },
   {
-    "date": "06/13/17",
+    "date": "06/14/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Truth Finder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=naomi_6.13",
-    "headline": "It's scary what this site knows about you, enter your name to see results",
-    "image_url": "https://media.sailthru.com/3ia/1k1/4/r/5902629d56250.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Balloons and cookies won't sell your home",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "06/13/17",
@@ -52,6 +52,15 @@
     "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/Ventricore-BloodPressure?src=J1503&dkt_nbr=dkrkwseo",
     "headline": "Stubborn blood pressure issues? Cardiologist reveals natural ‘fix’",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/9/593ae0f20b85c.jpg"
+  },
+  {
+    "date": "06/13/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Truth Finder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=naomi_6.13",
+    "headline": "It's scary what this site knows about you, enter your name to see results",
+    "image_url": "https://media.sailthru.com/3ia/1k1/4/r/5902629d56250.jpg"
   },
   {
     "date": "06/12/17",
