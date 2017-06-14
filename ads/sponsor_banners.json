@@ -1,29 +1,5 @@
 [
   {
-    "date": "12/25/17",
-    "newsletter": "PM",
-    "type": "Banners",
-    "sponsor_name": "EXAMPLE",
-    "top": {
-      "sponsor_url": "http://theblaze.com",
-      "image_url": "https://via.placeholder.com/600x150"
-    },
-    "bottom": {
-      "sponsor_url": "http://theblaze.com",
-      "image_url": "https://via.placeholder.com/600x150"
-    }
-  },
-  {
-    "date": "12/25/17",
-    "newsletter": "AM",
-    "type": "Banners",
-    "sponsor_name": "EXAMPLE",
-    "both": {
-      "sponsor_url": "http://example.com",
-      "image_url": "https://via.placeholder.com/600x150"
-    }
-  },
-  {
     "date": "06/17/17",
     "newsletter": "AM",
     "type": "Banners",
