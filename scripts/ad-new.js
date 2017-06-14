@@ -93,15 +93,8 @@ function checkForConflict(newEntry) {
   var numOfDuplicates = 0;
   adEntries.forEach(function(oldEntry) {
     if (newEntry.date == oldEntry.date && newEntry.newsletter == oldEntry.newsletter) {
-      // If "Native", then count as duplicate
-      if (newEntry.type == "Native") {
-        console.log(chalk.error("There is already a sponsored native for this date. Please contact Sales and notify."));
-        numOfDuplicates++;
-      // Else, assume "Banner" and check for duplicate positions
-      } else if (newEntry.position == oldEntry.position) {
-        console.log(chalk.error("There is already a sponsored banner for this date. Please contact Sales and notify."));
-        numOfDuplicates++;
-      }
+      console.log(chalk.error("There is already a sponsor for this date. Please contact Sales and notify."));
+      numOfDuplicates++;
     }
   });
 
