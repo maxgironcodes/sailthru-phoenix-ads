@@ -51,7 +51,7 @@ function getConsent(outdated) {
     }
   }
 
-  if (readlineSync.keyInYN(chalk.request("Delete these entries?"))) {
+  if (readlineSync.keyInYNStrict(chalk.request("Delete these entries?"))) {
     // Yes
     deleteOld(outdated);
   } else {

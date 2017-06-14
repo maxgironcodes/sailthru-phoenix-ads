@@ -19,8 +19,8 @@ if (file) {
 
 function getOptions() {
   var options = {};
-  options.sailthru_push = readlineSync.keyInYN(chalk.request("Push data to Sailthru?"));
-  options.sailthru_test = readlineSync.keyInYN(chalk.request("Send test?"));
+  options.sailthru_push = readlineSync.keyInYNStrict(chalk.request("Push data to Sailthru?"));
+  options.sailthru_test = readlineSync.keyInYNStrict(chalk.request("Send test?"));
 
   handleOptions(options);
 }

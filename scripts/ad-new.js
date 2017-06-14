@@ -41,14 +41,37 @@ function getSponsorNative() {
 function getSponsorBanner() {
   console.log(chalk.request("Enter new banner values.\n"));
   var newBanner = {};
+  var useForBothPos = false;
 
   newBanner.date = readlineSync.question("Date (MM/dd/yy): ");
   newBanner.newsletter = readlineSync.question("Newsletter (AM or PM): ");
   newBanner.type = "Banners";
+  useForBothPos = readlineSync.keyInYNStrict("Use same banner for both positions? ");
   newBanner.sponsor_name = readlineSync.question("Sponsor Name: ");
-  newBanner.sponsor_url = readlineSync.question("Sponsor URL: ");
-  newBanner.position = readlineSync.question("Position (Top, Bottom, or Both): ");
-  newBanner.image_url = readlineSync.question("Image URL: ");
+
+  if (useForBothPos) {
+    newBanner.both = {
+      sponsor_url: "",
+      image_url: ""
+    };
+
+    newBanner.both.sponsor_url = readlineSync.question("Sponsor URL: ");
+    newBanner.both.image_url = readlineSync.question("Image URL: ");
+  } else {
+    newBanner.top = {
+      sponsor_url: "",
+      image_url: ""
+    };
+    newBanner.bottom = {
+      sponsor_url: "",
+      image_url: ""
+    };
+
+    newBanner.top.sponsor_url = readlineSync.question("Top Sponsor URL: ");
+    newBanner.top.image_url = readlineSync.question("Top Image URL: ");
+    newBanner.bottom.sponsor_url = readlineSync.question("Bottom Sponsor URL: ");
+    newBanner.bottom.image_url = readlineSync.question("Bottom Image URL: ");
+  }
 
   // addJSON(newBanner);
   return checkForConflict(newBanner);
