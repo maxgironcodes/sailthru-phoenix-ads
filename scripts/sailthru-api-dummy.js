@@ -95,7 +95,7 @@ function sendTest(template, recipients, options) {
       console.log(chalk.error("Error: " + err.message));
     } else {
       console.log(chalk.success("The test was sent to all recipients."));
-      console.log(chalk.request("Have you pushed to GitHub?: git commit -a -m \"" + test.subject +  "\""));
+      console.log(chalk.request("Have you pushed to GitHub?\ngit commit -a -m \"" + options.vars.subject +  "\""));
     }
   });
 }
