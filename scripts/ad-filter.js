@@ -42,10 +42,8 @@ function getConsent(outdated) {
   console.log(chalk.request("These entries are outdated: \n"));
 
   for (var index = 0; index < outdated.length; index++) {
-    if (file.name == "sponsor_natives") {
-      console.log("- " + file.data[outdated[index]].date + " " + file.data[outdated[index]].headline + "\n");
-    } else if (file.name == "sponsor_banners") {
-      console.log("- " + file.data[outdated[index]].date + " " + file.data[outdated[index]].sponsor_url + "\n");
+    if (file.name == "sponsor_natives" || "sponsor_banners") {
+      console.log("- " + file.data[outdated[index]].date + " " + file.data[outdated[index]].newsletter + " " + file.data[outdated[index]].sponsor_name + " (" + file.data[outdated[index]].type + ")\n");
     } else {
       console.log(chalk.error("Error: Could not get file name."));
     }
