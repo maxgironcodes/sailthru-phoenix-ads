@@ -1,5 +1,19 @@
 [
   {
+    "date": "06/19/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Mediatonas",
+    "top": {
+      "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=274&aff_id=2&aff_sub=bl0619amtop",
+      "image_url": "https://media.sailthru.com/3ia/1k1/6/f/5942ab7a87782.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=62&aff_id=2&aff_sub=bl0619ambot",
+      "image_url": "https://media.sailthru.com/3ia/1k1/6/f/5942ac38e3dd6.jpg"
+    }
+  },
+  {
     "date": "06/18/17",
     "newsletter": "AM",
     "type": "Banners",
