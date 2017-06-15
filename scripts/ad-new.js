@@ -3,6 +3,31 @@ var chalk = require("./console-colors.js");
 var fileSave = require("./file-save.js");
 var file = {};
 
+function getValidDate () {
+  var regExp =/^\d{1,2}\/\d{1,2}\/\d{1,2}$/;
+  var thisDate = readlineSync.question("Date (MM/dd/yy): ");
+
+  while (!regExp.test(thisDate)) {
+    console.log("Please enter date in correct format.");
+    thisDate = readlineSync.question("Date (MM/dd/yy): ");
+  }
+
+  return thisDate;
+}
+
+
+function getValidUrl (thisQuestion) {
+  var regExp = /^(?:http(s)?:\/\/)?[\w.-]+(?:\.[\w\.-]+)+[\w\-\._~:/?#[\]@!\$&'\(\)\*\+,;=.]+$/;
+  var thisUrl = readlineSync.question(thisQuestion);
+
+  while (!regExp.test(thisUrl)) {
+    console.log("Please enter a valid url.");
+    thisUrl = readlineSync.question(thisQuestion);
+  }
+
+  return thisUrl;
+}
+
 function init(thisFile) {
   if (thisFile) {
     file = thisFile;
@@ -26,17 +51,13 @@ function getSponsorNative() {
   console.log(chalk.request("Enter new native values.\n"));
   var newNative = {};
 
-  newNative.date = readlineSync.question("Date (MM/dd/yy): ", {
-    validate: function(thisDate) {
-      return /^\d{1,2}\/\d{1,2}\/\d{1,2}$/.test(thisDate) || "Please enter a valid date.";
-    }
-  });
-  newNative.newsletter = readlineSync.question("Newsletter (AM or PM): ", {limit: ["AM", "PM"], caseSensitive: true});
+  newNative.date = getValidDate();
+  newNative.newsletter = readlineSync.question("Newsletter (AM or PM): ", {limit: ["AM", "PM"], limitMessage: "Please enter AM or PM, in all-caps.", caseSensitive: true});
   newNative.type = "Native";
   newNative.sponsor_name = readlineSync.question("Sponsor Name: ");
-  newNative.sponsor_url = readlineSync.question("Sponsor URL: ");
+  newNative.sponsor_url = getValidUrl("Sponsor URL: ");
   newNative.headline = readlineSync.question("Headline (Do not escape quotes): ");
-  newNative.image_url = readlineSync.question("Image URL: ");
+  newNative.image_url = getValidUrl("Image URL: ");
 
   // addJSON(newNative);
   return checkForConflict(newNative);
@@ -47,8 +68,8 @@ function getSponsorBanner() {
   var newBanner = {};
   var useForBothPos = false;
 
-  newBanner.date = readlineSync.question("Date (MM/dd/yy): ");
-  newBanner.newsletter = readlineSync.question("Newsletter (AM or PM): ");
+  newBanner.date = getValidDate();
+  newBanner.newsletter = readlineSync.question("Newsletter (AM or PM): ", {limit: ["AM", "PM"], limitMessage: "Please enter AM or PM, in all-caps.", caseSensitive: true});
   newBanner.type = "Banners";
   useForBothPos = readlineSync.keyInYNStrict("Use same banner for both positions? ");
   newBanner.sponsor_name = readlineSync.question("Sponsor Name: ");
@@ -59,8 +80,8 @@ function getSponsorBanner() {
       image_url: ""
     };
 
-    newBanner.both.sponsor_url = readlineSync.question("Sponsor URL: ");
-    newBanner.both.image_url = readlineSync.question("Image URL: ");
+    newBanner.both.sponsor_url = getValidUrl("Sponsor URL: ");
+    newBanner.both.image_url = getValidUrl("Image URL: ");
   } else {
     newBanner.top = {
       sponsor_url: "",
@@ -71,10 +92,10 @@ function getSponsorBanner() {
       image_url: ""
     };
 
-    newBanner.top.sponsor_url = readlineSync.question("Top Sponsor URL: ");
-    newBanner.top.image_url = readlineSync.question("Top Image URL: ");
-    newBanner.bottom.sponsor_url = readlineSync.question("Bottom Sponsor URL: ");
-    newBanner.bottom.image_url = readlineSync.question("Bottom Image URL: ");
+    newBanner.top.sponsor_url = getValidUrl("Top Sponsor URL: ");
+    newBanner.top.image_url = getValidUrl("Top Image URL: ");
+    newBanner.bottom.sponsor_url = getValidUrl("Bottom Sponsor URL: ");
+    newBanner.bottom.image_url = getValidUrl("Bottom Image URL: ");
   }
 
   // addJSON(newBanner);
@@ -86,8 +107,8 @@ function getChannelBanner() {
   var newBanner = {};
 
   newBanner.channel_name = readlineSync.question("Channel Name: ");
-  newBanner.channel_url = readlineSync.question("Channel URL: ");
-  newBanner.image_url = readlineSync.question("Image URL: ");
+  newBanner.channel_url = getValidUrl("Channel URL: ");
+  newBanner.image_url = getValidUrl("Image URL: ");
 
   addJSON(newBanner);
 }
