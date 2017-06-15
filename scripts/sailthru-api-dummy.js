@@ -34,7 +34,6 @@ function pushInclude(newInclude, includeName) {
       console.log(chalk.error("Error: " + err.message));
     } else {
       console.log(chalk.success("The file was uploaded to Sailthru.\nSailthru include is named phoenix_" + includeName + "."));
-      console.log(chalk.error("Please push new entry to GitHub."));
     }
   });
 }
@@ -81,11 +80,8 @@ function initTest(newEntry) {
     // See https://getstarted.sailthru.com/developers/api/send/#POST_to_Send_Schedule_or_Update for more
   };
 
-  if (test.template == "AM") {
-    test.template = "[TEST] Phoenix AM w/ 600x150 Banners + Duplicate Story Prevention";
-    sendTest(test.template, test.recipients, other);
-  } else if (test.template == "PM") {
-    test.template = "[TEST] Phoenix PM w/ 600x150 Banners + Duplicate Story Prevention";
+  if (test.template == "AM" || "PM") {
+    test.template = "[TEST] Phoenix " + test.template + " w/ 600x150 Banners + Duplicate Story Prevention";
     sendTest(test.template, test.recipients, other);
   } else {
     console.log(chalk.error("Did not recognize template."));
@@ -99,6 +95,7 @@ function sendTest(template, recipients, options) {
       console.log(chalk.error("Error: " + err.message));
     } else {
       console.log(chalk.success("The test was sent to all recipients."));
+      console.log(chalk.request("Have you pushed to GitHub?: git commit -a -m \"" + test.subject +  "\""));
     }
   });
 }
