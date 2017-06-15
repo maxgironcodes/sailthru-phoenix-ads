@@ -26,8 +26,12 @@ function getSponsorNative() {
   console.log(chalk.request("Enter new native values.\n"));
   var newNative = {};
 
-  newNative.date = readlineSync.question("Date (MM/dd/yy): ");
-  newNative.newsletter = readlineSync.question("Newsletter (AM or PM): ");
+  newNative.date = readlineSync.question("Date (MM/dd/yy): ", {
+    validate: function(thisDate) {
+      return /^\d{1,2}\/\d{1,2}\/\d{1,2}$/.test(thisDate) || "Please enter a valid date.";
+    }
+  });
+  newNative.newsletter = readlineSync.question("Newsletter (AM or PM): ", {limit: ["AM", "PM"], caseSensitive: true});
   newNative.type = "Native";
   newNative.sponsor_name = readlineSync.question("Sponsor Name: ");
   newNative.sponsor_url = readlineSync.question("Sponsor URL: ");
