@@ -79,7 +79,25 @@
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=854078",
     "headline": "New report reveals 50 million affected, are you?",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
-  }
+  },
+  {
+    "date": "06/16/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=370&aff_id=2&aff_sub=blnam0616",
+    "headline": "Joanna Gaines shocks fans by announcing her resignation",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/e/5941b58e5e3cd.jpg"
+  },
+  {
+    "date": "06/16/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=62&aff_id=2&aff_sub=blnpm0616",
+    "headline": "New skinny pill kills too much fat?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d2de73e1d.jpg"
+  },
   {
     "date": "06/15/17",
     "newsletter": "AM",
