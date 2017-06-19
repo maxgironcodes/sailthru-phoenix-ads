@@ -10,6 +10,15 @@
   },
   {
     "date": "06/21/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=duo_6.21",
+    "headline": "Enter your name or anyone’s, wait 7 seconds, brace yourself",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
+  },
+  {
+    "date": "06/21/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -19,21 +28,21 @@
   },
   {
     "date": "06/20/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E Tactics",
-    "sponsor_url": "https://pro.healthrevelations.net/m/648209",
-    "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
-  },
-  {
-    "date": "06/20/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
     "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
     "headline": "Skeptical men now find prostate relief naturally. See their secret.",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
+  },
+  {
+    "date": "06/20/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E Tactics",
+    "sponsor_url": "https://pro.healthrevelations.net/m/648209",
+    "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
   },
   {
     "date": "06/19/17",
@@ -64,15 +73,6 @@
   },
   {
     "date": "06/17/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "http://fungusshield.plus/?cf=1&aff_id=6&subid=cakeaff_2&s1=blnaneded17Jun17A",
-    "headline": "1 sure sign nail fungus may be infecting your entire body",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417b04aa04.jpg"
-  },
-  {
-    "date": "06/17/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -81,13 +81,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
   },
   {
-    "date": "06/16/17",
+    "date": "06/17/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=370&aff_id=2&aff_sub=blnam0616",
-    "headline": "Joanna Gaines shocks fans by announcing her resignation",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/e/5941b58e5e3cd.jpg"
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "http://fungusshield.plus/?cf=1&aff_id=6&subid=cakeaff_2&s1=blnaneded17Jun17A",
+    "headline": "1 sure sign nail fungus may be infecting your entire body",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417b04aa04.jpg"
   },
   {
     "date": "06/16/17",
@@ -97,6 +97,15 @@
     "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=62&aff_id=2&aff_sub=blnpm0616",
     "headline": "New skinny pill kills too much fat?",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d2de73e1d.jpg"
+  },
+  {
+    "date": "06/16/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=370&aff_id=2&aff_sub=blnam0616",
+    "headline": "Joanna Gaines shocks fans by announcing her resignation",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/e/5941b58e5e3cd.jpg"
   },
   {
     "date": "06/15/17",
