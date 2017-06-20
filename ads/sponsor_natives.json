@@ -9,13 +9,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417201f842.jpg"
   },
   {
-    "date": "06/21/17",
+    "date": "06/22/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=duo_6.21",
-    "headline": "Enter your name or anyone’s, wait 7 seconds, brace yourself",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Dabbling in real estate is a terrible mistake",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/a/59133e2edddbb.jpg"
   },
   {
     "date": "06/21/17",
@@ -27,13 +27,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/59441670195be.jpg"
   },
   {
-    "date": "06/20/17",
-    "newsletter": "AM",
+    "date": "06/21/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
-    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=duo_6.21",
+    "headline": "Enter your name or anyone’s, wait 7 seconds, brace yourself",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
   },
   {
     "date": "06/20/17",
@@ -43,6 +43,15 @@
     "sponsor_url": "https://pro.healthrevelations.net/m/648209",
     "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
+  },
+  {
+    "date": "06/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
+    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
   },
   {
     "date": "06/19/17",
