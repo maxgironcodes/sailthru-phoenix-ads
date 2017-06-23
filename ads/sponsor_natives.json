@@ -10,6 +10,15 @@
   },
   {
     "date": "06/29/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=855475",
+    "headline": "Shocking report exposes what a single diet soda does",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d6a59811b3.jpg"
+  },
+  {
+    "date": "06/29/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Marketing Keys",
@@ -91,21 +100,21 @@
   },
   {
     "date": "06/22/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Dabbling in real estate is a terrible mistake",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/a/59133e2edddbb.jpg"
-  },
-  {
-    "date": "06/22/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "MMP",
     "sponsor_url": "http://mmptrack.com/click.track?CID=398103&AFID=417059&ADID=1921927&SID=blaze-nativespons_062217&iris=698336",
     "headline": "Big tobacco’s punishment: A long time coming",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a8e858003b.jpg"
+  },
+  {
+    "date": "06/22/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Dabbling in real estate is a terrible mistake",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/a/59133e2edddbb.jpg"
   },
   {
     "date": "06/21/17",
@@ -154,21 +163,21 @@
   },
   {
     "date": "06/18/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=854833",
-    "headline": "Breaking: 3 Foods Doctors are now calling death foods",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
-  },
-  {
-    "date": "06/18/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "6/18 PM Daily Native JRWA",
     "sponsor_url": "https://scienceofskill.com/smith-wesson-special/?utm_campaign=jrwa-the-blaze&utm_medium=paid-email&utm_source=email&utm_content=knifebanner&utm_term=05_26_17",
     "headline": "The unbelievably sharp Smith & Wesson nife. Be ready for anything",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944140ae341a.png"
+  },
+  {
+    "date": "06/18/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=854833",
+    "headline": "Breaking: 3 Foods Doctors are now calling death foods",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
   },
   {
     "date": "06/17/17",
