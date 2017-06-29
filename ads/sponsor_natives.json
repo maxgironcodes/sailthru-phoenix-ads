@@ -1,5 +1,14 @@
 [
   {
+    "date": "07/06/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=856182",
+    "headline": "This simple fix is completely transforming bad skin",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/595583883096d.jpg"
+  },
+  {
     "date": "07/05/17",
     "newsletter": "PM",
     "type": "Native",
@@ -10,21 +19,21 @@
   },
   {
     "date": "07/02/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "E tactics",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/702923",
-    "headline": "Hillary collapsing in front of our eyes",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/s/5953e3acd739e.jpg"
-  },
-  {
-    "date": "07/02/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-Tactics",
     "sponsor_url": "http://www.doctorshealthpress.com/videos/shnv/?dept=EH&sb=BLAZE&sdate=06302017",
     "headline": "This potentially life-saving book may soon be banned",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/t/59550cd7c08f4.png"
+  },
+  {
+    "date": "07/02/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "E tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/702923",
+    "headline": "Hillary collapsing in front of our eyes",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/s/5953e3acd739e.jpg"
   },
   {
     "date": "07/01/17",
@@ -109,21 +118,21 @@
   },
   {
     "date": "06/25/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "LOP Solutions",
-    "sponsor_url": "https://lopsolutions.isrefer.com/go/lpczti/tblpczti062517/",
-    "headline": "New poll determines likelihood of Trump Impeachment. See what everyone is saying",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4451098af.png"
-  },
-  {
-    "date": "06/25/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Truthfinder",
     "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=tam_6.25&article=cheaters",
     "headline": "One simple thing all liars have in common, enter a name",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a9dae67369.jpg"
+  },
+  {
+    "date": "06/25/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "LOP Solutions",
+    "sponsor_url": "https://lopsolutions.isrefer.com/go/lpczti/tblpczti062517/",
+    "headline": "New poll determines likelihood of Trump Impeachment. See what everyone is saying",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4451098af.png"
   },
   {
     "date": "06/24/17",
@@ -190,21 +199,21 @@
   },
   {
     "date": "06/20/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
-    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
-  },
-  {
-    "date": "06/20/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E Tactics",
     "sponsor_url": "https://pro.healthrevelations.net/m/648209",
     "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
+  },
+  {
+    "date": "06/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
+    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
   },
   {
     "date": "06/19/17",
@@ -235,15 +244,6 @@
   },
   {
     "date": "06/17/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=854078",
-    "headline": "New report reveals 50 million affected, are you?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
-  },
-  {
-    "date": "06/17/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
@@ -252,13 +252,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417b04aa04.jpg"
   },
   {
-    "date": "06/16/17",
+    "date": "06/17/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=62&aff_id=2&aff_sub=blnpm0616",
-    "headline": "New skinny pill kills too much fat?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d2de73e1d.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=854078",
+    "headline": "New report reveals 50 million affected, are you?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
   },
   {
     "date": "06/16/17",
@@ -268,6 +268,15 @@
     "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=370&aff_id=2&aff_sub=blnam0616",
     "headline": "Joanna Gaines shocks fans by announcing her resignation",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/e/5941b58e5e3cd.jpg"
+  },
+  {
+    "date": "06/16/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=62&aff_id=2&aff_sub=blnpm0616",
+    "headline": "New skinny pill kills too much fat?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d2de73e1d.jpg"
   },
   {
     "date": "06/15/17",
