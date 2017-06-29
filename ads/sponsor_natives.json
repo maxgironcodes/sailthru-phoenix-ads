@@ -1,5 +1,14 @@
 [
   {
+    "date": "07/07/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=856291",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/595583f578b7a.jpg"
+  },
+  {
     "date": "07/06/17",
     "newsletter": "AM",
     "type": "Native",
@@ -46,15 +55,6 @@
   },
   {
     "date": "06/30/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Marketing Keys",
-    "sponsor_url": "http://projectblindsided.com/",
-    "headline": "One man's 10-year journey to bring justice to a baby boy born with no eyes",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4b6284770.jpeg"
-  },
-  {
-    "date": "06/30/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
@@ -63,13 +63,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
-    "date": "06/29/17",
-    "newsletter": "PM",
+    "date": "06/30/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=855475",
-    "headline": "Shocking report exposes what a single diet soda does",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
+    "sponsor_name": "Marketing Keys",
+    "sponsor_url": "http://projectblindsided.com/",
+    "headline": "One man's 10-year journey to bring justice to a baby boy born with no eyes",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4b6284770.jpeg"
   },
   {
     "date": "06/29/17",
@@ -79,6 +79,15 @@
     "sponsor_url": "http://projectblindsided.com/",
     "headline": "Lawyer succeeds in defeating chemical corp. for a baby born with no eyes",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d49eac5bf2.jpeg"
+  },
+  {
+    "date": "06/29/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=855475",
+    "headline": "Shocking report exposes what a single diet soda does",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
   },
   {
     "date": "06/28/17",
@@ -118,21 +127,21 @@
   },
   {
     "date": "06/25/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=tam_6.25&article=cheaters",
-    "headline": "One simple thing all liars have in common, enter a name",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a9dae67369.jpg"
-  },
-  {
-    "date": "06/25/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "LOP Solutions",
     "sponsor_url": "https://lopsolutions.isrefer.com/go/lpczti/tblpczti062517/",
     "headline": "New poll determines likelihood of Trump Impeachment. See what everyone is saying",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4451098af.png"
+  },
+  {
+    "date": "06/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=tam_6.25&article=cheaters",
+    "headline": "One simple thing all liars have in common, enter a name",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a9dae67369.jpg"
   },
   {
     "date": "06/24/17",
@@ -199,21 +208,21 @@
   },
   {
     "date": "06/20/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E Tactics",
-    "sponsor_url": "https://pro.healthrevelations.net/m/648209",
-    "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
-  },
-  {
-    "date": "06/20/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
     "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
     "headline": "Skeptical men now find prostate relief naturally. See their secret.",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
+  },
+  {
+    "date": "06/20/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E Tactics",
+    "sponsor_url": "https://pro.healthrevelations.net/m/648209",
+    "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
   },
   {
     "date": "06/19/17",
@@ -244,15 +253,6 @@
   },
   {
     "date": "06/17/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "http://fungusshield.plus/?cf=1&aff_id=6&subid=cakeaff_2&s1=blnaneded17Jun17A",
-    "headline": "1 sure sign nail fungus may be infecting your entire body",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417b04aa04.jpg"
-  },
-  {
-    "date": "06/17/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -261,13 +261,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
   },
   {
-    "date": "06/16/17",
+    "date": "06/17/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=370&aff_id=2&aff_sub=blnam0616",
-    "headline": "Joanna Gaines shocks fans by announcing her resignation",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/e/5941b58e5e3cd.jpg"
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "http://fungusshield.plus/?cf=1&aff_id=6&subid=cakeaff_2&s1=blnaneded17Jun17A",
+    "headline": "1 sure sign nail fungus may be infecting your entire body",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417b04aa04.jpg"
   },
   {
     "date": "06/16/17",
@@ -277,6 +277,15 @@
     "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=62&aff_id=2&aff_sub=blnpm0616",
     "headline": "New skinny pill kills too much fat?",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d2de73e1d.jpg"
+  },
+  {
+    "date": "06/16/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=370&aff_id=2&aff_sub=blnam0616",
+    "headline": "Joanna Gaines shocks fans by announcing her resignation",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/e/5941b58e5e3cd.jpg"
   },
   {
     "date": "06/15/17",
