@@ -36,13 +36,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4b6284770.jpeg"
   },
   {
-    "date": "06/29/17",
-    "newsletter": "AM",
+    "date": "06/30/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Marketing Keys",
-    "sponsor_url": "http://projectblindsided.com/",
-    "headline": "Lawyer succeeds in defeating chemical corp. for a baby born with no eyes",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d49eac5bf2.jpeg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Real estate prices are skyrocketing",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "06/29/17",
@@ -52,6 +52,15 @@
     "sponsor_url": "http://nucific.com/cmd.php?ad=855475",
     "headline": "Shocking report exposes what a single diet soda does",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
+  },
+  {
+    "date": "06/29/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Marketing Keys",
+    "sponsor_url": "http://projectblindsided.com/",
+    "headline": "Lawyer succeeds in defeating chemical corp. for a baby born with no eyes",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d49eac5bf2.jpeg"
   },
   {
     "date": "06/28/17",
@@ -136,15 +145,6 @@
   },
   {
     "date": "06/22/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "MMP",
-    "sponsor_url": "http://mmptrack.com/click.track?CID=398103&AFID=417059&ADID=1921927&SID=blaze-nativespons_062217&iris=698336",
-    "headline": "Big tobacco’s punishment: A long time coming",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a8e858003b.jpg"
-  },
-  {
-    "date": "06/22/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
@@ -153,13 +153,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/a/59133e2edddbb.jpg"
   },
   {
-    "date": "06/21/17",
+    "date": "06/22/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=854837",
-    "headline": "Once daily fix to transform your saggy skin",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/59441670195be.jpg"
+    "sponsor_name": "MMP",
+    "sponsor_url": "http://mmptrack.com/click.track?CID=398103&AFID=417059&ADID=1921927&SID=blaze-nativespons_062217&iris=698336",
+    "headline": "Big tobacco’s punishment: A long time coming",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a8e858003b.jpg"
   },
   {
     "date": "06/21/17",
@@ -171,13 +171,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
   },
   {
-    "date": "06/20/17",
+    "date": "06/21/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
-    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=854837",
+    "headline": "Once daily fix to transform your saggy skin",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/59441670195be.jpg"
   },
   {
     "date": "06/20/17",
@@ -187,6 +187,15 @@
     "sponsor_url": "https://pro.healthrevelations.net/m/648209",
     "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
+  },
+  {
+    "date": "06/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
+    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
   },
   {
     "date": "06/19/17",
@@ -217,21 +226,21 @@
   },
   {
     "date": "06/17/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=854078",
-    "headline": "New report reveals 50 million affected, are you?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
-  },
-  {
-    "date": "06/17/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
     "sponsor_url": "http://fungusshield.plus/?cf=1&aff_id=6&subid=cakeaff_2&s1=blnaneded17Jun17A",
     "headline": "1 sure sign nail fungus may be infecting your entire body",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417b04aa04.jpg"
+  },
+  {
+    "date": "06/17/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=854078",
+    "headline": "New report reveals 50 million affected, are you?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
   },
   {
     "date": "06/16/17",
