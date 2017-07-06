@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/t/595583f578b7a.jpg"
   },
   {
+    "date": "07/07/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "CashFlow LeadGen",
+    "sponsor_url": "https://awb.iljmp.com/19/7-7-the-blaze-obama-greatest-poll-rwc-csc",
+    "headline": "You won’t believe who’s saying Obama was the greatest President of all time",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
+  },
+  {
     "date": "07/06/17",
     "newsletter": "AM",
     "type": "Native",
@@ -46,21 +55,21 @@
   },
   {
     "date": "07/02/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "E tactics",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/702923",
-    "headline": "Hillary collapsing in front of our eyes",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/s/5953e3acd739e.jpg"
-  },
-  {
-    "date": "07/02/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-Tactics",
     "sponsor_url": "http://www.doctorshealthpress.com/videos/shnv/?dept=EH&sb=BLAZE&sdate=06302017",
     "headline": "This potentially life-saving book may soon be banned",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/t/59550cd7c08f4.png"
+  },
+  {
+    "date": "07/02/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "E tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/702923",
+    "headline": "Hillary collapsing in front of our eyes",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/s/5953e3acd739e.jpg"
   },
   {
     "date": "07/01/17",
@@ -118,21 +127,21 @@
   },
   {
     "date": "06/27/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Money Map Press",
-    "sponsor_url": "http://mmptrack.com/click.track?CID=398103&AFID=417059&ADID=1921927&SID=blaze-nativespons_062717&iris=700997",
-    "headline": "Big tobacco gets burnt with National payout",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/q/59512fd840acb.jpg"
-  },
-  {
-    "date": "06/27/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Marketing Keys",
     "sponsor_url": "http://projectblindsided.com/",
     "headline": "Baby born with no eyes due to chemical exposure. Could it happen to you?",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d47e566baa.jpeg"
+  },
+  {
+    "date": "06/27/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Money Map Press",
+    "sponsor_url": "http://mmptrack.com/click.track?CID=398103&AFID=417059&ADID=1921927&SID=blaze-nativespons_062717&iris=700997",
+    "headline": "Big tobacco gets burnt with National payout",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/q/59512fd840acb.jpg"
   },
   {
     "date": "06/26/17",
@@ -208,15 +217,6 @@
   },
   {
     "date": "06/21/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=854837",
-    "headline": "Once daily fix to transform your saggy skin",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/59441670195be.jpg"
-  },
-  {
-    "date": "06/21/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Truthfinder",
@@ -225,13 +225,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
   },
   {
-    "date": "06/20/17",
+    "date": "06/21/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
-    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=854837",
+    "headline": "Once daily fix to transform your saggy skin",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/59441670195be.jpg"
   },
   {
     "date": "06/20/17",
@@ -241,6 +241,15 @@
     "sponsor_url": "https://pro.healthrevelations.net/m/648209",
     "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
+  },
+  {
+    "date": "06/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
+    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
   },
   {
     "date": "06/19/17",
