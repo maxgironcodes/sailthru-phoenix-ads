@@ -1,5 +1,14 @@
 [
   {
+    "date": "07/10/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-Tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/682653",
+    "headline": "Common pill may be deadlier than cigarettes.. Watch Now",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e95b7b0efa.jpg"
+  },
+  {
     "date": "07/07/17",
     "newsletter": "PM",
     "type": "Native",
@@ -55,21 +64,21 @@
   },
   {
     "date": "07/02/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E-Tactics",
-    "sponsor_url": "http://www.doctorshealthpress.com/videos/shnv/?dept=EH&sb=BLAZE&sdate=06302017",
-    "headline": "This potentially life-saving book may soon be banned",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/59550cd7c08f4.png"
-  },
-  {
-    "date": "07/02/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "E tactics",
     "sponsor_url": "https://pro.hsionlineorders.net/m/702923",
     "headline": "Hillary collapsing in front of our eyes",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/s/5953e3acd739e.jpg"
+  },
+  {
+    "date": "07/02/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-Tactics",
+    "sponsor_url": "http://www.doctorshealthpress.com/videos/shnv/?dept=EH&sb=BLAZE&sdate=06302017",
+    "headline": "This potentially life-saving book may soon be banned",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/59550cd7c08f4.png"
   },
   {
     "date": "07/01/17",
@@ -127,21 +136,21 @@
   },
   {
     "date": "06/27/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Marketing Keys",
-    "sponsor_url": "http://projectblindsided.com/",
-    "headline": "Baby born with no eyes due to chemical exposure. Could it happen to you?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d47e566baa.jpeg"
-  },
-  {
-    "date": "06/27/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Money Map Press",
     "sponsor_url": "http://mmptrack.com/click.track?CID=398103&AFID=417059&ADID=1921927&SID=blaze-nativespons_062717&iris=700997",
     "headline": "Big tobacco gets burnt with National payout",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/q/59512fd840acb.jpg"
+  },
+  {
+    "date": "06/27/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Marketing Keys",
+    "sponsor_url": "http://projectblindsided.com/",
+    "headline": "Baby born with no eyes due to chemical exposure. Could it happen to you?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d47e566baa.jpeg"
   },
   {
     "date": "06/26/17",
@@ -217,15 +226,6 @@
   },
   {
     "date": "06/21/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=duo_6.21",
-    "headline": "Enter your name or anyone’s, wait 7 seconds, brace yourself",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
-  },
-  {
-    "date": "06/21/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -234,13 +234,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/59441670195be.jpg"
   },
   {
-    "date": "06/20/17",
+    "date": "06/21/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "E Tactics",
-    "sponsor_url": "https://pro.healthrevelations.net/m/648209",
-    "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=duo_6.21",
+    "headline": "Enter your name or anyone’s, wait 7 seconds, brace yourself",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
   },
   {
     "date": "06/20/17",
@@ -250,6 +250,15 @@
     "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
     "headline": "Skeptical men now find prostate relief naturally. See their secret.",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
+  },
+  {
+    "date": "06/20/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E Tactics",
+    "sponsor_url": "https://pro.healthrevelations.net/m/648209",
+    "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
   },
   {
     "date": "06/19/17",
