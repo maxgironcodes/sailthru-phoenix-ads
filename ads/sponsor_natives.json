@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e95b7b0efa.jpg"
   },
   {
+    "date": "07/10/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=856976",
+    "headline": "What a single diet soda does",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
+  },
+  {
     "date": "07/09/17",
     "newsletter": "PM",
     "type": "Native",
@@ -46,21 +55,21 @@
   },
   {
     "date": "07/05/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=856183",
-    "headline": "If you suffer from callused feet, try this amazing trick",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/5955826994656.jpg"
-  },
-  {
-    "date": "07/05/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "LOP Solutions",
     "sponsor_url": "https://lopsolutions.isrefer.com/go/1776cpdtj/tbs1776cpdtj070517/",
     "headline": "Do you stand with President Trump to support and defend Christianity in the US?",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/u/5956710f96e1d.png"
+  },
+  {
+    "date": "07/05/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=856183",
+    "headline": "If you suffer from callused feet, try this amazing trick",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/5955826994656.jpg"
   },
   {
     "date": "07/03/17",
@@ -199,15 +208,6 @@
   },
   {
     "date": "06/23/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "CashFlow LeadGen",
-    "sponsor_url": "https://awb.iljmp.com/19/6-23-the-blaze-obama-greatest-cs-poa",
-    "headline": "See who’s saying Obama was the greatest President of all time",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
-  },
-  {
-    "date": "06/23/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
@@ -216,13 +216,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417201f842.jpg"
   },
   {
-    "date": "06/22/17",
-    "newsletter": "PM",
+    "date": "06/23/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Dabbling in real estate is a terrible mistake",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/a/59133e2edddbb.jpg"
+    "sponsor_name": "CashFlow LeadGen",
+    "sponsor_url": "https://awb.iljmp.com/19/6-23-the-blaze-obama-greatest-cs-poa",
+    "headline": "See who’s saying Obama was the greatest President of all time",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
   },
   {
     "date": "06/22/17",
@@ -234,13 +234,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a8e858003b.jpg"
   },
   {
-    "date": "06/21/17",
+    "date": "06/22/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=duo_6.21",
-    "headline": "Enter your name or anyone’s, wait 7 seconds, brace yourself",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Dabbling in real estate is a terrible mistake",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/a/59133e2edddbb.jpg"
   },
   {
     "date": "06/21/17",
@@ -250,6 +250,15 @@
     "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=854837",
     "headline": "Once daily fix to transform your saggy skin",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/59441670195be.jpg"
+  },
+  {
+    "date": "06/21/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=duo_6.21",
+    "headline": "Enter your name or anyone’s, wait 7 seconds, brace yourself",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
   },
   {
     "date": "06/20/17",
@@ -280,15 +289,6 @@
   },
   {
     "date": "06/18/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "6/18 PM Daily Native JRWA",
-    "sponsor_url": "https://scienceofskill.com/smith-wesson-special/?utm_campaign=jrwa-the-blaze&utm_medium=paid-email&utm_source=email&utm_content=knifebanner&utm_term=05_26_17",
-    "headline": "The unbelievably sharp Smith & Wesson nife. Be ready for anything",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944140ae341a.png"
-  },
-  {
-    "date": "06/18/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -297,13 +297,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
   },
   {
-    "date": "06/17/17",
-    "newsletter": "AM",
+    "date": "06/18/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "http://fungusshield.plus/?cf=1&aff_id=6&subid=cakeaff_2&s1=blnaneded17Jun17A",
-    "headline": "1 sure sign nail fungus may be infecting your entire body",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417b04aa04.jpg"
+    "sponsor_name": "6/18 PM Daily Native JRWA",
+    "sponsor_url": "https://scienceofskill.com/smith-wesson-special/?utm_campaign=jrwa-the-blaze&utm_medium=paid-email&utm_source=email&utm_content=knifebanner&utm_term=05_26_17",
+    "headline": "The unbelievably sharp Smith & Wesson nife. Be ready for anything",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944140ae341a.png"
   },
   {
     "date": "06/17/17",
@@ -313,6 +313,15 @@
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=854078",
     "headline": "New report reveals 50 million affected, are you?",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
+  },
+  {
+    "date": "06/17/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "http://fungusshield.plus/?cf=1&aff_id=6&subid=cakeaff_2&s1=blnaneded17Jun17A",
+    "headline": "1 sure sign nail fungus may be infecting your entire body",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417b04aa04.jpg"
   },
   {
     "date": "06/16/17",
