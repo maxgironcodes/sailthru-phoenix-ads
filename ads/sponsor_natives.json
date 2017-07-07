@@ -45,13 +45,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e98542b0ce.jpg"
   },
   {
-    "date": "07/07/17",
+    "date": "07/08/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "CashFlow LeadGen",
-    "sponsor_url": "https://awb.iljmp.com/19/7-7-the-blaze-obama-greatest-poll-rwc-csc",
-    "headline": "You won’t believe who’s saying Obama was the greatest President of all time",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded08Jul17A",
+    "headline": "Brain scan uncovers real cause of tinnitus",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/7/595fb1ab6f26f.jpg"
   },
   {
     "date": "07/07/17",
@@ -61,6 +61,15 @@
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=856291",
     "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/t/595583f578b7a.jpg"
+  },
+  {
+    "date": "07/07/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "CashFlow LeadGen",
+    "sponsor_url": "https://awb.iljmp.com/19/7-7-the-blaze-obama-greatest-poll-rwc-csc",
+    "headline": "You won’t believe who’s saying Obama was the greatest President of all time",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
   },
   {
     "date": "07/06/17",
@@ -100,21 +109,21 @@
   },
   {
     "date": "07/02/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E-Tactics",
-    "sponsor_url": "http://www.doctorshealthpress.com/videos/shnv/?dept=EH&sb=BLAZE&sdate=06302017",
-    "headline": "This potentially life-saving book may soon be banned",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/59550cd7c08f4.png"
-  },
-  {
-    "date": "07/02/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "E tactics",
     "sponsor_url": "https://pro.hsionlineorders.net/m/702923",
     "headline": "Hillary collapsing in front of our eyes",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/s/5953e3acd739e.jpg"
+  },
+  {
+    "date": "07/02/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-Tactics",
+    "sponsor_url": "http://www.doctorshealthpress.com/videos/shnv/?dept=EH&sb=BLAZE&sdate=06302017",
+    "headline": "This potentially life-saving book may soon be banned",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/59550cd7c08f4.png"
   },
   {
     "date": "07/01/17",
@@ -199,21 +208,21 @@
   },
   {
     "date": "06/25/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "LOP Solutions",
-    "sponsor_url": "https://lopsolutions.isrefer.com/go/lpczti/tblpczti062517/",
-    "headline": "New poll determines likelihood of Trump Impeachment. See what everyone is saying",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4451098af.png"
-  },
-  {
-    "date": "06/25/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Truthfinder",
     "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=tam_6.25&article=cheaters",
     "headline": "One simple thing all liars have in common, enter a name",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a9dae67369.jpg"
+  },
+  {
+    "date": "06/25/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "LOP Solutions",
+    "sponsor_url": "https://lopsolutions.isrefer.com/go/lpczti/tblpczti062517/",
+    "headline": "New poll determines likelihood of Trump Impeachment. See what everyone is saying",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4451098af.png"
   },
   {
     "date": "06/24/17",
@@ -244,15 +253,6 @@
   },
   {
     "date": "06/22/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "MMP",
-    "sponsor_url": "http://mmptrack.com/click.track?CID=398103&AFID=417059&ADID=1921927&SID=blaze-nativespons_062217&iris=698336",
-    "headline": "Big tobacco’s punishment: A long time coming",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a8e858003b.jpg"
-  },
-  {
-    "date": "06/22/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
@@ -261,13 +261,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/a/59133e2edddbb.jpg"
   },
   {
-    "date": "06/21/17",
+    "date": "06/22/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=854837",
-    "headline": "Once daily fix to transform your saggy skin",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/59441670195be.jpg"
+    "sponsor_name": "MMP",
+    "sponsor_url": "http://mmptrack.com/click.track?CID=398103&AFID=417059&ADID=1921927&SID=blaze-nativespons_062217&iris=698336",
+    "headline": "Big tobacco’s punishment: A long time coming",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a8e858003b.jpg"
   },
   {
     "date": "06/21/17",
@@ -277,6 +277,15 @@
     "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=duo_6.21",
     "headline": "Enter your name or anyone’s, wait 7 seconds, brace yourself",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
+  },
+  {
+    "date": "06/21/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=854837",
+    "headline": "Once daily fix to transform your saggy skin",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/59441670195be.jpg"
   },
   {
     "date": "06/20/17",
@@ -307,15 +316,6 @@
   },
   {
     "date": "06/18/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=854833",
-    "headline": "Breaking: 3 Foods Doctors are now calling death foods",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
-  },
-  {
-    "date": "06/18/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "6/18 PM Daily Native JRWA",
@@ -324,13 +324,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944140ae341a.png"
   },
   {
-    "date": "06/17/17",
-    "newsletter": "PM",
+    "date": "06/18/17",
+    "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=854078",
-    "headline": "New report reveals 50 million affected, are you?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
+    "sponsor_url": "http://nucific.com/cmd.php?ad=854833",
+    "headline": "Breaking: 3 Foods Doctors are now calling death foods",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
   },
   {
     "date": "06/17/17",
@@ -340,6 +340,15 @@
     "sponsor_url": "http://fungusshield.plus/?cf=1&aff_id=6&subid=cakeaff_2&s1=blnaneded17Jun17A",
     "headline": "1 sure sign nail fungus may be infecting your entire body",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417b04aa04.jpg"
+  },
+  {
+    "date": "06/17/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=854078",
+    "headline": "New report reveals 50 million affected, are you?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
   },
   {
     "date": "06/16/17",
