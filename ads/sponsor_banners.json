@@ -10,6 +10,16 @@
     }
   },
   {
+    "date": "07/11/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Employment Express",
+    "both": {
+      "sponsor_url": "http://www.expressfranchising.com/",
+      "image_url": "https://media.sailthru.com/3ia/1k1/7/a/5963918eb7e84.jpg"
+    }
+  },
+  {
     "date": "06/19/17",
     "newsletter": "AM",
     "type": "Banners",
