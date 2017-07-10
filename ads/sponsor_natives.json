@@ -18,6 +18,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/5/590cbedfd17e8.jpg"
   },
   {
+    "date": "07/12/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Thomas Nelson",
+    "sponsor_url": "http://42faithbook.com",
+    "headline": "Discover the untold story of Jackie Robinson",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/2/5931c06f5696a.jpg"
+  },
+  {
     "date": "07/11/17",
     "newsletter": "AM",
     "type": "Native",
@@ -145,21 +154,21 @@
   },
   {
     "date": "06/30/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Marketing Keys",
-    "sponsor_url": "http://projectblindsided.com/",
-    "headline": "One man's 10-year journey to bring justice to a baby boy born with no eyes",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4b6284770.jpeg"
-  },
-  {
-    "date": "06/30/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Real estate prices are skyrocketing",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "06/30/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Marketing Keys",
+    "sponsor_url": "http://projectblindsided.com/",
+    "headline": "One man's 10-year journey to bring justice to a baby boy born with no eyes",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4b6284770.jpeg"
   },
   {
     "date": "06/29/17",
