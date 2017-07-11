@@ -1,5 +1,14 @@
 [
   {
+    "date": "07/16/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=857351",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/b/5965533cb67ad.jpg"
+  },
+  {
     "date": "07/13/17",
     "newsletter": "AM",
     "type": "Native",
@@ -19,21 +28,21 @@
   },
   {
     "date": "07/12/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Thomas Nelson",
-    "sponsor_url": "http://42faithbook.com",
-    "headline": "Discover the untold story of Jackie Robinson",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/2/5931c06f5696a.jpg"
-  },
-  {
-    "date": "07/12/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Media Force",
     "sponsor_url": "http://comparisons.org/the-home-refinancing-plan-banks-don-t-want-you-knowing.php?aff=1346&sub=blz&pub=nwsjuly3",
     "headline": "New federal program pays off your mortgage",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596532f9aa8ca.jpg"
+  },
+  {
+    "date": "07/12/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Thomas Nelson",
+    "sponsor_url": "http://42faithbook.com",
+    "headline": "Discover the untold story of Jackie Robinson",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/2/5931c06f5696a.jpg"
   },
   {
     "date": "07/11/17",
@@ -55,21 +64,21 @@
   },
   {
     "date": "07/10/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=856976",
-    "headline": "What a single diet soda does",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
-  },
-  {
-    "date": "07/10/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-Tactics",
     "sponsor_url": "https://pro.hsionlineorders.net/m/682653",
     "headline": "Common pill may be deadlier than cigarettes. Watch Now",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e95b7b0efa.jpg"
+  },
+  {
+    "date": "07/10/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=856976",
+    "headline": "What a single diet soda does",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
   },
   {
     "date": "07/09/17",
@@ -217,21 +226,21 @@
   },
   {
     "date": "06/27/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Money Map Press",
-    "sponsor_url": "http://mmptrack.com/click.track?CID=398103&AFID=417059&ADID=1921927&SID=blaze-nativespons_062717&iris=700997",
-    "headline": "Big tobacco gets burnt with National payout",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/q/59512fd840acb.jpg"
-  },
-  {
-    "date": "06/27/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Marketing Keys",
     "sponsor_url": "http://projectblindsided.com/",
     "headline": "Baby born with no eyes due to chemical exposure. Could it happen to you?",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d47e566baa.jpeg"
+  },
+  {
+    "date": "06/27/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Money Map Press",
+    "sponsor_url": "http://mmptrack.com/click.track?CID=398103&AFID=417059&ADID=1921927&SID=blaze-nativespons_062717&iris=700997",
+    "headline": "Big tobacco gets burnt with National payout",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/q/59512fd840acb.jpg"
   },
   {
     "date": "06/26/17",
