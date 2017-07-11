@@ -1,5 +1,14 @@
 [
   {
+    "date": "07/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=857355",
+    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
+  },
+  {
     "date": "07/18/17",
     "newsletter": "PM",
     "type": "Native",
@@ -37,15 +46,6 @@
   },
   {
     "date": "07/12/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Media Force",
-    "sponsor_url": "http://comparisons.org/the-home-refinancing-plan-banks-don-t-want-you-knowing.php?aff=1346&sub=blz&pub=nwsjuly3",
-    "headline": "New federal program pays off your mortgage",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596532f9aa8ca.jpg"
-  },
-  {
-    "date": "07/12/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Thomas Nelson",
@@ -54,13 +54,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/2/5931c06f5696a.jpg"
   },
   {
-    "date": "07/11/17",
-    "newsletter": "AM",
+    "date": "07/12/17",
+    "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Media Force",
-    "sponsor_url": "http://comparisons.org/why-did-no-one-tell-drivers-about-this.php?aff=1346&sub=blz&pub=nwsl2jul",
-    "headline": "Drivers with no tickets in 3 years are in for a big surprise",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/a/59638ee044c38.jpg"
+    "sponsor_url": "http://comparisons.org/the-home-refinancing-plan-banks-don-t-want-you-knowing.php?aff=1346&sub=blz&pub=nwsjuly3",
+    "headline": "New federal program pays off your mortgage",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596532f9aa8ca.jpg"
   },
   {
     "date": "07/11/17",
@@ -70,6 +70,15 @@
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "The real estate market isn't getting any easier",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "07/11/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Media Force",
+    "sponsor_url": "http://comparisons.org/why-did-no-one-tell-drivers-about-this.php?aff=1346&sub=blz&pub=nwsl2jul",
+    "headline": "Drivers with no tickets in 3 years are in for a big surprise",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/a/59638ee044c38.jpg"
   },
   {
     "date": "07/10/17",
@@ -109,21 +118,21 @@
   },
   {
     "date": "07/07/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=856291",
-    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/595583f578b7a.jpg"
-  },
-  {
-    "date": "07/07/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "CashFlow LeadGen",
     "sponsor_url": "https://awb.iljmp.com/19/7-7-the-blaze-obama-greatest-poll-rwc-csc",
     "headline": "You won’t believe who’s saying Obama was the greatest President of all time",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
+  },
+  {
+    "date": "07/07/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=856291",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/595583f578b7a.jpg"
   },
   {
     "date": "07/06/17",
@@ -163,21 +172,21 @@
   },
   {
     "date": "07/02/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E-Tactics",
-    "sponsor_url": "http://www.doctorshealthpress.com/videos/shnv/?dept=EH&sb=BLAZE&sdate=06302017",
-    "headline": "This potentially life-saving book may soon be banned",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/59550cd7c08f4.png"
-  },
-  {
-    "date": "07/02/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "E tactics",
     "sponsor_url": "https://pro.hsionlineorders.net/m/702923",
     "headline": "Hillary collapsing in front of our eyes",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/s/5953e3acd739e.jpg"
+  },
+  {
+    "date": "07/02/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-Tactics",
+    "sponsor_url": "http://www.doctorshealthpress.com/videos/shnv/?dept=EH&sb=BLAZE&sdate=06302017",
+    "headline": "This potentially life-saving book may soon be banned",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/59550cd7c08f4.png"
   },
   {
     "date": "07/01/17",
@@ -262,21 +271,21 @@
   },
   {
     "date": "06/25/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "LOP Solutions",
-    "sponsor_url": "https://lopsolutions.isrefer.com/go/lpczti/tblpczti062517/",
-    "headline": "New poll determines likelihood of Trump Impeachment. See what everyone is saying",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4451098af.png"
-  },
-  {
-    "date": "06/25/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Truthfinder",
     "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=tam_6.25&article=cheaters",
     "headline": "One simple thing all liars have in common, enter a name",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a9dae67369.jpg"
+  },
+  {
+    "date": "06/25/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "LOP Solutions",
+    "sponsor_url": "https://lopsolutions.isrefer.com/go/lpczti/tblpczti062517/",
+    "headline": "New poll determines likelihood of Trump Impeachment. See what everyone is saying",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4451098af.png"
   },
   {
     "date": "06/24/17",
@@ -325,21 +334,21 @@
   },
   {
     "date": "06/21/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=854837",
-    "headline": "Once daily fix to transform your saggy skin",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/59441670195be.jpg"
-  },
-  {
-    "date": "06/21/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Truthfinder",
     "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=duo_6.21",
     "headline": "Enter your name or anyone’s, wait 7 seconds, brace yourself",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
+  },
+  {
+    "date": "06/21/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=854837",
+    "headline": "Once daily fix to transform your saggy skin",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/59441670195be.jpg"
   },
   {
     "date": "06/20/17",
@@ -370,21 +379,21 @@
   },
   {
     "date": "06/18/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=854833",
-    "headline": "Breaking: 3 Foods Doctors are now calling death foods",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
-  },
-  {
-    "date": "06/18/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "6/18 PM Daily Native JRWA",
     "sponsor_url": "https://scienceofskill.com/smith-wesson-special/?utm_campaign=jrwa-the-blaze&utm_medium=paid-email&utm_source=email&utm_content=knifebanner&utm_term=05_26_17",
     "headline": "The unbelievably sharp Smith & Wesson nife. Be ready for anything",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944140ae341a.png"
+  },
+  {
+    "date": "06/18/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=854833",
+    "headline": "Breaking: 3 Foods Doctors are now calling death foods",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
   },
   {
     "date": "06/17/17",
