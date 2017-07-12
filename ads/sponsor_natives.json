@@ -18,6 +18,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596553b57ac63.jpg"
   },
   {
+    "date": "07/17/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Media Force",
+    "sponsor_url": "http://tracking.lifestylejournal.com/aff_c?offer_id=183&aff_id=1346&aff_sub=blz&aff_sub2=nwsljul4",
+    "headline": "Voters are \"Rattled\" by this new website",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/c/59668fc1ef548.jpg"
+  },
+  {
     "date": "07/16/17",
     "newsletter": "AM",
     "type": "Native",
@@ -46,15 +55,6 @@
   },
   {
     "date": "07/12/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Thomas Nelson",
-    "sponsor_url": "http://42faithbook.com",
-    "headline": "Discover the untold story of Jackie Robinson",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/2/5931c06f5696a.jpg"
-  },
-  {
-    "date": "07/12/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Media Force",
@@ -63,13 +63,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596532f9aa8ca.jpg"
   },
   {
-    "date": "07/11/17",
-    "newsletter": "PM",
+    "date": "07/12/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "The real estate market isn't getting any easier",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+    "sponsor_name": "Thomas Nelson",
+    "sponsor_url": "http://42faithbook.com",
+    "headline": "Discover the untold story of Jackie Robinson",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/2/5931c06f5696a.jpg"
   },
   {
     "date": "07/11/17",
@@ -79,6 +79,15 @@
     "sponsor_url": "http://comparisons.org/why-did-no-one-tell-drivers-about-this.php?aff=1346&sub=blz&pub=nwsl2jul",
     "headline": "Drivers with no tickets in 3 years are in for a big surprise",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/a/59638ee044c38.jpg"
+  },
+  {
+    "date": "07/11/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "The real estate market isn't getting any easier",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "07/10/17",
@@ -118,21 +127,21 @@
   },
   {
     "date": "07/07/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "CashFlow LeadGen",
-    "sponsor_url": "https://awb.iljmp.com/19/7-7-the-blaze-obama-greatest-poll-rwc-csc",
-    "headline": "You won’t believe who’s saying Obama was the greatest President of all time",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
-  },
-  {
-    "date": "07/07/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=856291",
     "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/t/595583f578b7a.jpg"
+  },
+  {
+    "date": "07/07/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "CashFlow LeadGen",
+    "sponsor_url": "https://awb.iljmp.com/19/7-7-the-blaze-obama-greatest-poll-rwc-csc",
+    "headline": "You won’t believe who’s saying Obama was the greatest President of all time",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
   },
   {
     "date": "07/06/17",
@@ -352,21 +361,21 @@
   },
   {
     "date": "06/20/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
-    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
-  },
-  {
-    "date": "06/20/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E Tactics",
     "sponsor_url": "https://pro.healthrevelations.net/m/648209",
     "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
+  },
+  {
+    "date": "06/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
+    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
   },
   {
     "date": "06/19/17",
@@ -397,21 +406,21 @@
   },
   {
     "date": "06/17/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "http://fungusshield.plus/?cf=1&aff_id=6&subid=cakeaff_2&s1=blnaneded17Jun17A",
-    "headline": "1 sure sign nail fungus may be infecting your entire body",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417b04aa04.jpg"
-  },
-  {
-    "date": "06/17/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=854078",
     "headline": "New report reveals 50 million affected, are you?",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
+  },
+  {
+    "date": "06/17/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "http://fungusshield.plus/?cf=1&aff_id=6&subid=cakeaff_2&s1=blnaneded17Jun17A",
+    "headline": "1 sure sign nail fungus may be infecting your entire body",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417b04aa04.jpg"
   },
   {
     "date": "06/16/17",
