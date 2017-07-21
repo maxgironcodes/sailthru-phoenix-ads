@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
   },
   {
+    "date": "07/25/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://probioticamerica.com/cmd.php?ad=858652",
+    "headline": "Easy fix for constipation and bloating",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597248a29d60a.jpg"
+  },
+  {
     "date": "07/24/17",
     "newsletter": "PM",
     "type": "Native",
@@ -64,21 +73,21 @@
   },
   {
     "date": "07/18/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=857354",
-    "headline": "What a single diet soda does",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596553b57ac63.jpg"
-  },
-  {
-    "date": "07/18/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Cashflow",
     "sponsor_url": "https://awb.iljmp.com/19/7-18-obama-greatest-the-blaze-csc-tap",
     "headline": "Obama was the greatest President of all time. You won’t believe who’s saying this",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
+  },
+  {
+    "date": "07/18/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=857354",
+    "headline": "What a single diet soda does",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596553b57ac63.jpg"
   },
   {
     "date": "07/17/17",
@@ -127,21 +136,21 @@
   },
   {
     "date": "07/13/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=856973",
-    "headline": "New research reveals once daily trick to get rid of belly fat",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
-  },
-  {
-    "date": "07/13/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=856977",
     "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/5/590cbedfd17e8.jpg"
+  },
+  {
+    "date": "07/13/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=856973",
+    "headline": "New research reveals once daily trick to get rid of belly fat",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
   },
   {
     "date": "07/12/17",
@@ -217,21 +226,21 @@
   },
   {
     "date": "07/07/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "CashFlow LeadGen",
-    "sponsor_url": "https://awb.iljmp.com/19/7-7-the-blaze-obama-greatest-poll-rwc-csc",
-    "headline": "You won’t believe who’s saying Obama was the greatest President of all time",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
-  },
-  {
-    "date": "07/07/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=856291",
     "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/t/595583f578b7a.jpg"
+  },
+  {
+    "date": "07/07/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "CashFlow LeadGen",
+    "sponsor_url": "https://awb.iljmp.com/19/7-7-the-blaze-obama-greatest-poll-rwc-csc",
+    "headline": "You won’t believe who’s saying Obama was the greatest President of all time",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
   },
   {
     "date": "07/06/17",
@@ -298,15 +307,6 @@
   },
   {
     "date": "06/30/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Real estate prices are skyrocketing",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "06/30/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Marketing Keys",
@@ -315,13 +315,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4b6284770.jpeg"
   },
   {
-    "date": "06/29/17",
+    "date": "06/30/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=855475",
-    "headline": "Shocking report exposes what a single diet soda does",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Real estate prices are skyrocketing",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "06/29/17",
@@ -331,6 +331,15 @@
     "sponsor_url": "http://projectblindsided.com/",
     "headline": "Lawyer succeeds in defeating chemical corp. for a baby born with no eyes",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d49eac5bf2.jpeg"
+  },
+  {
+    "date": "06/29/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=855475",
+    "headline": "Shocking report exposes what a single diet soda does",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
   },
   {
     "date": "06/28/17",
@@ -433,15 +442,6 @@
   },
   {
     "date": "06/21/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=duo_6.21",
-    "headline": "Enter your name or anyone’s, wait 7 seconds, brace yourself",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
-  },
-  {
-    "date": "06/21/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -450,13 +450,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/59441670195be.jpg"
   },
   {
-    "date": "06/20/17",
-    "newsletter": "AM",
+    "date": "06/21/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
-    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=duo_6.21",
+    "headline": "Enter your name or anyone’s, wait 7 seconds, brace yourself",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/j/594842da09969.jpg"
   },
   {
     "date": "06/20/17",
@@ -466,6 +466,15 @@
     "sponsor_url": "https://pro.healthrevelations.net/m/648209",
     "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
+  },
+  {
+    "date": "06/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
+    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
   },
   {
     "date": "06/19/17",
