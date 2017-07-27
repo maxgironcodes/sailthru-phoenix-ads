@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61e069f94.jpg"
   },
   {
+    "date": "08/04/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=859373",
+    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy (do this every day)",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
+  },
+  {
     "date": "08/03/17",
     "newsletter": "AM",
     "type": "Native",
@@ -55,21 +64,21 @@
   },
   {
     "date": "07/27/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "LOP Solutions",
-    "sponsor_url": "https://lopsolutions.isrefer.com/go/pvnpfftis/tbpvnfppti072717/",
-    "headline": "Vegas odds on Trump impeachment set. Do you think he should be impeached?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/u/5956710f96e1d.png"
-  },
-  {
-    "date": "07/27/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Finding the right agent is half the battle",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "07/27/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "LOP Solutions",
+    "sponsor_url": "https://lopsolutions.isrefer.com/go/pvnpfftis/tbpvnfppti072717/",
+    "headline": "Vegas odds on Trump impeachment set. Do you think he should be impeached?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/u/5956710f96e1d.png"
   },
   {
     "date": "07/26/17",
@@ -91,21 +100,21 @@
   },
   {
     "date": "07/25/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://probioticamerica.com/cmd.php?ad=858652",
-    "headline": "Dr. reveals easy fix for constipation and bloating",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597248a29d60a.jpg"
-  },
-  {
-    "date": "07/25/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
     "headline": "Doctor reveals the 3 signs you may have a fatty liver",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
+  },
+  {
+    "date": "07/25/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://probioticamerica.com/cmd.php?ad=858652",
+    "headline": "Dr. reveals easy fix for constipation and bloating",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597248a29d60a.jpg"
   },
   {
     "date": "07/24/17",
@@ -127,21 +136,21 @@
   },
   {
     "date": "07/20/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "KingdomWorks",
-    "sponsor_url": "https://conquerseries.com?ims=blaze-072017",
-    "headline": "Men are quitting porn in the thousands because of this video",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/i/596e21aa81432.jpg"
-  },
-  {
-    "date": "07/20/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=857355",
     "headline": "Doctor reveals the 3 signs you may have a fatty liver",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
+  },
+  {
+    "date": "07/20/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "KingdomWorks",
+    "sponsor_url": "https://conquerseries.com?ims=blaze-072017",
+    "headline": "Men are quitting porn in the thousands because of this video",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/i/596e21aa81432.jpg"
   },
   {
     "date": "07/19/17",
@@ -163,21 +172,21 @@
   },
   {
     "date": "07/18/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=857354",
-    "headline": "What a single diet soda does",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596553b57ac63.jpg"
-  },
-  {
-    "date": "07/18/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Cashflow",
     "sponsor_url": "https://awb.iljmp.com/19/7-18-obama-greatest-the-blaze-csc-tap",
     "headline": "Obama was the greatest President of all time. You won’t believe who’s saying this",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
+  },
+  {
+    "date": "07/18/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=857354",
+    "headline": "What a single diet soda does",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596553b57ac63.jpg"
   },
   {
     "date": "07/17/17",
@@ -343,21 +352,21 @@
   },
   {
     "date": "07/05/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=856183",
-    "headline": "If you suffer from callused feet, try this amazing trick",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/5955826994656.jpg"
-  },
-  {
-    "date": "07/05/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "LOP Solutions",
     "sponsor_url": "https://lopsolutions.isrefer.com/go/1776cpdtj/tbs1776cpdtj070517/",
     "headline": "Do you stand with President Trump to support and defend Christianity in the US?",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/u/5956710f96e1d.png"
+  },
+  {
+    "date": "07/05/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=856183",
+    "headline": "If you suffer from callused feet, try this amazing trick",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/t/5955826994656.jpg"
   },
   {
     "date": "07/03/17",
@@ -397,15 +406,6 @@
   },
   {
     "date": "06/30/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Real estate prices are skyrocketing",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "06/30/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Marketing Keys",
@@ -414,13 +414,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4b6284770.jpeg"
   },
   {
-    "date": "06/29/17",
+    "date": "06/30/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=855475",
-    "headline": "Shocking report exposes what a single diet soda does",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Real estate prices are skyrocketing",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "06/29/17",
@@ -430,6 +430,15 @@
     "sponsor_url": "http://projectblindsided.com/",
     "headline": "Lawyer succeeds in defeating chemical corp. for a baby born with no eyes",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d49eac5bf2.jpeg"
+  },
+  {
+    "date": "06/29/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=855475",
+    "headline": "Shocking report exposes what a single diet soda does",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944156123516.jpg"
   },
   {
     "date": "06/28/17",
@@ -469,21 +478,21 @@
   },
   {
     "date": "06/25/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=tam_6.25&article=cheaters",
-    "headline": "One simple thing all liars have in common, enter a name",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a9dae67369.jpg"
-  },
-  {
-    "date": "06/25/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "LOP Solutions",
     "sponsor_url": "https://lopsolutions.isrefer.com/go/lpczti/tblpczti062517/",
     "headline": "New poll determines likelihood of Trump Impeachment. See what everyone is saying",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4451098af.png"
+  },
+  {
+    "date": "06/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=tam_6.25&article=cheaters",
+    "headline": "One simple thing all liars have in common, enter a name",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/l/594a9dae67369.jpg"
   },
   {
     "date": "06/24/17",
@@ -550,21 +559,21 @@
   },
   {
     "date": "06/20/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
-    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
-  },
-  {
-    "date": "06/20/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E Tactics",
     "sponsor_url": "https://pro.healthrevelations.net/m/648209",
     "headline": "Drink this today? You may be fueling cancer cells.  Watch Now",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/5944194da2bad.jpg"
+  },
+  {
+    "date": "06/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.medixselect.com/MedixTV/LP/prostate-revive4?src=J1505&dkt_nbr=g3sc7drf",
+    "headline": "Skeptical men now find prostate relief naturally. See their secret.",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594463f1cbb9b.jpg"
   },
   {
     "date": "06/19/17",
@@ -595,15 +604,6 @@
   },
   {
     "date": "06/17/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=854078",
-    "headline": "New report reveals 50 million affected, are you?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
-  },
-  {
-    "date": "06/17/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
@@ -612,13 +612,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/g/594417b04aa04.jpg"
   },
   {
-    "date": "06/16/17",
+    "date": "06/17/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Mediatonas",
-    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=62&aff_id=2&aff_sub=blnpm0616",
-    "headline": "New skinny pill kills too much fat?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d2de73e1d.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=854078",
+    "headline": "New report reveals 50 million affected, are you?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d1660435c.jpg"
   },
   {
     "date": "06/16/17",
@@ -628,6 +628,15 @@
     "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=370&aff_id=2&aff_sub=blnam0616",
     "headline": "Joanna Gaines shocks fans by announcing her resignation",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/e/5941b58e5e3cd.jpg"
+  },
+  {
+    "date": "06/16/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Mediatonas",
+    "sponsor_url": "http://www.trackmds.com/aff_c?offer_id=62&aff_id=2&aff_sub=blnpm0616",
+    "headline": "New skinny pill kills too much fat?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/8/5939d2de73e1d.jpg"
   },
   {
     "date": "06/15/17",
