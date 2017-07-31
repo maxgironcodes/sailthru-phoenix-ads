@@ -16,16 +16,16 @@ var file = require("./file-get.js").fileGet();
 function filterJSON() {
   file.data = JSON.parse(file.data);
 
-  // There's some counterintuitive logic here. Today's date is set to yesterday's date, because the adDate < today on line 22 would filter current ads as well.
-
   var today = new Date();
-  today = today.setDate(today.getDate() - 1);
+  // today = today.setDate(today.getDate() - 1); // Exclude today's ad
+  var twoWeeksAgo = today.setDate(today.getDate() - 14);
   var outdated = [];
 
   file.data.forEach(function(adObj, index) {
     var adDate = new Date(adObj.date);
 
-    if (adDate < today) {
+    // If the ad is older than two weeks ago, consider it outdated. Sometimes clients ask for another test a week or two later, per Sales.
+    if (adDate < twoWeeksAgo) {
       outdated.push(index);
     }
   });
