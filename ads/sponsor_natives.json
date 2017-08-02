@@ -5,17 +5,8 @@
     "type": "Native",
     "sponsor_name": "Express Employment",
     "sponsor_url": "http://expressfranchising.com/articles/2017-a-year-for-business/",
-    "headline": "A pro-business administration means now is the time to open a franchise",
+    "headline": "A pro-business administration makes now the time to open a franchise",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/2/59820fb7d82e0.jpg"
-  },
-  {
-    "date": "08/05/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=859367",
-    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
   },
   {
     "date": "08/05/17",
@@ -25,6 +16,15 @@
     "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=859394",
     "headline": "How To Improve Aging Skin (Do This Every Day)",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61b081e36.jpg"
+  },
+  {
+    "date": "08/05/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=859367",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
   },
   {
     "date": "08/04/17",
@@ -54,13 +54,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61b952010.jpg"
   },
   {
-    "date": "08/02/17",
-    "newsletter": "AM",
+    "date": "08/03/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=859388",
-    "headline": "New research reveals once daily trick to get rid of belly fat",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c8b4260.jpg"
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=dailypm_8.3.17",
+    "headline": "Google won’t dare show this, enter your name to see what site posts about you",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/2/598246296b0c2.jpg"
   },
   {
     "date": "08/02/17",
@@ -70,6 +70,15 @@
     "sponsor_url": "https://preparewith.com/theblaze-native.ad-102svgs",
     "headline": "These days feel like 9/10/01. North Korea, Russia, markets trading high. Patriots are using sunny days like today to prepare",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/v/597f831c4c6f0.jpg"
+  },
+  {
+    "date": "08/02/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=859388",
+    "headline": "New research reveals once daily trick to get rid of belly fat",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c8b4260.jpg"
   },
   {
     "date": "08/01/17",
@@ -118,15 +127,6 @@
   },
   {
     "date": "07/27/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Finding the right agent is half the battle",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "07/27/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "LOP Solutions",
@@ -135,13 +135,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/u/5956710f96e1d.png"
   },
   {
-    "date": "07/26/17",
+    "date": "07/27/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=858650",
-    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597249798d906.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Finding the right agent is half the battle",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "07/26/17",
@@ -153,13 +153,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/p/597802107cf23.png"
   },
   {
-    "date": "07/25/17",
-    "newsletter": "AM",
+    "date": "07/26/17",
+    "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
-    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=858650",
+    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597249798d906.jpg"
   },
   {
     "date": "07/25/17",
@@ -169,6 +169,15 @@
     "sponsor_url": "http://probioticamerica.com/cmd.php?ad=858652",
     "headline": "Dr. reveals easy fix for constipation and bloating",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597248a29d60a.jpg"
+  },
+  {
+    "date": "07/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
+    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
   },
   {
     "date": "07/24/17",
