@@ -1,5 +1,14 @@
 [
   {
+    "date": "08/12/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860144",
+    "headline": "Warning: Do not use probiotics before you see this",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/3/5983a8b86f6a3.jpeg"
+  },
+  {
     "date": "08/11/17",
     "newsletter": "AM",
     "type": "Native",
@@ -118,21 +127,21 @@
   },
   {
     "date": "07/31/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://freekit.birchgold.com/lf/post-bubble-america/?utm_medium=email&utm_campaign=rav&utm_source=bdn&msid=16763&utm_content=sp_pba_v01a_073117_&placement=pba",
-    "headline": "Reagan adviser warns of coming \"fiscal bloodbath\"",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a449fc665a.jpg "
-  },
-  {
-    "date": "07/31/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Media Force",
     "sponsor_url": "http://tracking.lifestylejournal.com/aff_c?offer_id=699&aff_id=1346&aff_sub=blz&aff_sub2=nwsldrp731",
     "headline": "Forget Adderall. This is the \"Genius\" pill you want. Hits market in 12 hours",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/s/597b7529b4ed1.jpg"
+  },
+  {
+    "date": "07/31/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://freekit.birchgold.com/lf/post-bubble-america/?utm_medium=email&utm_campaign=rav&utm_source=bdn&msid=16763&utm_content=sp_pba_v01a_073117_&placement=pba",
+    "headline": "Reagan adviser warns of coming \"fiscal bloodbath\"",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a449fc665a.jpg "
   },
   {
     "date": "07/29/17",
@@ -154,15 +163,6 @@
   },
   {
     "date": "07/27/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Finding the right agent is half the battle",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "07/27/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "LOP Solutions",
@@ -171,13 +171,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/u/5956710f96e1d.png"
   },
   {
-    "date": "07/26/17",
+    "date": "07/27/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=858650",
-    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597249798d906.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Finding the right agent is half the battle",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "07/26/17",
@@ -189,13 +189,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/p/597802107cf23.png"
   },
   {
-    "date": "07/25/17",
-    "newsletter": "AM",
+    "date": "07/26/17",
+    "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
-    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=858650",
+    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597249798d906.jpg"
   },
   {
     "date": "07/25/17",
@@ -205,6 +205,15 @@
     "sponsor_url": "http://probioticamerica.com/cmd.php?ad=858652",
     "headline": "Dr. reveals easy fix for constipation and bloating",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597248a29d60a.jpg"
+  },
+  {
+    "date": "07/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
+    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
   },
   {
     "date": "07/24/17",
