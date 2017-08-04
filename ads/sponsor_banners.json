@@ -1,5 +1,15 @@
 [
   {
+    "date": "08/09/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Overstock.com",
+    "both": {
+      "sponsor_url": "https://www.overstock.com/?cid=262579",
+      "image_url": "https://media.sailthru.com/3ia/1k1/8/4/598499a6d3f16.jpg"
+    }
+  },
+  {
     "date": "07/25/17",
     "newsletter": "PM",
     "type": "Banners",
