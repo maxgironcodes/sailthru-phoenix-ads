@@ -36,13 +36,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/4/5984cedc126e7.jpg"
   },
   {
-    "date": "08/07/17",
+    "date": "08/08/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Express Employment",
-    "sponsor_url": "http://expressfranchising.com/articles/2017-a-year-for-business/",
-    "headline": "A pro-business administration makes now the time to open a franchise",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/2/59820fb7d82e0.jpg"
+    "sponsor_name": "JWRA",
+    "sponsor_url": "http://www.buyvicanna.com/601154",
+    "headline": "Medical community stunned by discovery of powerful pain relief benefits in once outlawed painkiller",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/7/5988874e26d5f.jpg"
   },
   {
     "date": "08/07/17",
@@ -52,6 +52,15 @@
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Agents are wasting too much time on the market",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "08/07/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Express Employment",
+    "sponsor_url": "http://expressfranchising.com/articles/2017-a-year-for-business/",
+    "headline": "A pro-business administration makes now the time to open a franchise",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/2/59820fb7d82e0.jpg"
   },
   {
     "date": "08/06/17",
@@ -145,21 +154,21 @@
   },
   {
     "date": "07/31/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Media Force",
-    "sponsor_url": "http://tracking.lifestylejournal.com/aff_c?offer_id=699&aff_id=1346&aff_sub=blz&aff_sub2=nwsldrp731",
-    "headline": "Forget Adderall. This is the \"Genius\" pill you want. Hits market in 12 hours",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/s/597b7529b4ed1.jpg"
-  },
-  {
-    "date": "07/31/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Rainmaker Ad Ventures",
     "sponsor_url": "https://freekit.birchgold.com/lf/post-bubble-america/?utm_medium=email&utm_campaign=rav&utm_source=bdn&msid=16763&utm_content=sp_pba_v01a_073117_&placement=pba",
     "headline": "Reagan adviser warns of coming \"fiscal bloodbath\"",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a449fc665a.jpg "
+  },
+  {
+    "date": "07/31/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Media Force",
+    "sponsor_url": "http://tracking.lifestylejournal.com/aff_c?offer_id=699&aff_id=1346&aff_sub=blz&aff_sub2=nwsldrp731",
+    "headline": "Forget Adderall. This is the \"Genius\" pill you want. Hits market in 12 hours",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/s/597b7529b4ed1.jpg"
   },
   {
     "date": "07/29/17",
@@ -181,15 +190,6 @@
   },
   {
     "date": "07/27/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "LOP Solutions",
-    "sponsor_url": "https://lopsolutions.isrefer.com/go/pvnpfftis/tbpvnfppti072717/",
-    "headline": "Vegas odds on Trump impeachment set. Do you think he should be impeached?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/u/5956710f96e1d.png"
-  },
-  {
-    "date": "07/27/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
@@ -198,13 +198,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
-    "date": "07/26/17",
+    "date": "07/27/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pros.bonnerandpartners.com/p/1706BNFLAUNCH/LBNFT725/?h=true",
-    "headline": "Last year, I recommended the best-performing stock in the S&P 500",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/p/597802107cf23.png"
+    "sponsor_name": "LOP Solutions",
+    "sponsor_url": "https://lopsolutions.isrefer.com/go/pvnpfftis/tbpvnfppti072717/",
+    "headline": "Vegas odds on Trump impeachment set. Do you think he should be impeached?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/u/5956710f96e1d.png"
   },
   {
     "date": "07/26/17",
@@ -216,13 +216,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597249798d906.jpg"
   },
   {
-    "date": "07/25/17",
-    "newsletter": "PM",
+    "date": "07/26/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://probioticamerica.com/cmd.php?ad=858652",
-    "headline": "Dr. reveals easy fix for constipation and bloating",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597248a29d60a.jpg"
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pros.bonnerandpartners.com/p/1706BNFLAUNCH/LBNFT725/?h=true",
+    "headline": "Last year, I recommended the best-performing stock in the S&P 500",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/p/597802107cf23.png"
   },
   {
     "date": "07/25/17",
@@ -232,6 +232,15 @@
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
     "headline": "Doctor reveals the 3 signs you may have a fatty liver",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
+  },
+  {
+    "date": "07/25/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://probioticamerica.com/cmd.php?ad=858652",
+    "headline": "Dr. reveals easy fix for constipation and bloating",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597248a29d60a.jpg"
   },
   {
     "date": "07/24/17",
