@@ -45,6 +45,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/2/59820fb7d82e0.jpg"
   },
   {
+    "date": "08/07/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Agents are wasting too much time on the market",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
     "date": "08/06/17",
     "newsletter": "AM",
     "type": "Native",
@@ -190,15 +199,6 @@
   },
   {
     "date": "07/26/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=858650",
-    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597249798d906.jpg"
-  },
-  {
-    "date": "07/26/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Rainmaker Ad Ventures",
@@ -207,13 +207,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/p/597802107cf23.png"
   },
   {
-    "date": "07/25/17",
-    "newsletter": "AM",
+    "date": "07/26/17",
+    "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
-    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=858650",
+    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597249798d906.jpg"
   },
   {
     "date": "07/25/17",
@@ -223,6 +223,15 @@
     "sponsor_url": "http://probioticamerica.com/cmd.php?ad=858652",
     "headline": "Dr. reveals easy fix for constipation and bloating",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597248a29d60a.jpg"
+  },
+  {
+    "date": "07/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
+    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
   },
   {
     "date": "07/24/17",
