@@ -27,13 +27,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61e069f94.jpg"
   },
   {
-    "date": "08/10/17",
-    "newsletter": "AM",
+    "date": "08/11/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.brownsteinhealth.com/Health/DRB/LP/Brownstein-Arthritis-Proof-Trial?dkt_nbr=re83ncdy",
-    "headline": "Doctor’s secrets of pain-free living work when costly drugs don’t",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/7/5988e1775e53e.jpg"
+    "sponsor_name": "Nustra",
+    "sponsor_url": "http://the.avaoneweb.com/ff3f0c1a-7350-4469-828d-80f0f24ea625",
+    "headline": "Student uses this method to melt fat quickly",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/9/598b648f3d53a.png"
   },
   {
     "date": "08/10/17",
@@ -43,6 +43,15 @@
     "sponsor_url": "https://pro.healthyalliance.net/m/704256",
     "headline": "Obama agent caught inside the White House",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/9/598b2ac1836d6.jpg"
+  },
+  {
+    "date": "08/10/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.brownsteinhealth.com/Health/DRB/LP/Brownstein-Arthritis-Proof-Trial?dkt_nbr=re83ncdy",
+    "headline": "Doctor’s secrets of pain-free living work when costly drugs don’t",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/7/5988e1775e53e.jpg"
   },
   {
     "date": "08/09/17",
@@ -64,21 +73,21 @@
   },
   {
     "date": "08/08/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "JWRA",
-    "sponsor_url": "http://www.buyvicanna.com/601154",
-    "headline": "Medical community stunned by discovery of powerful pain relief benefits in once outlawed painkiller",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/7/5988874e26d5f.jpg"
-  },
-  {
-    "date": "08/08/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "NMH",
     "sponsor_url": "https://pro.hsionlineorders.net/m/682662",
     "headline": "Video from Hillary’s past could land her in jail",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/4/5984cedc126e7.jpg"
+  },
+  {
+    "date": "08/08/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "JWRA",
+    "sponsor_url": "http://www.buyvicanna.com/601154",
+    "headline": "Medical community stunned by discovery of powerful pain relief benefits in once outlawed painkiller",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/7/5988874e26d5f.jpg"
   },
   {
     "date": "08/07/17",
@@ -226,21 +235,21 @@
   },
   {
     "date": "07/27/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Finding the right agent is half the battle",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "07/27/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "LOP Solutions",
     "sponsor_url": "https://lopsolutions.isrefer.com/go/pvnpfftis/tbpvnfppti072717/",
     "headline": "Vegas odds on Trump impeachment set. Do you think he should be impeached?",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/u/5956710f96e1d.png"
+  },
+  {
+    "date": "07/27/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Finding the right agent is half the battle",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "07/26/17",
