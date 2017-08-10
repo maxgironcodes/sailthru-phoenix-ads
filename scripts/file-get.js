@@ -5,9 +5,10 @@ var chalk = require("./console-colors.js");
 function fileGet(state) {
   var file = {};
   var choices = ["sponsor_natives", "sponsor_banners", "channel_banners"];
-  var index = readlineSync.keyInSelect(choices, chalk.request("Edit which file?"));
+  var index = readlineSync.keyInSelect(choices, chalk.request("Select a file / ad type."));
 
-  if (choices[index]) {
+  // When a user enters 0 for CANCEL, readlineSync returns index = -1
+  if (index > -1) {
     file.name = choices[index];
     console.log(chalk.success("You selected " + file.name + "."));
   } else {
