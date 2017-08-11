@@ -27,6 +27,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc5dc99742.jpg"
   },
   {
+    "date": "08/15/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.healthradarreport.com/Health/RDR/Offers/Radar-Allergy-Proof-Intro?dkt_nbr=ds5zicif",
+    "headline": "What your doctor won’t tell you about healing your allergies",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc94c7cc8e.jpg"
+  },
+  {
     "date": "08/14/17",
     "newsletter": "PM",
     "type": "Native",
@@ -190,21 +199,21 @@
   },
   {
     "date": "08/03/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=859390",
-    "headline": "If you suffer from callused feet, try this amazing trick",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61b952010.jpg"
-  },
-  {
-    "date": "08/03/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Truthfinder",
     "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=dailypm_8.3.17",
     "headline": "Google won’t dare show this, enter your name to see what site posts about you",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/2/598246296b0c2.jpg"
+  },
+  {
+    "date": "08/03/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=859390",
+    "headline": "If you suffer from callused feet, try this amazing trick",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61b952010.jpg"
   },
   {
     "date": "08/02/17",
