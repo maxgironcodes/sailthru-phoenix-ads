@@ -1,5 +1,14 @@
 [
   {
+    "date": "08/18/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=860927",
+    "headline": "In 2017, avoid these 3 foods",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc60fd3cc8.jpg"
+  },
+  {
     "date": "08/16/17",
     "newsletter": "PM",
     "type": "Native",
@@ -136,21 +145,21 @@
   },
   {
     "date": "08/05/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=859367",
-    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
-  },
-  {
-    "date": "08/05/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
     "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=859394",
     "headline": "How To Improve Aging Skin (Do This Every Day)",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61b081e36.jpg"
+  },
+  {
+    "date": "08/05/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=859367",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
   },
   {
     "date": "08/04/17",
@@ -217,21 +226,21 @@
   },
   {
     "date": "07/31/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://freekit.birchgold.com/lf/post-bubble-america/?utm_medium=email&utm_campaign=rav&utm_source=bdn&msid=16763&utm_content=sp_pba_v01a_073117_&placement=pba",
-    "headline": "Reagan adviser warns of coming \"fiscal bloodbath\"",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a449fc665a.jpg "
-  },
-  {
-    "date": "07/31/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Media Force",
     "sponsor_url": "http://tracking.lifestylejournal.com/aff_c?offer_id=699&aff_id=1346&aff_sub=blz&aff_sub2=nwsldrp731",
     "headline": "Forget Adderall. This is the \"Genius\" pill you want. Hits market in 12 hours",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/s/597b7529b4ed1.jpg"
+  },
+  {
+    "date": "07/31/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://freekit.birchgold.com/lf/post-bubble-america/?utm_medium=email&utm_campaign=rav&utm_source=bdn&msid=16763&utm_content=sp_pba_v01a_073117_&placement=pba",
+    "headline": "Reagan adviser warns of coming \"fiscal bloodbath\"",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a449fc665a.jpg "
   },
   {
     "date": "07/29/17",
@@ -289,21 +298,21 @@
   },
   {
     "date": "07/25/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
-    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
-  },
-  {
-    "date": "07/25/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://probioticamerica.com/cmd.php?ad=858652",
     "headline": "Dr. reveals easy fix for constipation and bloating",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597248a29d60a.jpg"
+  },
+  {
+    "date": "07/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
+    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
   },
   {
     "date": "07/24/17",
