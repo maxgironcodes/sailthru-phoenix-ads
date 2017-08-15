@@ -27,13 +27,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc5dc99742.jpg"
   },
   {
-    "date": "08/15/17",
+    "date": "08/16/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.healthradarreport.com/Health/RDR/Offers/Radar-Allergy-Proof-Intro?dkt_nbr=ds5zicif",
-    "headline": "What your doctor won’t tell you about healing your allergies",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc94c7cc8e.jpg"
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=dailyam_8.16.17",
+    "headline": "New people search engine goes viral. Have you seen what is posted about you?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/f/59933d2a3bf5c.jpg"
   },
   {
     "date": "08/15/17",
@@ -43,6 +43,15 @@
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Trusting your agent is more vital than ever",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "08/15/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.healthradarreport.com/Health/RDR/Offers/Radar-Allergy-Proof-Intro?dkt_nbr=ds5zicif",
+    "headline": "What your doctor won’t tell you about healing your allergies",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc94c7cc8e.jpg"
   },
   {
     "date": "08/14/17",
@@ -145,21 +154,21 @@
   },
   {
     "date": "08/07/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Express Employment",
-    "sponsor_url": "http://expressfranchising.com/articles/2017-a-year-for-business/",
-    "headline": "A pro-business administration makes now the time to open a franchise",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/2/59820fb7d82e0.jpg"
-  },
-  {
-    "date": "08/07/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Agents are wasting too much time on the market",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "08/07/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Express Employment",
+    "sponsor_url": "http://expressfranchising.com/articles/2017-a-year-for-business/",
+    "headline": "A pro-business administration makes now the time to open a franchise",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/2/59820fb7d82e0.jpg"
   },
   {
     "date": "08/06/17",
@@ -208,15 +217,6 @@
   },
   {
     "date": "08/03/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=859390",
-    "headline": "If you suffer from callused feet, try this amazing trick",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61b952010.jpg"
-  },
-  {
-    "date": "08/03/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Truthfinder",
@@ -225,13 +225,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/2/598246296b0c2.jpg"
   },
   {
-    "date": "08/02/17",
+    "date": "08/03/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=859388",
-    "headline": "New research reveals once daily trick to get rid of belly fat",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c8b4260.jpg"
+    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=859390",
+    "headline": "If you suffer from callused feet, try this amazing trick",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61b952010.jpg"
   },
   {
     "date": "08/02/17",
@@ -241,6 +241,15 @@
     "sponsor_url": "https://preparewith.com/theblaze-native.ad-102svgs",
     "headline": "These days feel like 9/10/01. North Korea, Russia, markets trading high. Patriots are using sunny days like today to prepare",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/v/597f831c4c6f0.jpg"
+  },
+  {
+    "date": "08/02/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=859388",
+    "headline": "New research reveals once daily trick to get rid of belly fat",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c8b4260.jpg"
   },
   {
     "date": "08/01/17",
