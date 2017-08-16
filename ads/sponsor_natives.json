@@ -18,13 +18,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc60fd3cc8.jpg"
   },
   {
-    "date": "08/16/17",
+    "date": "08/17/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=860929",
-    "headline": "How to fix crepe skin: Beverly Hills surgeon explains at home fix for crepe skin around the arms, legs, and stomach",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc5dc99742.jpg"
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "www.allsaintsmovie.com",
+    "headline": "Pastor turned farmer saves his church from closing their doors",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/g/59949cfa32c58.jpg"
   },
   {
     "date": "08/16/17",
@@ -34,6 +34,15 @@
     "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=dailyam_8.16.17",
     "headline": "New people search engine goes viral. Have you seen what is posted about you?",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/f/59933d2a3bf5c.jpg"
+  },
+  {
+    "date": "08/16/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=860929",
+    "headline": "How to fix crepe skin: Beverly Hills surgeon explains at home fix for crepe skin around the arms, legs, and stomach",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc5dc99742.jpg"
   },
   {
     "date": "08/15/17",
@@ -64,15 +73,6 @@
   },
   {
     "date": "08/12/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860144",
-    "headline": "Warning: Do not use probiotics before you see this",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/3/5983a8b86f6a3.jpeg"
-  },
-  {
-    "date": "08/12/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
@@ -81,13 +81,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/a/598c856bb3341.jpeg"
   },
   {
-    "date": "08/11/17",
-    "newsletter": "AM",
+    "date": "08/12/17",
+    "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860146",
-    "headline": "This simple fix is completely transforming bad skin",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61e069f94.jpg"
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860144",
+    "headline": "Warning: Do not use probiotics before you see this",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/3/5983a8b86f6a3.jpeg"
   },
   {
     "date": "08/11/17",
@@ -97,6 +97,15 @@
     "sponsor_url": "http://the.avaoneweb.com/ff3f0c1a-7350-4469-828d-80f0f24ea625",
     "headline": "Student uses this method to melt fat quickly",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/9/598b648f3d53a.png"
+  },
+  {
+    "date": "08/11/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860146",
+    "headline": "This simple fix is completely transforming bad skin",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61e069f94.jpg"
   },
   {
     "date": "08/10/17",
@@ -154,21 +163,21 @@
   },
   {
     "date": "08/07/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Agents are wasting too much time on the market",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "08/07/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Express Employment",
     "sponsor_url": "http://expressfranchising.com/articles/2017-a-year-for-business/",
     "headline": "A pro-business administration makes now the time to open a franchise",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/2/59820fb7d82e0.jpg"
+  },
+  {
+    "date": "08/07/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Agents are wasting too much time on the market",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "08/06/17",
