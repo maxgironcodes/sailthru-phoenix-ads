@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc7de80247.jpg"
   },
   {
+    "date": "08/19/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://dermafort.net/?affId=42A4ADB8&c1=blnaneded19Aug17A",
+    "headline": "Nail fungus: Lack these two nutrients and you risk total body infection",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/h/5995db74525a1.jpg"
+  },
+  {
     "date": "08/18/17",
     "newsletter": "AM",
     "type": "Native",
@@ -22,7 +31,7 @@
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "www.allsaintsmovie.com",
+    "sponsor_url": "http://www.allsaintsmovie.com",
     "headline": "Pastor turned farmer saves his church from closing their doors",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/g/59949cfa32c58.jpg"
   },
@@ -46,21 +55,21 @@
   },
   {
     "date": "08/15/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Trusting your agent is more vital than ever",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "08/15/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
     "sponsor_url": "https://w3.healthradarreport.com/Health/RDR/Offers/Radar-Allergy-Proof-Intro?dkt_nbr=ds5zicif",
     "headline": "What your doctor won’t tell you about healing your allergies",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc94c7cc8e.jpg"
+  },
+  {
+    "date": "08/15/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Trusting your agent is more vital than ever",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "08/14/17",
@@ -73,21 +82,21 @@
   },
   {
     "date": "08/12/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "https://dermafort.net/?affId=42A4ADB8&c1=blnaneded12Aug17A",
-    "headline": "This eating habit is feeding your nail fungus",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/a/598c856bb3341.jpeg"
-  },
-  {
-    "date": "08/12/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=860144",
     "headline": "Warning: Do not use probiotics before you see this",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/3/5983a8b86f6a3.jpeg"
+  },
+  {
+    "date": "08/12/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://dermafort.net/?affId=42A4ADB8&c1=blnaneded12Aug17A",
+    "headline": "This eating habit is feeding your nail fungus",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/a/598c856bb3341.jpeg"
   },
   {
     "date": "08/11/17",
@@ -145,21 +154,21 @@
   },
   {
     "date": "08/08/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "NMH",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/682662",
-    "headline": "Video from Hillary’s past could land her in jail",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/4/5984cedc126e7.jpg"
-  },
-  {
-    "date": "08/08/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "JWRA",
     "sponsor_url": "http://www.buyvicanna.com/601154",
     "headline": "Medical community stunned by discovery of powerful pain relief benefits in once outlawed painkiller",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/7/5988874e26d5f.jpg"
+  },
+  {
+    "date": "08/08/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "NMH",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/682662",
+    "headline": "Video from Hillary’s past could land her in jail",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/4/5984cedc126e7.jpg"
   },
   {
     "date": "08/07/17",
@@ -208,15 +217,6 @@
   },
   {
     "date": "08/04/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=859373",
-    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
-  },
-  {
-    "date": "08/04/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
@@ -225,13 +225,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61e069f94.jpg"
   },
   {
-    "date": "08/03/17",
+    "date": "08/04/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=dailypm_8.3.17",
-    "headline": "Google won’t dare show this, enter your name to see what site posts about you",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/2/598246296b0c2.jpg"
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=859373",
+    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
   },
   {
     "date": "08/03/17",
@@ -243,13 +243,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61b952010.jpg"
   },
   {
-    "date": "08/02/17",
+    "date": "08/03/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "My Patriot Supply",
-    "sponsor_url": "https://preparewith.com/theblaze-native.ad-102svgs",
-    "headline": "These days feel like 9/10/01. North Korea, Russia, markets trading high. Patriots are using sunny days like today to prepare",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/v/597f831c4c6f0.jpg"
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=dailypm_8.3.17",
+    "headline": "Google won’t dare show this, enter your name to see what site posts about you",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/2/598246296b0c2.jpg"
   },
   {
     "date": "08/02/17",
@@ -259,6 +259,15 @@
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=859388",
     "headline": "New research reveals once daily trick to get rid of belly fat",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c8b4260.jpg"
+  },
+  {
+    "date": "08/02/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "My Patriot Supply",
+    "sponsor_url": "https://preparewith.com/theblaze-native.ad-102svgs",
+    "headline": "These days feel like 9/10/01. North Korea, Russia, markets trading high. Patriots are using sunny days like today to prepare",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/v/597f831c4c6f0.jpg"
   },
   {
     "date": "08/01/17",
@@ -325,15 +334,6 @@
   },
   {
     "date": "07/26/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pros.bonnerandpartners.com/p/1706BNFLAUNCH/LBNFT725/?h=true",
-    "headline": "Last year, I recommended the best-performing stock in the S&P 500",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/p/597802107cf23.png"
-  },
-  {
-    "date": "07/26/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -342,13 +342,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597249798d906.jpg"
   },
   {
-    "date": "07/25/17",
+    "date": "07/26/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
-    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pros.bonnerandpartners.com/p/1706BNFLAUNCH/LBNFT725/?h=true",
+    "headline": "Last year, I recommended the best-performing stock in the S&P 500",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/p/597802107cf23.png"
   },
   {
     "date": "07/25/17",
@@ -358,6 +358,15 @@
     "sponsor_url": "http://probioticamerica.com/cmd.php?ad=858652",
     "headline": "Dr. reveals easy fix for constipation and bloating",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597248a29d60a.jpg"
+  },
+  {
+    "date": "07/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
+    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
   },
   {
     "date": "07/24/17",
