@@ -1,5 +1,14 @@
 [
   {
+    "date": "08/22/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=861641",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
+  },
+  {
     "date": "08/21/17",
     "newsletter": "PM",
     "type": "Native",
@@ -10,21 +19,21 @@
   },
   {
     "date": "08/19/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=860926",
-    "headline": "Body repair trick hidden by The Establishment",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc7de80247.jpg"
-  },
-  {
-    "date": "08/19/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
     "sponsor_url": "https://dermafort.net/?affId=42A4ADB8&c1=blnaneded19Aug17A",
     "headline": "Nail fungus: Lack these two nutrients and you risk total body infection",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/h/5995db74525a1.jpg"
+  },
+  {
+    "date": "08/19/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=860926",
+    "headline": "Body repair trick hidden by The Establishment",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc7de80247.jpg"
   },
   {
     "date": "08/18/17",
@@ -46,15 +55,6 @@
   },
   {
     "date": "08/16/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=dailyam_8.16.17",
-    "headline": "New people search engine goes viral. Have you seen what is posted about you?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/f/59933d2a3bf5c.jpg"
-  },
-  {
-    "date": "08/16/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -63,13 +63,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc5dc99742.jpg"
   },
   {
-    "date": "08/15/17",
-    "newsletter": "PM",
+    "date": "08/16/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Trusting your agent is more vital than ever",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=dailyam_8.16.17",
+    "headline": "New people search engine goes viral. Have you seen what is posted about you?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/f/59933d2a3bf5c.jpg"
   },
   {
     "date": "08/15/17",
@@ -79,6 +79,15 @@
     "sponsor_url": "https://w3.healthradarreport.com/Health/RDR/Offers/Radar-Allergy-Proof-Intro?dkt_nbr=ds5zicif",
     "headline": "What your doctor won’t tell you about healing your allergies",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc94c7cc8e.jpg"
+  },
+  {
+    "date": "08/15/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Trusting your agent is more vital than ever",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "08/14/17",
@@ -145,21 +154,21 @@
   },
   {
     "date": "08/09/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860137",
-    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
-  },
-  {
-    "date": "08/09/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-tactics",
     "sponsor_url": "https://pro.logicalhealthalternatives.com/m/726757",
     "headline": "One sentence in Vatican document stuns oncologists. Watch now",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/8/5989e517b1ca4.jpg"
+  },
+  {
+    "date": "08/09/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860137",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
   },
   {
     "date": "08/08/17",
@@ -262,21 +271,21 @@
   },
   {
     "date": "08/02/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "My Patriot Supply",
-    "sponsor_url": "https://preparewith.com/theblaze-native.ad-102svgs",
-    "headline": "These days feel like 9/10/01. North Korea, Russia, markets trading high. Patriots are using sunny days like today to prepare",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/v/597f831c4c6f0.jpg"
-  },
-  {
-    "date": "08/02/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=859388",
     "headline": "New research reveals once daily trick to get rid of belly fat",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c8b4260.jpg"
+  },
+  {
+    "date": "08/02/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "My Patriot Supply",
+    "sponsor_url": "https://preparewith.com/theblaze-native.ad-102svgs",
+    "headline": "These days feel like 9/10/01. North Korea, Russia, markets trading high. Patriots are using sunny days like today to prepare",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/v/597f831c4c6f0.jpg"
   },
   {
     "date": "08/01/17",
@@ -343,15 +352,6 @@
   },
   {
     "date": "07/26/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pros.bonnerandpartners.com/p/1706BNFLAUNCH/LBNFT725/?h=true",
-    "headline": "Last year, I recommended the best-performing stock in the S&P 500",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/p/597802107cf23.png"
-  },
-  {
-    "date": "07/26/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -360,13 +360,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597249798d906.jpg"
   },
   {
-    "date": "07/25/17",
+    "date": "07/26/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
-    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pros.bonnerandpartners.com/p/1706BNFLAUNCH/LBNFT725/?h=true",
+    "headline": "Last year, I recommended the best-performing stock in the S&P 500",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/p/597802107cf23.png"
   },
   {
     "date": "07/25/17",
@@ -376,6 +376,15 @@
     "sponsor_url": "http://probioticamerica.com/cmd.php?ad=858652",
     "headline": "Dr. reveals easy fix for constipation and bloating",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/l/597248a29d60a.jpg"
+  },
+  {
+    "date": "07/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=858653",
+    "headline": "Doctor reveals the 3 signs you may have a fatty liver",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/6/595e9ba13fc2b.jpg"
   },
   {
     "date": "07/24/17",
