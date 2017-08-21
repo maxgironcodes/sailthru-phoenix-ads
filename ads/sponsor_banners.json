@@ -10,17 +10,31 @@
     }
   },
   {
+    "date": "08/23/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Truthfinder",
+    "top": {
+      "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=naomi",
+      "image_url": "https://media.sailthru.com/3ia/1k1/8/l/599b4e2f1e0e8.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=heather",
+      "image_url": "https://media.sailthru.com/3ia/1k1/8/l/599b4e43f35a8.jpg"
+    }
+  },
+  {
     "date": "08/22/17",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Filterbuy",
     "top": {
       "sponsor_url": "https://filterbuy.com/air-filter-sizes/",
-      "image_url": "https://media.sailthru.com/3ia/1k1/8/l/599b4bb93d2db.jpg"
+      "image_url": "https://media.sailthru.com/3ia/1k1/8/l/599b4bcb93a29.jpg"
     },
     "bottom": {
       "sponsor_url": "https://filterbuy.com/air-filter-sizes/",
-      "image_url": "https://media.sailthru.com/3ia/1k1/8/l/599b4bcb93a29.jpg"
+      "image_url": "https://media.sailthru.com/3ia/1k1/8/l/599b4bb93d2db.jpg"
     }
   },
   {
