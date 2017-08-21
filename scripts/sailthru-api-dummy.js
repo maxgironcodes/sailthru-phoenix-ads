@@ -63,9 +63,11 @@ function initTest(newEntry) {
     var condensedEntries = [];
 
     // 35 is the limit for readlineSync options
-    for (i = 0; i < 35; i++) {
-      var thisEntry = file.data[i];
-      condensedEntries.push(thisEntry.date + " " + thisEntry.newsletter + " " + thisEntry.sponsor_name + " (" + thisEntry.type + ")");
+    for (i = 0; i < file.data.length; i++) {
+      if (file.data.length < 35) {
+        var thisEntry = file.data[i];
+        condensedEntries.push(thisEntry.date + " " + thisEntry.newsletter + " " + thisEntry.sponsor_name + " (" + thisEntry.type + ")");
+      }
     }
 
     var index = readlineSync.keyInSelect(condensedEntries, chalk.request("Send test for which ad? (Latest 35 entries)"));
