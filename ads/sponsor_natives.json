@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/i/59973748248b0.jpg"
   },
   {
+    "date": "08/23/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "This is the best choice you can make in real estate",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
     "date": "08/22/17",
     "newsletter": "PM",
     "type": "Native",
@@ -82,21 +91,21 @@
   },
   {
     "date": "08/15/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.healthradarreport.com/Health/RDR/Offers/Radar-Allergy-Proof-Intro?dkt_nbr=ds5zicif",
-    "headline": "What your doctor won’t tell you about healing your allergies",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc94c7cc8e.jpg"
-  },
-  {
-    "date": "08/15/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Trusting your agent is more vital than ever",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "08/15/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.healthradarreport.com/Health/RDR/Offers/Radar-Allergy-Proof-Intro?dkt_nbr=ds5zicif",
+    "headline": "What your doctor won’t tell you about healing your allergies",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc94c7cc8e.jpg"
   },
   {
     "date": "08/14/17",
@@ -163,21 +172,21 @@
   },
   {
     "date": "08/09/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860137",
-    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
-  },
-  {
-    "date": "08/09/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-tactics",
     "sponsor_url": "https://pro.logicalhealthalternatives.com/m/726757",
     "headline": "One sentence in Vatican document stuns oncologists. Watch now",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/8/5989e517b1ca4.jpg"
+  },
+  {
+    "date": "08/09/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860137",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
   },
   {
     "date": "08/08/17",
@@ -199,21 +208,21 @@
   },
   {
     "date": "08/07/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Express Employment",
-    "sponsor_url": "http://expressfranchising.com/articles/2017-a-year-for-business/",
-    "headline": "A pro-business administration makes now the time to open a franchise",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/2/59820fb7d82e0.jpg"
-  },
-  {
-    "date": "08/07/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Agents are wasting too much time on the market",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "08/07/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Express Employment",
+    "sponsor_url": "http://expressfranchising.com/articles/2017-a-year-for-business/",
+    "headline": "A pro-business administration makes now the time to open a franchise",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/2/59820fb7d82e0.jpg"
   },
   {
     "date": "08/06/17",
