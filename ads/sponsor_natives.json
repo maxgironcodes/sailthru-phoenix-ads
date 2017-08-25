@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/o/599f5b504fcbf.jpg"
   },
   {
+    "date": "08/30/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=862382",
+    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy.Do this every day",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
+  },
+  {
     "date": "08/27/17",
     "newsletter": "AM",
     "type": "Native",
@@ -118,21 +127,21 @@
   },
   {
     "date": "08/16/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=dailyam_8.16.17",
-    "headline": "New people search engine goes viral. Have you seen what is posted about you?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/f/59933d2a3bf5c.jpg"
-  },
-  {
-    "date": "08/16/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=860929",
     "headline": "How to fix crepe skin: Beverly Hills surgeon explains at home fix for crepe skin around the arms, legs, and stomach",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc5dc99742.jpg"
+  },
+  {
+    "date": "08/16/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=dailyam_8.16.17",
+    "headline": "New people search engine goes viral. Have you seen what is posted about you?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/f/59933d2a3bf5c.jpg"
   },
   {
     "date": "08/15/17",
@@ -163,15 +172,6 @@
   },
   {
     "date": "08/12/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860144",
-    "headline": "Warning: Do not use probiotics before you see this",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/3/5983a8b86f6a3.jpeg"
-  },
-  {
-    "date": "08/12/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
@@ -180,13 +180,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/a/598c856bb3341.jpeg"
   },
   {
-    "date": "08/11/17",
-    "newsletter": "AM",
+    "date": "08/12/17",
+    "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860146",
-    "headline": "This simple fix is completely transforming bad skin",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61e069f94.jpg"
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860144",
+    "headline": "Warning: Do not use probiotics before you see this",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/3/5983a8b86f6a3.jpeg"
   },
   {
     "date": "08/11/17",
@@ -198,13 +198,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/9/598b648f3d53a.png"
   },
   {
-    "date": "08/10/17",
-    "newsletter": "PM",
+    "date": "08/11/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.healthyalliance.net/m/704256",
-    "headline": "Obama agent caught inside the White House",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/9/598b2ac1836d6.jpg"
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=860146",
+    "headline": "This simple fix is completely transforming bad skin",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61e069f94.jpg"
   },
   {
     "date": "08/10/17",
@@ -214,6 +214,15 @@
     "sponsor_url": "https://w3.brownsteinhealth.com/Health/DRB/LP/Brownstein-Arthritis-Proof-Trial?dkt_nbr=re83ncdy",
     "headline": "Doctor’s secrets of pain-free living work when costly drugs don’t",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/7/5988e1775e53e.jpg"
+  },
+  {
+    "date": "08/10/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.healthyalliance.net/m/704256",
+    "headline": "Obama agent caught inside the White House",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/9/598b2ac1836d6.jpg"
   },
   {
     "date": "08/09/17",
