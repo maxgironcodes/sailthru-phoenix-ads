@@ -1,5 +1,14 @@
 [
   {
+    "date": "09/01/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=862383",
+    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04db399396.jpg"
+  },
+  {
     "date": "08/31/17",
     "newsletter": "AM",
     "type": "Native",
@@ -10,21 +19,21 @@
   },
   {
     "date": "08/30/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Foundation",
-    "sponsor_url": "https://www.rwpvideo.org/daily-bread",
-    "headline": "Would you survive a solar flare? It's not if, but when",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/o/599f5b504fcbf.jpg"
-  },
-  {
-    "date": "08/30/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=862382",
     "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
+  },
+  {
+    "date": "08/30/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Foundation",
+    "sponsor_url": "https://www.rwpvideo.org/daily-bread",
+    "headline": "Would you survive a solar flare? It's not if, but when",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/o/599f5b504fcbf.jpg"
   },
   {
     "date": "08/27/17",
