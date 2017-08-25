@@ -36,6 +36,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/o/599f5b504fcbf.jpg"
   },
   {
+    "date": "08/29/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "http://www.newsmax.com/surveys/TrumpvsObama/Who-Is-Better-Trump-or-Obama/id/368/kw/default?dkt_nbr=010301h9kbwu",
+    "headline": "Obama better than Trump? Vote here",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a06c521763d.jpg"
+  },
+  {
     "date": "08/28/17",
     "newsletter": "AM",
     "type": "Native",
@@ -55,21 +64,21 @@
   },
   {
     "date": "08/26/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "http://veddabloodsugarprotocol.com/?aff_id=605033&subid=blnaneded26Aug17A",
-    "headline": "One tablespoon of this may keep your blood sugar below 100 mg/dl",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
-  },
-  {
-    "date": "08/26/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=861649",
     "headline": "The root of all skin problems, and the simple fix that may surprise you",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/i/59973748248b0.jpg"
+  },
+  {
+    "date": "08/26/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "http://veddabloodsugarprotocol.com/?aff_id=605033&subid=blnaneded26Aug17A",
+    "headline": "One tablespoon of this may keep your blood sugar below 100 mg/dl",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
   },
   {
     "date": "08/25/17",
@@ -118,21 +127,21 @@
   },
   {
     "date": "08/19/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "https://dermafort.net/?affId=42A4ADB8&c1=blnaneded19Aug17A",
-    "headline": "Nail fungus: Lack these two nutrients and you risk total body infection",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/h/5995db74525a1.jpg"
-  },
-  {
-    "date": "08/19/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=860926",
     "headline": "Body repair trick hidden by The Establishment",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc7de80247.jpg"
+  },
+  {
+    "date": "08/19/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://dermafort.net/?affId=42A4ADB8&c1=blnaneded19Aug17A",
+    "headline": "Nail fungus: Lack these two nutrients and you risk total body infection",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/h/5995db74525a1.jpg"
   },
   {
     "date": "08/18/17",
@@ -172,21 +181,21 @@
   },
   {
     "date": "08/15/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.healthradarreport.com/Health/RDR/Offers/Radar-Allergy-Proof-Intro?dkt_nbr=ds5zicif",
-    "headline": "What your doctor won’t tell you about healing your allergies",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc94c7cc8e.jpg"
-  },
-  {
-    "date": "08/15/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Trusting your agent is more vital than ever",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "08/15/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.healthradarreport.com/Health/RDR/Offers/Radar-Allergy-Proof-Intro?dkt_nbr=ds5zicif",
+    "headline": "What your doctor won’t tell you about healing your allergies",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc94c7cc8e.jpg"
   },
   {
     "date": "08/14/17",
