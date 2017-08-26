@@ -1,5 +1,19 @@
 [
   {
+    "date": "08/28/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Filterbuy",
+    "top": {
+      "sponsor_url": "https://filterbuy.com/air-filter-sizes/",
+      "image_url": "https://media.sailthru.com/3ia/1k1/8/l/599b4bcb93a29.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://media.sailthru.com/3ia/1k1/8/l/599b4bb93d2db.jpg",
+      "image_url": "https://filterbuy.com/air-filter-sizes/"
+    }
+  },
+  {
     "date": "08/25/17",
     "newsletter": "AM",
     "type": "Banners",
