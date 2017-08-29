@@ -1,5 +1,14 @@
 [
   {
+    "date": "09/08/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Marketing Keys",
+    "sponsor_url": "www.projectblindsided.com",
+    "headline": "The ten-year battle to bring justice to a baby born with no eyes",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d471c916e7.jpeg"
+  },
+  {
     "date": "09/01/17",
     "newsletter": "AM",
     "type": "Native",
@@ -127,21 +136,21 @@
   },
   {
     "date": "08/19/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=860926",
-    "headline": "Body repair trick hidden by The Establishment",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc7de80247.jpg"
-  },
-  {
-    "date": "08/19/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
     "sponsor_url": "https://dermafort.net/?affId=42A4ADB8&c1=blnaneded19Aug17A",
     "headline": "Nail fungus: Lack these two nutrients and you risk total body infection",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/h/5995db74525a1.jpg"
+  },
+  {
+    "date": "08/19/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=860926",
+    "headline": "Body repair trick hidden by The Establishment",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc7de80247.jpg"
   },
   {
     "date": "08/18/17",
@@ -181,21 +190,21 @@
   },
   {
     "date": "08/15/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Trusting your agent is more vital than ever",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "08/15/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
     "sponsor_url": "https://w3.healthradarreport.com/Health/RDR/Offers/Radar-Allergy-Proof-Intro?dkt_nbr=ds5zicif",
     "headline": "What your doctor won’t tell you about healing your allergies",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc94c7cc8e.jpg"
+  },
+  {
+    "date": "08/15/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Trusting your agent is more vital than ever",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "08/14/17",
