@@ -1,14 +1,5 @@
 [
   {
-    "date": "09/06/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Conquer",
-    "sponsor_url": "https://arkencounter.com/?utm_source=Blaze&utm_medium=paid&utm_campaign=Think%20Bigger&utm_term=q2q3",
-    "headline": "Don't miss your chance to visit the Ark. It's bigger than imagination.",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a065e2127c7.jpg"
-  },
-  {
     "date": "09/21/17",
     "newsletter": "PM",
     "type": "Native",
@@ -37,6 +28,15 @@
   },
   {
     "date": "09/06/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Conquer",
+    "sponsor_url": "https://arkencounter.com/?utm_source=Blaze&utm_medium=paid&utm_campaign=Think%20Bigger&utm_term=q2q3",
+    "headline": "Don't miss your chance to visit the Ark. It's bigger than imagination.",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a065e2127c7.jpg"
+  },
+  {
+    "date": "09/06/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
@@ -52,6 +52,15 @@
     "sponsor_url": "http://ag.allegiancegold.com/federal/?utm_source=blz&utm_medium=blaze&utm_campaign=federal",
     "headline": "Fed’s new currency to end the dollar and wipe out your cash and savings",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/v/59a88756aa805.jpg"
+  },
+  {
+    "date": "09/05/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Michael Vey",
+    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
+    "headline": "Find out why Michael Vey is missing on September 12th",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/1/59a97beabd999.jpg"
   },
   {
     "date": "09/04/17",
@@ -145,21 +154,21 @@
   },
   {
     "date": "08/26/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "http://veddabloodsugarprotocol.com/?aff_id=605033&subid=blnaneded26Aug17A",
-    "headline": "One tablespoon of this may keep your blood sugar below 100 mg/dl",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
-  },
-  {
-    "date": "08/26/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=861649",
     "headline": "The root of all skin problems, and the simple fix that may surprise you",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/i/59973748248b0.jpg"
+  },
+  {
+    "date": "08/26/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "http://veddabloodsugarprotocol.com/?aff_id=605033&subid=blnaneded26Aug17A",
+    "headline": "One tablespoon of this may keep your blood sugar below 100 mg/dl",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
   },
   {
     "date": "08/25/17",
@@ -244,15 +253,6 @@
   },
   {
     "date": "08/16/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=860929",
-    "headline": "How to fix crepe skin: Beverly Hills surgeon explains at home fix for crepe skin around the arms, legs, and stomach",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc5dc99742.jpg"
-  },
-  {
-    "date": "08/16/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Truthfinder",
@@ -261,13 +261,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/f/59933d2a3bf5c.jpg"
   },
   {
-    "date": "08/15/17",
-    "newsletter": "AM",
+    "date": "08/16/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.healthradarreport.com/Health/RDR/Offers/Radar-Allergy-Proof-Intro?dkt_nbr=ds5zicif",
-    "headline": "What your doctor won’t tell you about healing your allergies",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc94c7cc8e.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=860929",
+    "headline": "How to fix crepe skin: Beverly Hills surgeon explains at home fix for crepe skin around the arms, legs, and stomach",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc5dc99742.jpg"
   },
   {
     "date": "08/15/17",
@@ -277,6 +277,15 @@
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Trusting your agent is more vital than ever",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "08/15/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.healthradarreport.com/Health/RDR/Offers/Radar-Allergy-Proof-Intro?dkt_nbr=ds5zicif",
+    "headline": "What your doctor won’t tell you about healing your allergies",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc94c7cc8e.jpg"
   },
   {
     "date": "08/14/17",
