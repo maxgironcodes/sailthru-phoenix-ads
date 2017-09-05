@@ -27,6 +27,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
   },
   {
+    "date": "09/06/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.financialintelligencereport.com/Finance/FIR/Offers/FIR-Gen-Zero-Video-6Mo?dkt_nbr=010301c6qs9t",
+    "headline": "Steve Bannon's dark secret",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/5/59aeca8ab3b43.jpg"
+  },
+  {
     "date": "09/05/17",
     "newsletter": "AM",
     "type": "Native",
@@ -64,21 +73,21 @@
   },
   {
     "date": "08/31/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=862384",
-    "headline": "Los Angeles Dr. reveals how to: Get rid of deep belly fat",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
-  },
-  {
-    "date": "08/31/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Trusting your agent is vital",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "08/31/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=862384",
+    "headline": "Los Angeles Dr. reveals how to: Get rid of deep belly fat",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
   },
   {
     "date": "08/30/17",
@@ -190,21 +199,21 @@
   },
   {
     "date": "08/19/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "https://dermafort.net/?affId=42A4ADB8&c1=blnaneded19Aug17A",
-    "headline": "Nail fungus: Lack these two nutrients and you risk total body infection",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/h/5995db74525a1.jpg"
-  },
-  {
-    "date": "08/19/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=860926",
     "headline": "Body repair trick hidden by The Establishment",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc7de80247.jpg"
+  },
+  {
+    "date": "08/19/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://dermafort.net/?affId=42A4ADB8&c1=blnaneded19Aug17A",
+    "headline": "Nail fungus: Lack these two nutrients and you risk total body infection",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/h/5995db74525a1.jpg"
   },
   {
     "date": "08/18/17",
