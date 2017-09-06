@@ -27,13 +27,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
   },
   {
-    "date": "09/06/17",
-    "newsletter": "PM",
+    "date": "09/07/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Conquer",
-    "sponsor_url": "https://arkencounter.com/?utm_source=Blaze&utm_medium=paid&utm_campaign=Think%20Bigger&utm_term=q2q3",
-    "headline": "Don't miss your chance to visit the Ark. It's bigger than imagination.",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a065e2127c7.jpg"
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.healthyalliance.net/m/704256",
+    "headline": "Trump to end the dollar as we know It by 2018?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/6/59b02c4cee7b0.jpg"
   },
   {
     "date": "09/06/17",
@@ -45,13 +45,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/5/59aeca8ab3b43.jpg"
   },
   {
-    "date": "09/05/17",
-    "newsletter": "AM",
+    "date": "09/06/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "JWRA",
-    "sponsor_url": "http://ag.allegiancegold.com/federal/?utm_source=blz&utm_medium=blaze&utm_campaign=federal",
-    "headline": "Fed’s new currency to end the dollar and wipe out your cash and savings",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/v/59a88756aa805.jpg"
+    "sponsor_name": "Conquer",
+    "sponsor_url": "https://arkencounter.com/?utm_source=Blaze&utm_medium=paid&utm_campaign=Think%20Bigger&utm_term=q2q3",
+    "headline": "Don't miss your chance to visit the Ark. It's bigger than imagination.",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a065e2127c7.jpg"
   },
   {
     "date": "09/05/17",
@@ -61,6 +61,15 @@
     "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
     "headline": "September 12th : Is this the end of Michael Vey?",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/1/59a97beabd999.jpg"
+  },
+  {
+    "date": "09/05/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "JWRA",
+    "sponsor_url": "http://ag.allegiancegold.com/federal/?utm_source=blz&utm_medium=blaze&utm_campaign=federal",
+    "headline": "Fed’s new currency to end the dollar and wipe out your cash and savings",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/v/59a88756aa805.jpg"
   },
   {
     "date": "09/04/17",
@@ -91,21 +100,21 @@
   },
   {
     "date": "08/31/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Trusting your agent is vital",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "08/31/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=862384",
     "headline": "Los Angeles Dr. reveals how to: Get rid of deep belly fat",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
+  },
+  {
+    "date": "08/31/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Trusting your agent is vital",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "08/30/17",
