@@ -18,6 +18,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d471c916e7.jpeg"
   },
   {
+    "date": "09/11/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "TN Marketing",
+    "sponsor_url": "https://go.personaldefensenetwork.com/blazenews/",
+    "headline": "Learn how to defend yourself and your family when face to face with an attacker",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/7/59b16990e4980.png"
+  },
+  {
     "date": "09/09/17",
     "newsletter": "AM",
     "type": "Native",
@@ -55,21 +64,21 @@
   },
   {
     "date": "09/06/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Conquer",
-    "sponsor_url": "https://arkencounter.com/?utm_source=Blaze&utm_medium=paid&utm_campaign=Think%20Bigger&utm_term=q2q3",
-    "headline": "Don't miss your chance to visit the Ark. It's bigger than imagination.",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a065e2127c7.jpg"
-  },
-  {
-    "date": "09/06/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
     "sponsor_url": "https://w3.financialintelligencereport.com/Finance/FIR/Offers/FIR-Gen-Zero-Video-6Mo?dkt_nbr=010301c6qs9t",
     "headline": "Steve Bannon's dark secret",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/5/59aeca8ab3b43.jpg"
+  },
+  {
+    "date": "09/06/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Conquer",
+    "sponsor_url": "https://arkencounter.com/?utm_source=Blaze&utm_medium=paid&utm_campaign=Think%20Bigger&utm_term=q2q3",
+    "headline": "Don't miss your chance to visit the Ark. It's bigger than imagination.",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a065e2127c7.jpg"
   },
   {
     "date": "09/05/17",
@@ -181,21 +190,21 @@
   },
   {
     "date": "08/26/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=861649",
-    "headline": "The root of all skin problems, and the simple fix that may surprise you",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/59973748248b0.jpg"
-  },
-  {
-    "date": "08/26/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
     "sponsor_url": "http://veddabloodsugarprotocol.com/?aff_id=605033&subid=blnaneded26Aug17A",
     "headline": "One tablespoon of this may keep your blood sugar below 100 mg/dl",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
+  },
+  {
+    "date": "08/26/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=861649",
+    "headline": "The root of all skin problems, and the simple fix that may surprise you",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/59973748248b0.jpg"
   },
   {
     "date": "08/25/17",
