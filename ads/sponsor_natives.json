@@ -36,13 +36,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/6/59b02c4cee7b0.jpg"
   },
   {
-    "date": "09/06/17",
-    "newsletter": "AM",
+    "date": "09/07/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.financialintelligencereport.com/Finance/FIR/Offers/FIR-Gen-Zero-Video-6Mo?dkt_nbr=010301c6qs9t",
-    "headline": "Steve Bannon's dark secret",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/5/59aeca8ab3b43.jpg"
+    "sponsor_name": "Michael Vey",
+    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
+    "headline": "Fans Brace Themselves as Gripping ‘Michael Vey’ Finale Hits Bookstores September 12th",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/6/59b06c0e926e4.jpg"
   },
   {
     "date": "09/06/17",
@@ -54,13 +54,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a065e2127c7.jpg"
   },
   {
-    "date": "09/05/17",
-    "newsletter": "PM",
+    "date": "09/06/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Michael Vey",
-    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
-    "headline": "September 12th : Is this the end of Michael Vey?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/1/59a97beabd999.jpg"
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.financialintelligencereport.com/Finance/FIR/Offers/FIR-Gen-Zero-Video-6Mo?dkt_nbr=010301c6qs9t",
+    "headline": "Steve Bannon's dark secret",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/5/59aeca8ab3b43.jpg"
   },
   {
     "date": "09/05/17",
@@ -70,6 +70,15 @@
     "sponsor_url": "http://ag.allegiancegold.com/federal/?utm_source=blz&utm_medium=blaze&utm_campaign=federal",
     "headline": "Fed’s new currency to end the dollar and wipe out your cash and savings",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/v/59a88756aa805.jpg"
+  },
+  {
+    "date": "09/05/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Michael Vey",
+    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
+    "headline": "September 12th : Is this the end of Michael Vey?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/1/59a97beabd999.jpg"
   },
   {
     "date": "09/04/17",
@@ -100,21 +109,21 @@
   },
   {
     "date": "08/31/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=862384",
-    "headline": "Los Angeles Dr. reveals how to: Get rid of deep belly fat",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
-  },
-  {
-    "date": "08/31/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Trusting your agent is vital",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "08/31/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=862384",
+    "headline": "Los Angeles Dr. reveals how to: Get rid of deep belly fat",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
   },
   {
     "date": "08/30/17",
