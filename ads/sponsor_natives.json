@@ -18,6 +18,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d471c916e7.jpeg"
   },
   {
+    "date": "09/16/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=863973",
+    "headline": "New details reveal the root of 93 percent of skin problems",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/7/59b1c838235d6.jpg"
+  },
+  {
     "date": "09/14/17",
     "newsletter": "PM",
     "type": "Native",
@@ -64,21 +73,21 @@
   },
   {
     "date": "09/09/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded09Sep17A",
-    "headline": "This is how ear ringing can cause memory loss",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/o/599ef37dbc3a0.jpg"
-  },
-  {
-    "date": "09/09/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=863967",
     "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
+  },
+  {
+    "date": "09/09/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded09Sep17A",
+    "headline": "This is how ear ringing can cause memory loss",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/o/599ef37dbc3a0.jpg"
   },
   {
     "date": "09/08/17",
@@ -172,15 +181,6 @@
   },
   {
     "date": "08/31/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=862384",
-    "headline": "Los Angeles Dr. reveals how to: Get rid of deep belly fat",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
-  },
-  {
-    "date": "08/31/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
@@ -189,13 +189,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
-    "date": "08/30/17",
+    "date": "08/31/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=862382",
-    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=862384",
+    "headline": "Los Angeles Dr. reveals how to: Get rid of deep belly fat",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
   },
   {
     "date": "08/30/17",
@@ -205,6 +205,15 @@
     "sponsor_url": "https://www.rwpvideo.org/daily-bread",
     "headline": "Would you survive a solar flare? It's not if, but when",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/o/599f5b504fcbf.jpg"
+  },
+  {
+    "date": "08/30/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=862382",
+    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
   },
   {
     "date": "08/29/17",
@@ -235,21 +244,21 @@
   },
   {
     "date": "08/26/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=861649",
-    "headline": "The root of all skin problems, and the simple fix that may surprise you",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/59973748248b0.jpg"
-  },
-  {
-    "date": "08/26/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
     "sponsor_url": "http://veddabloodsugarprotocol.com/?aff_id=605033&subid=blnaneded26Aug17A",
     "headline": "One tablespoon of this may keep your blood sugar below 100 mg/dl",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
+  },
+  {
+    "date": "08/26/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=861649",
+    "headline": "The root of all skin problems, and the simple fix that may surprise you",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/59973748248b0.jpg"
   },
   {
     "date": "08/25/17",
