@@ -18,13 +18,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d471c916e7.jpeg"
   },
   {
-    "date": "09/11/17",
+    "date": "09/12/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "TN Marketing",
-    "sponsor_url": "https://go.personaldefensenetwork.com/blazenews/",
-    "headline": "Learn how to defend yourself and your family when face to face with an attacker",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/7/59b16990e4980.png"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=863966",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
     "date": "09/11/17",
@@ -34,6 +34,15 @@
     "sponsor_url": "https://pro.healthrevelations.net/m/682665",
     "headline": "Are you accidentally feeding cancerous cells?",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/7/59b1a4e85343d.jpg"
+  },
+  {
+    "date": "09/11/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "TN Marketing",
+    "sponsor_url": "https://go.personaldefensenetwork.com/blazenews/",
+    "headline": "Learn how to defend yourself and your family when face to face with an attacker",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/7/59b16990e4980.png"
   },
   {
     "date": "09/10/17",
@@ -91,21 +100,21 @@
   },
   {
     "date": "09/06/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.financialintelligencereport.com/Finance/FIR/Offers/FIR-Gen-Zero-Video-6Mo?dkt_nbr=010301c6qs9t",
-    "headline": "Steve Bannon's dark secret",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/5/59aeca8ab3b43.jpg"
-  },
-  {
-    "date": "09/06/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Conquer",
     "sponsor_url": "https://arkencounter.com/?utm_source=Blaze&utm_medium=paid&utm_campaign=Think%20Bigger&utm_term=q2q3",
     "headline": "Don't miss your chance to visit the Ark. It's bigger than imagination.",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a065e2127c7.jpg"
+  },
+  {
+    "date": "09/06/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.financialintelligencereport.com/Finance/FIR/Offers/FIR-Gen-Zero-Video-6Mo?dkt_nbr=010301c6qs9t",
+    "headline": "Steve Bannon's dark secret",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/5/59aeca8ab3b43.jpg"
   },
   {
     "date": "09/05/17",
@@ -172,21 +181,21 @@
   },
   {
     "date": "08/30/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=862382",
-    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
-  },
-  {
-    "date": "08/30/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Renaissance Foundation",
     "sponsor_url": "https://www.rwpvideo.org/daily-bread",
     "headline": "Would you survive a solar flare? It's not if, but when",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/o/599f5b504fcbf.jpg"
+  },
+  {
+    "date": "08/30/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=862382",
+    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
   },
   {
     "date": "08/29/17",
