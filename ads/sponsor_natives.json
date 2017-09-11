@@ -36,13 +36,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc60fd3cc8.jpg"
   },
   {
-    "date": "09/12/17",
-    "newsletter": "AM",
+    "date": "09/13/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=863966",
-    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
+    "sponsor_name": "Michael Vey",
+    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
+    "headline": "",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/8/59b2b72e4bd53.jpg"
   },
   {
     "date": "09/12/17",
@@ -52,6 +52,15 @@
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Your home is too valuable to risk to an amateur",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "09/12/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=863966",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
     "date": "09/11/17",
@@ -73,21 +82,21 @@
   },
   {
     "date": "09/10/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=863975",
-    "headline": "LA Dr. reveals how to: Get rid of deep belly fat",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
-  },
-  {
-    "date": "09/10/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Michael Vey",
     "sponsor_url": "http://mercuryink.com/michaelvey-7.html",
     "headline": "The book you won’t want to put down: Michael Vey 7 is now available!",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/8/59b2b72e4bd53.jpg"
+  },
+  {
+    "date": "09/10/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=863975",
+    "headline": "LA Dr. reveals how to: Get rid of deep belly fat",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
   },
   {
     "date": "09/09/17",
@@ -154,21 +163,21 @@
   },
   {
     "date": "09/05/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "JWRA",
-    "sponsor_url": "http://ag.allegiancegold.com/federal/?utm_source=blz&utm_medium=blaze&utm_campaign=federal",
-    "headline": "Fed’s new currency to end the dollar and wipe out your cash and savings",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/v/59a88756aa805.jpg"
-  },
-  {
-    "date": "09/05/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Michael Vey",
     "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
     "headline": "September 12th : Is this the end of Michael Vey?",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/1/59a97beabd999.jpg"
+  },
+  {
+    "date": "09/05/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "JWRA",
+    "sponsor_url": "http://ag.allegiancegold.com/federal/?utm_source=blz&utm_medium=blaze&utm_campaign=federal",
+    "headline": "Fed’s new currency to end the dollar and wipe out your cash and savings",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/v/59a88756aa805.jpg"
   },
   {
     "date": "09/04/17",
