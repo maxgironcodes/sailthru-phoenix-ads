@@ -45,13 +45,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/8/59b2b72e4bd53.jpg"
   },
   {
-    "date": "09/12/17",
-    "newsletter": "PM",
+    "date": "09/13/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Your home is too valuable to risk to an amateur",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+    "sponsor_name": "Thomas Nelson",
+    "sponsor_url": "http://bit.ly/2wsABaJ",
+    "headline": "The best is yet to come",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/c/59b851f7efd23.jpg"
   },
   {
     "date": "09/12/17",
@@ -63,13 +63,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
-    "date": "09/11/17",
-    "newsletter": "AM",
+    "date": "09/12/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "TN Marketing",
-    "sponsor_url": "https://go.personaldefensenetwork.com/blazenews/",
-    "headline": "Learn how to defend yourself and your family when face to face with an attacker",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/7/59b16990e4980.png"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Your home is too valuable to risk to an amateur",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "09/11/17",
@@ -79,6 +79,15 @@
     "sponsor_url": "https://pro.healthrevelations.net/m/682665",
     "headline": "Are you accidentally feeding cancerous cells?",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/7/59b1a4e85343d.jpg"
+  },
+  {
+    "date": "09/11/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "TN Marketing",
+    "sponsor_url": "https://go.personaldefensenetwork.com/blazenews/",
+    "headline": "Learn how to defend yourself and your family when face to face with an attacker",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/7/59b16990e4980.png"
   },
   {
     "date": "09/10/17",
@@ -127,21 +136,21 @@
   },
   {
     "date": "09/07/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.dailyreckoning.news/m/746243",
-    "headline": "Trump to end the dollar as we know It by 2018?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/6/59b02c4cee7b0.jpg"
-  },
-  {
-    "date": "09/07/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Michael Vey",
     "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
     "headline": "Fans Brace Themselves as Gripping ‘Michael Vey’ Finale Hits Bookstores September 12th",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/6/59b06c0e926e4.jpg"
+  },
+  {
+    "date": "09/07/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.dailyreckoning.news/m/746243",
+    "headline": "Trump to end the dollar as we know It by 2018?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/6/59b02c4cee7b0.jpg"
   },
   {
     "date": "09/06/17",
@@ -163,21 +172,21 @@
   },
   {
     "date": "09/05/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Michael Vey",
-    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
-    "headline": "September 12th : Is this the end of Michael Vey?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/1/59a97beabd999.jpg"
-  },
-  {
-    "date": "09/05/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "JWRA",
     "sponsor_url": "http://ag.allegiancegold.com/federal/?utm_source=blz&utm_medium=blaze&utm_campaign=federal",
     "headline": "Fed’s new currency to end the dollar and wipe out your cash and savings",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/v/59a88756aa805.jpg"
+  },
+  {
+    "date": "09/05/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Michael Vey",
+    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
+    "headline": "September 12th : Is this the end of Michael Vey?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/1/59a97beabd999.jpg"
   },
   {
     "date": "09/04/17",
@@ -208,21 +217,21 @@
   },
   {
     "date": "08/31/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Trusting your agent is vital",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "08/31/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=862384",
     "headline": "Los Angeles Dr. reveals how to: Get rid of deep belly fat",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
+  },
+  {
+    "date": "08/31/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Trusting your agent is vital",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "08/30/17",
