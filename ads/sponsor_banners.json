@@ -1,5 +1,19 @@
 [
   {
+    "date": "09/14/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Filterbuy",
+    "top": {
+      "sponsor_url": "https://filterbuy.com/air-filter-sizes/",
+      "image_url": "https://media.sailthru.com/3ia/1k1/8/q/59a1f80c90610.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://filterbuy.com/air-filter-sizes/",
+      "image_url": "https://media.sailthru.com/3ia/1k1/8/l/599b4bcb93a29.jpg"
+    }
+  },
+  {
     "date": "09/13/17",
     "newsletter": "AM",
     "type": "Banners",
@@ -10,8 +24,7 @@
     },
     "bottom": {
       "sponsor_url": "http://tracking.truthfinder.com/?a=244&amp;oc=27&amp;c=303&amp;dip=&amp;s1=9.12presell",
-      "image_url":
-      "https://media.sailthru.com/3ia/1k1/9/c/59b88f9fa7979.jpg"
+      "image_url": "https://media.sailthru.com/3ia/1k1/9/c/59b88f9fa7979.jpg"
     }
   },
   {
