@@ -18,6 +18,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d471c916e7.jpeg"
   },
   {
+    "date": "09/18/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "KingdomWorks",
+    "sponsor_url": "https://conquerseries.com/?imt=1&utm_campaign=The%20Blaze%20Website%20Banner%20-%20September%2012-14%2C%202017&utm_source=The%20Blaze&utm_medium=Web%20banner%20ad&utm_content=Life%20without%20Porn&utm_term=%7Bkeyword%7D",
+    "headline": "Thousands of men are quitting porn, here's why",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/e/59babff864fdb.jpg"
+  },
+  {
     "date": "09/16/17",
     "newsletter": "AM",
     "type": "Native",
@@ -163,15 +172,6 @@
   },
   {
     "date": "09/06/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.financialintelligencereport.com/Finance/FIR/Offers/FIR-Gen-Zero-Video-6Mo?dkt_nbr=010301c6qs9t",
-    "headline": "Steve Bannon's dark secret",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/5/59aeca8ab3b43.jpg"
-  },
-  {
-    "date": "09/06/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Conquer",
@@ -180,13 +180,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a065e2127c7.jpg"
   },
   {
-    "date": "09/05/17",
-    "newsletter": "PM",
+    "date": "09/06/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Michael Vey",
-    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
-    "headline": "September 12th : Is this the end of Michael Vey?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/1/59a97beabd999.jpg"
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.financialintelligencereport.com/Finance/FIR/Offers/FIR-Gen-Zero-Video-6Mo?dkt_nbr=010301c6qs9t",
+    "headline": "Steve Bannon's dark secret",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/5/59aeca8ab3b43.jpg"
   },
   {
     "date": "09/05/17",
@@ -196,6 +196,15 @@
     "sponsor_url": "http://ag.allegiancegold.com/federal/?utm_source=blz&utm_medium=blaze&utm_campaign=federal",
     "headline": "Fed’s new currency to end the dollar and wipe out your cash and savings",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/v/59a88756aa805.jpg"
+  },
+  {
+    "date": "09/05/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Michael Vey",
+    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
+    "headline": "September 12th : Is this the end of Michael Vey?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/1/59a97beabd999.jpg"
   },
   {
     "date": "09/04/17",
@@ -226,21 +235,21 @@
   },
   {
     "date": "08/31/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Trusting your agent is vital",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "08/31/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=862384",
     "headline": "Los Angeles Dr. reveals how to: Get rid of deep belly fat",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
+  },
+  {
+    "date": "08/31/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Trusting your agent is vital",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "08/30/17",
