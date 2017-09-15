@@ -14,6 +14,20 @@
     }
   },
   {
+    "date": "09/22/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "TheBlaze (In-house)",
+    "top": {
+      "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=AM&utm_medium=email&utm_campaign=Glenn+Beck+Premium",
+      "image_url": "https://my.sailthru.com/template/#5176818"
+    },
+    "bottom": {
+      "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=AM&utm_medium=email&utm_campaign=Glenn+Beck+Hard+Truth",
+      "image_url": "https://my.sailthru.com/template/#5176818"
+    }
+  },
+  {
     "date": "09/21/17",
     "newsletter": "PM",
     "type": "Banners",
