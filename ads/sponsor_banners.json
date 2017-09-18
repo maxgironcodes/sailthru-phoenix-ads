@@ -70,6 +70,16 @@
     }
   },
   {
+    "date": "09/19/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Overstock.com",
+    "both": {
+      "sponsor_url": "https://www.overstock.com/?cid=262579",
+      "image_url": "https://media.sailthru.com/3ia/1k1/9/i/59bfec7fb966a.png"
+    }
+  },
+  {
     "date": "09/18/17",
     "newsletter": "AM",
     "type": "Banners",
