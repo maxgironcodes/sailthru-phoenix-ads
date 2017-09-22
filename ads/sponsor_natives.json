@@ -50,7 +50,7 @@
     "type": "Native",
     "sponsor_name": "Truthfinder",
     "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=9.24.17_native",
-    "headline": "You data is online. Have you searched your name?",
+    "headline": "Your data is online. Have you searched your name?",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c563ebe98de.jpg"
   },
   {
@@ -295,32 +295,5 @@
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=863967",
     "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
-  },
-  {
-    "date": "09/08/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=863377",
-    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
-  },
-  {
-    "date": "09/07/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Michael Vey",
-    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
-    "headline": "Fans Brace Themselves as Gripping ‘Michael Vey’ Finale Hits Bookstores September 12th",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/6/59b06c0e926e4.jpg"
-  },
-  {
-    "date": "09/07/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.dailyreckoning.news/m/746243",
-    "headline": "Trump to end the dollar as we know It by 2018?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/6/59b02c4cee7b0.jpg"
   }
 ]
