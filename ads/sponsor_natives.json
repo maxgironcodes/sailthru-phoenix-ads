@@ -36,13 +36,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c52bea563f4.jpg"
   },
   {
-    "date": "09/24/17",
+    "date": "09/26/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "New Market Health",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/764753",
-    "headline": "Simple bathroom habit deadlier than cigarettes",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/l/59c429ba9dcfc.jpg"
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=9.26.17_native",
+    "headline": "Did you know you can locate anyone in the country? Enter a name",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c565807e13f.jpg"
   },
   {
     "date": "09/24/17",
@@ -52,6 +52,15 @@
     "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=9.24.17_native",
     "headline": "Your data is online. Have you searched your name?",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c563ebe98de.jpg"
+  },
+  {
+    "date": "09/24/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "New Market Health",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/764753",
+    "headline": "Simple bathroom habit deadlier than cigarettes",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/l/59c429ba9dcfc.jpg"
   },
   {
     "date": "09/23/17",
@@ -73,21 +82,21 @@
   },
   {
     "date": "09/22/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=864686",
-    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
-  },
-  {
-    "date": "09/22/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Cosmo Hurts Kids",
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "Cosmopolitan Magazine is showing porn to your children",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
+    "date": "09/22/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=864686",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
     "date": "09/21/17",
@@ -226,15 +235,6 @@
   },
   {
     "date": "09/12/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Your home is too valuable to risk to an amateur",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "09/12/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -243,13 +243,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
-    "date": "09/11/17",
+    "date": "09/12/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.healthrevelations.net/m/682665",
-    "headline": "Are you accidentally feeding cancerous cells?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/7/59b1a4e85343d.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Your home is too valuable to risk to an amateur",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "09/11/17",
@@ -259,6 +259,15 @@
     "sponsor_url": "https://go.personaldefensenetwork.com/blazenews/",
     "headline": "Learn how to defend yourself and your family when face to face with an attacker",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/7/59b16990e4980.png"
+  },
+  {
+    "date": "09/11/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.healthrevelations.net/m/682665",
+    "headline": "Are you accidentally feeding cancerous cells?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/7/59b1a4e85343d.jpg"
   },
   {
     "date": "09/10/17",
