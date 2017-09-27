@@ -27,13 +27,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/p/59c981d69588c.jpg"
   },
   {
-    "date": "09/27/17",
+    "date": "09/28/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.stevemcqueenmovie.com/",
-    "headline": "Hollywood legend Steve McQueen found God?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/j/59c16b6470b7c.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Don't make the same mistake again",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "09/27/17",
@@ -43,6 +43,15 @@
     "sponsor_url": "https://w3.blaylockwellness.com/Health/BWR/LP/Knockout-Cancer-Video?dkt_nbr=010303fbkq8k",
     "headline": "Suzanne Somers exposes underground doctors quietly curing cancer",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/q/59ca9fd2bac6d.jpg"
+  },
+  {
+    "date": "09/27/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.stevemcqueenmovie.com/",
+    "headline": "Hollywood legend Steve McQueen found God?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/j/59c16b6470b7c.jpg"
   },
   {
     "date": "09/26/17",
@@ -64,20 +73,20 @@
   },
   {
     "date": "09/25/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Michael Vey",
-    "sponsor_url": "http://mercuryink.com/michaelvey-7.html",
-    "headline": "The book that has everyone talking : Michael Vey 7",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c5663b39312.jpg"
-  },
-  {
-    "date": "09/25/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Michael Vey",
     "sponsor_url": "http://mercuryink.com/michaelvey-7.html",
     "headline": "The book that has everyone talking - Michael Vey 7",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c5663b39312.jpg"
+  },
+  {
+    "date": "09/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Michael Vey",
+    "sponsor_url": "http://mercuryink.com/michaelvey-7.html",
+    "headline": "The book that has everyone talking : Michael Vey 7",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c5663b39312.jpg"
   },
   {
@@ -181,21 +190,21 @@
   },
   {
     "date": "09/18/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "KingdomWorks",
-    "sponsor_url": "https://conquerseries.com/?imt=1&utm_campaign=The%20Blaze%20Website%20Banner%20-%20September%2012-14%2C%202017&utm_source=The%20Blaze&utm_medium=Web%20banner%20ad&utm_content=Life%20without%20Porn&utm_term=%7Bkeyword%7D",
-    "headline": "Thousands of men are quitting porn, here's why",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/e/59babff864fdb.jpg"
-  },
-  {
-    "date": "09/18/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
     "sponsor_url": "https://w3.brownsteinhealth.com/Health/DRB/LP/Brownstein-Cancer-Video-V2?dkt_nbr=0103013fjuja",
     "headline": "5 cancer signs",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc17831bd53.jpg"
+  },
+  {
+    "date": "09/18/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "KingdomWorks",
+    "sponsor_url": "https://conquerseries.com/?imt=1&utm_campaign=The%20Blaze%20Website%20Banner%20-%20September%2012-14%2C%202017&utm_source=The%20Blaze&utm_medium=Web%20banner%20ad&utm_content=Life%20without%20Porn&utm_term=%7Bkeyword%7D",
+    "headline": "Thousands of men are quitting porn, here's why",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/e/59babff864fdb.jpg"
   },
   {
     "date": "09/17/17",
@@ -235,15 +244,6 @@
   },
   {
     "date": "09/14/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=863978",
-    "headline": "New study reveals the 3 harmful foods you must avoid this year",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc60fd3cc8.jpg"
-  },
-  {
-    "date": "09/14/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
@@ -252,13 +252,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/d/59b99b1961829.jpg"
   },
   {
-    "date": "09/13/17",
-    "newsletter": "AM",
+    "date": "09/14/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Thomas Nelson",
-    "sponsor_url": "http://amzn.to/2ufmwLK",
-    "headline": "The best is yet to come - The Gift of Heaven",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/c/59b851f7efd23.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=863978",
+    "headline": "New study reveals the 3 harmful foods you must avoid this year",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc60fd3cc8.jpg"
   },
   {
     "date": "09/13/17",
@@ -268,6 +268,15 @@
     "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
     "headline": "The book you won't want to put down : Michael Vey 7 is now available!",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/8/59b2b72e4bd53.jpg"
+  },
+  {
+    "date": "09/13/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Thomas Nelson",
+    "sponsor_url": "http://amzn.to/2ufmwLK",
+    "headline": "The best is yet to come - The Gift of Heaven",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/c/59b851f7efd23.jpg"
   },
   {
     "date": "09/12/17",
