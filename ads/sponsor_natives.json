@@ -1,5 +1,14 @@
 [
   {
+    "date": "10/05/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=866466",
+    "headline": "Los Angeles Dr. reveals how to: Slice away deep belly fat",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
+  },
+  {
     "date": "10/03/17",
     "newsletter": "AM",
     "type": "Native",
@@ -127,21 +136,21 @@
   },
   {
     "date": "09/24/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "New Market Health",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/764753",
-    "headline": "Simple bathroom habit deadlier than cigarettes",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/l/59c429ba9dcfc.jpg"
-  },
-  {
-    "date": "09/24/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Truthfinder",
     "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=9.24.17_native",
     "headline": "Your data is online. Have you searched your name?",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c563ebe98de.jpg"
+  },
+  {
+    "date": "09/24/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "New Market Health",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/764753",
+    "headline": "Simple bathroom habit deadlier than cigarettes",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/l/59c429ba9dcfc.jpg"
   },
   {
     "date": "09/23/17",
@@ -208,15 +217,6 @@
   },
   {
     "date": "09/19/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=daily9.19.17",
-    "headline": "Locate anyone by entering a name. Americans are addicted to site",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/i/59c02ea3aa3a9.jpg"
-  },
-  {
-    "date": "09/19/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Marketing Keys",
@@ -225,13 +225,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d471c916e7.jpeg"
   },
   {
-    "date": "09/18/17",
-    "newsletter": "AM",
+    "date": "09/19/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.brownsteinhealth.com/Health/DRB/LP/Brownstein-Cancer-Video-V2?dkt_nbr=0103013fjuja",
-    "headline": "5 cancer signs",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc17831bd53.jpg"
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=daily9.19.17",
+    "headline": "Locate anyone by entering a name. Americans are addicted to site",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/i/59c02ea3aa3a9.jpg"
   },
   {
     "date": "09/18/17",
@@ -241,6 +241,15 @@
     "sponsor_url": "https://conquerseries.com/?imt=1&utm_campaign=The%20Blaze%20Website%20Banner%20-%20September%2012-14%2C%202017&utm_source=The%20Blaze&utm_medium=Web%20banner%20ad&utm_content=Life%20without%20Porn&utm_term=%7Bkeyword%7D",
     "headline": "Thousands of men are quitting porn, here's why",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/e/59babff864fdb.jpg"
+  },
+  {
+    "date": "09/18/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.brownsteinhealth.com/Health/DRB/LP/Brownstein-Cancer-Video-V2?dkt_nbr=0103013fjuja",
+    "headline": "5 cancer signs",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc17831bd53.jpg"
   },
   {
     "date": "09/17/17",
