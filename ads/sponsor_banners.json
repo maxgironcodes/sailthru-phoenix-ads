@@ -1,5 +1,15 @@
 [
   {
+    "date": "10/04/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Overstock.com",
+    "both": {
+      "sponsor_url": "https://www.overstock.com/?cid=262579",
+      "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd0c58abe5e.jpg"
+    }
+  },
+  {
     "date": "09/29/17",
     "newsletter": "PM",
     "type": "Banners",
@@ -113,6 +123,16 @@
   },
   {
     "date": "09/19/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Overstock.com",
+    "both": {
+      "sponsor_url": "https://www.overstock.com/?cid=262579",
+      "image_url": "https://media.sailthru.com/3ia/1k1/9/i/59bfec7fb966a.png"
+    }
+  },
+  {
+    "date": "09/19/17",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "TheBlaze (In-house)",
@@ -123,16 +143,6 @@
     "bottom": {
       "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=AM&utm_medium=email&utm_campaign=Glenn+Beck+Premium",
       "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc1722eab47.jpg"
-    }
-  },
-  {
-    "date": "09/19/17",
-    "newsletter": "PM",
-    "type": "Banners",
-    "sponsor_name": "Overstock.com",
-    "both": {
-      "sponsor_url": "https://www.overstock.com/?cid=262579",
-      "image_url": "https://media.sailthru.com/3ia/1k1/9/i/59bfec7fb966a.png"
     }
   },
   {
