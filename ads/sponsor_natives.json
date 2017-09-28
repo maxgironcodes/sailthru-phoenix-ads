@@ -1,5 +1,14 @@
 [
   {
+    "date": "10/03/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=866458",
+    "headline": "Shocking new study reveals what a single diet soda does",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596553b57ac63.jpg"
+  },
+  {
     "date": "10/01/17",
     "newsletter": "AM",
     "type": "Native",
@@ -10,21 +19,21 @@
   },
   {
     "date": "09/30/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Michael Vey",
-    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
-    "headline": "Listen to Michael Vey 7 Today!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/i/59c02f105088b.jpg"
-  },
-  {
-    "date": "09/30/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
     "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded30Sep17A",
     "headline": "Ear ringing: Are you lacking this crucial vitamin?",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd0f48efff8.jpg"
+  },
+  {
+    "date": "09/30/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Michael Vey",
+    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
+    "headline": "Listen to Michael Vey 7 Today!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/i/59c02f105088b.jpg"
   },
   {
     "date": "09/29/17",
@@ -46,21 +55,21 @@
   },
   {
     "date": "09/28/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Don't make the same mistake again",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "09/28/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Rainmaker Ad Ventures",
     "sponsor_url": "https://pro.natural-healthtoday.net/m/710994",
     "headline": "In 1944, an experiment was done in this Nazi medical center",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/p/59c981d69588c.jpg"
+  },
+  {
+    "date": "09/28/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Don't make the same mistake again",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "09/27/17",
@@ -199,15 +208,6 @@
   },
   {
     "date": "09/19/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Marketing Keys",
-    "sponsor_url": "www.projectblindsided.com",
-    "headline": "The ten-year battle to bring justice to a baby born with no eyes",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d471c916e7.jpeg"
-  },
-  {
-    "date": "09/19/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Truthfinder",
@@ -216,13 +216,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/i/59c02ea3aa3a9.jpg"
   },
   {
-    "date": "09/18/17",
-    "newsletter": "PM",
+    "date": "09/19/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "KingdomWorks",
-    "sponsor_url": "https://conquerseries.com/?imt=1&utm_campaign=The%20Blaze%20Website%20Banner%20-%20September%2012-14%2C%202017&utm_source=The%20Blaze&utm_medium=Web%20banner%20ad&utm_content=Life%20without%20Porn&utm_term=%7Bkeyword%7D",
-    "headline": "Thousands of men are quitting porn, here's why",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/e/59babff864fdb.jpg"
+    "sponsor_name": "Marketing Keys",
+    "sponsor_url": "www.projectblindsided.com",
+    "headline": "The ten-year battle to bring justice to a baby born with no eyes",
+    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d471c916e7.jpeg"
   },
   {
     "date": "09/18/17",
@@ -232,6 +232,15 @@
     "sponsor_url": "https://w3.brownsteinhealth.com/Health/DRB/LP/Brownstein-Cancer-Video-V2?dkt_nbr=0103013fjuja",
     "headline": "5 cancer signs",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc17831bd53.jpg"
+  },
+  {
+    "date": "09/18/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "KingdomWorks",
+    "sponsor_url": "https://conquerseries.com/?imt=1&utm_campaign=The%20Blaze%20Website%20Banner%20-%20September%2012-14%2C%202017&utm_source=The%20Blaze&utm_medium=Web%20banner%20ad&utm_content=Life%20without%20Porn&utm_term=%7Bkeyword%7D",
+    "headline": "Thousands of men are quitting porn, here's why",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/e/59babff864fdb.jpg"
   },
   {
     "date": "09/17/17",
