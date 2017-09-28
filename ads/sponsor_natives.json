@@ -1,5 +1,14 @@
 [
   {
+    "date": "10/06/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=866456",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
+  },
+  {
     "date": "10/05/17",
     "newsletter": "PM",
     "type": "Native",
@@ -46,21 +55,21 @@
   },
   {
     "date": "09/29/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/682667",
-    "headline": "Hillary collapsing in front of our eyes, shocking",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd22fbda261.jpg"
-  },
-  {
-    "date": "09/29/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=865501",
     "headline": "The secret to healthy digestion: “Many people are going to think this is too good to be true”",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
+  },
+  {
+    "date": "09/29/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/682667",
+    "headline": "Hillary collapsing in front of our eyes, shocking",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd22fbda261.jpg"
   },
   {
     "date": "09/28/17",
@@ -172,15 +181,6 @@
   },
   {
     "date": "09/22/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=864686",
-    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
-  },
-  {
-    "date": "09/22/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Cosmo Hurts Kids",
@@ -189,13 +189,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
-    "date": "09/21/17",
+    "date": "09/22/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.financialreport.info/m/765879",
-    "headline": "“Patriot Checks” available to 244 million Americans",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/k/59c2c20b0bfea.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=864686",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
     "date": "09/21/17",
@@ -205,6 +205,15 @@
     "sponsor_url": "http://projectblindsided.com",
     "headline": "The court case that changed history and the man who fought to make it happen",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4883284e9.jpeg"
+  },
+  {
+    "date": "09/21/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.financialreport.info/m/765879",
+    "headline": "“Patriot Checks” available to 244 million Americans",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/k/59c2c20b0bfea.jpg"
   },
   {
     "date": "09/20/17",
@@ -289,21 +298,21 @@
   },
   {
     "date": "09/14/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=863978",
-    "headline": "New study reveals the 3 harmful foods you must avoid this year",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc60fd3cc8.jpg"
-  },
-  {
-    "date": "09/14/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
     "sponsor_url": "https://w3.franklinprosperityreport.com/Finance/FPR/LP/FPR-Bargain-Trial-4-97B?dkt_nbr=010303jfgguu",
     "headline": "If you collect Social Security, please read this critical information",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/d/59b99b1961829.jpg"
+  },
+  {
+    "date": "09/14/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=863978",
+    "headline": "New study reveals the 3 harmful foods you must avoid this year",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/b/598dc60fd3cc8.jpg"
   },
   {
     "date": "09/13/17",
