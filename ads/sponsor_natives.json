@@ -57,19 +57,10 @@
     "date": "09/30/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Michael Vey",
-    "sponsor_url": "https://mercuryink.com/michaelvey-7.html",
-    "headline": "Listen to Michael Vey 7 Today!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/i/59c02f105088b.jpg"
-  },
-  {
-    "date": "09/29/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=865501",
-    "headline": "The secret to healthy digestion: “Many people are going to think this is too good to be true”",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Cosmopolitan Magazine is porn",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "09/29/17",
@@ -81,13 +72,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd22fbda261.jpg"
   },
   {
-    "date": "09/28/17",
+    "date": "09/29/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.natural-healthtoday.net/m/710994",
-    "headline": "In 1944, an experiment was done in this Nazi medical center",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/p/59c981d69588c.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=865501",
+    "headline": "The secret to healthy digestion: “Many people are going to think this is too good to be true”",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
     "date": "09/28/17",
@@ -97,6 +88,15 @@
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Don't make the same mistake again",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "09/28/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.natural-healthtoday.net/m/710994",
+    "headline": "In 1944, an experiment was done in this Nazi medical center",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/p/59c981d69588c.jpg"
   },
   {
     "date": "09/27/17",
@@ -154,15 +154,6 @@
   },
   {
     "date": "09/24/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "New Market Health",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/764753",
-    "headline": "Simple bathroom habit deadlier than cigarettes",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/l/59c429ba9dcfc.jpg"
-  },
-  {
-    "date": "09/24/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Truthfinder",
@@ -171,13 +162,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c563ebe98de.jpg"
   },
   {
-    "date": "09/23/17",
+    "date": "09/24/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Agents are getting more personal",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+    "sponsor_name": "New Market Health",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/764753",
+    "headline": "Simple bathroom habit deadlier than cigarettes",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/l/59c429ba9dcfc.jpg"
   },
   {
     "date": "09/23/17",
@@ -189,13 +180,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f07b5e28e4.jpg"
   },
   {
-    "date": "09/22/17",
-    "newsletter": "AM",
+    "date": "09/23/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=864686",
-    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Agents are getting more personal",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "09/22/17",
@@ -207,13 +198,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
-    "date": "09/21/17",
+    "date": "09/22/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.financialreport.info/m/765879",
-    "headline": "“Patriot Checks” available to 244 million Americans",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/k/59c2c20b0bfea.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=864686",
+    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
     "date": "09/21/17",
@@ -223,6 +214,15 @@
     "sponsor_url": "http://projectblindsided.com",
     "headline": "The court case that changed history and the man who fought to make it happen",
     "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4883284e9.jpeg"
+  },
+  {
+    "date": "09/21/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.financialreport.info/m/765879",
+    "headline": "“Patriot Checks” available to 244 million Americans",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/k/59c2c20b0bfea.jpg"
   },
   {
     "date": "09/20/17",
