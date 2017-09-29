@@ -10,6 +10,20 @@
     }
   },
   {
+    "date": "10/04/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "4Patriots",
+    "top": {
+      "sponsor_url": "http://newsworthysite.com/base.php?c=449&key=4a51f41705ff4722e2ea28e3d8202e61&t4p=123&aff_sub=1346-20171004-b0056npV2-am",
+      "image_url": "https://media.sailthru.com/3ia/1k1/9/t/59ce850556957.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://newsworthysite.com/base.php?c=449&key=4a51f41705ff4722e2ea28e3d8202e61&t4p=123&aff_sub=1346-20171004-b0056npV2-am",
+      "image_url": "https://media.sailthru.com/3ia/1k1/9/t/59ce850556957.jpg"
+    }
+  },
+  {
     "date": "09/29/17",
     "newsletter": "PM",
     "type": "Banners",
