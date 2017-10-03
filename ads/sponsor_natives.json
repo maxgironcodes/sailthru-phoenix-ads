@@ -10,15 +10,6 @@
   },
   {
     "date": "10/05/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=866466",
-    "headline": "Los Angeles Dr. reveals how to: Slice away deep belly fat",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
-  },
-  {
-    "date": "10/05/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
@@ -27,13 +18,22 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/2/59d2bb635d26f.jpg"
   },
   {
-    "date": "10/03/17",
-    "newsletter": "AM",
+    "date": "10/05/17",
+    "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=866458",
-    "headline": "Shocking new study reveals what a single diet soda does",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596553b57ac63.jpg"
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=866466",
+    "headline": "Los Angeles Dr. reveals how to: Slice away deep belly fat",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04b89a7fe4.jpg"
+  },
+  {
+    "date": "10/04/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Children caught reading porn in grocery stores",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/03/17",
@@ -43,6 +43,15 @@
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "Children are reading porn in grocery stores",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
+    "date": "10/03/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=866458",
+    "headline": "Shocking new study reveals what a single diet soda does",
+    "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596553b57ac63.jpg"
   },
   {
     "date": "10/02/17",
@@ -64,15 +73,6 @@
   },
   {
     "date": "09/30/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded30Sep17A",
-    "headline": "Ear ringing: Are you lacking this crucial vitamin?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd0f48efff8.jpg"
-  },
-  {
-    "date": "09/30/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Cosmo Hurts Kids",
@@ -81,13 +81,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
-    "date": "09/29/17",
+    "date": "09/30/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=865501",
-    "headline": "The secret to healthy digestion: “Many people are going to think this is too good to be true”",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded30Sep17A",
+    "headline": "Ear ringing: Are you lacking this crucial vitamin?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd0f48efff8.jpg"
   },
   {
     "date": "09/29/17",
@@ -97,6 +97,15 @@
     "sponsor_url": "https://pro.hsionlineorders.net/m/682667",
     "headline": "Hillary collapsing in front of our eyes, shocking",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd22fbda261.jpg"
+  },
+  {
+    "date": "09/29/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=865501",
+    "headline": "The secret to healthy digestion: “Many people are going to think this is too good to be true”",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
     "date": "09/28/17",
@@ -118,21 +127,21 @@
   },
   {
     "date": "09/27/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.blaylockwellness.com/Health/BWR/LP/Knockout-Cancer-Video?dkt_nbr=010303fbkq8k",
-    "headline": "Suzanne Somers exposes underground doctors quietly curing cancer",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/q/59ca9fd2bac6d.jpg"
-  },
-  {
-    "date": "09/27/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Renaissance Communications",
     "sponsor_url": "http://www.stevemcqueenmovie.com/",
     "headline": "Hollywood legend Steve McQueen found God?",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/j/59c16b6470b7c.jpg"
+  },
+  {
+    "date": "09/27/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.blaylockwellness.com/Health/BWR/LP/Knockout-Cancer-Video?dkt_nbr=010303fbkq8k",
+    "headline": "Suzanne Somers exposes underground doctors quietly curing cancer",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/q/59ca9fd2bac6d.jpg"
   },
   {
     "date": "09/26/17",
@@ -154,20 +163,20 @@
   },
   {
     "date": "09/25/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Michael Vey",
-    "sponsor_url": "http://mercuryink.com/michaelvey-7.html",
-    "headline": "The book that has everyone talking : Michael Vey 7",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c5663b39312.jpg"
-  },
-  {
-    "date": "09/25/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Michael Vey",
     "sponsor_url": "http://mercuryink.com/michaelvey-7.html",
     "headline": "The book that has everyone talking - Michael Vey 7",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c5663b39312.jpg"
+  },
+  {
+    "date": "09/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Michael Vey",
+    "sponsor_url": "http://mercuryink.com/michaelvey-7.html",
+    "headline": "The book that has everyone talking : Michael Vey 7",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c5663b39312.jpg"
   },
   {
@@ -190,15 +199,6 @@
   },
   {
     "date": "09/23/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Agents are getting more personal",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "09/23/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
@@ -207,13 +207,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f07b5e28e4.jpg"
   },
   {
-    "date": "09/22/17",
+    "date": "09/23/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Cosmopolitan Magazine is showing porn to your children",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Agents are getting more personal",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "09/22/17",
@@ -223,6 +223,15 @@
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=864686",
     "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
+  },
+  {
+    "date": "09/22/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Cosmopolitan Magazine is showing porn to your children",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "09/21/17",
