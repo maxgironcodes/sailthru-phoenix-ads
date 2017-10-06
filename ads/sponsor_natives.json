@@ -1,5 +1,14 @@
 [
   {
+    "date": "10/10/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=867146",
+    "headline": "New study reveals the root of all skin problems, and the simple fix that may surprise you",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/59973748248b0.jpg"
+  },
+  {
     "date": "10/09/17",
     "newsletter": "AM",
     "type": "Native",
@@ -136,21 +145,21 @@
   },
   {
     "date": "09/30/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded30Sep17A",
-    "headline": "Ear ringing: Are you lacking this crucial vitamin?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd0f48efff8.jpg"
-  },
-  {
-    "date": "09/30/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Cosmo Hurts Kids",
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "Cosmopolitan Magazine is porn",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
+    "date": "09/30/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded30Sep17A",
+    "headline": "Ear ringing: Are you lacking this crucial vitamin?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd0f48efff8.jpg"
   },
   {
     "date": "09/29/17",
@@ -190,15 +199,6 @@
   },
   {
     "date": "09/27/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.stevemcqueenmovie.com/",
-    "headline": "Hollywood legend Steve McQueen found God?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/j/59c16b6470b7c.jpg"
-  },
-  {
-    "date": "09/27/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
@@ -207,13 +207,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/q/59ca9fd2bac6d.jpg"
   },
   {
-    "date": "09/26/17",
-    "newsletter": "AM",
+    "date": "09/27/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=865502",
-    "headline": "Shocking report reveals how to fix your fatigue with this once daily step",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c52bea563f4.jpg"
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.stevemcqueenmovie.com/",
+    "headline": "Hollywood legend Steve McQueen found God?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/j/59c16b6470b7c.jpg"
   },
   {
     "date": "09/26/17",
@@ -225,13 +225,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c565807e13f.jpg"
   },
   {
-    "date": "09/25/17",
-    "newsletter": "PM",
+    "date": "09/26/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Michael Vey",
-    "sponsor_url": "http://mercuryink.com/michaelvey-7.html",
-    "headline": "The book that has everyone talking - Michael Vey 7",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c5663b39312.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=865502",
+    "headline": "Shocking report reveals how to fix your fatigue with this once daily step",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c52bea563f4.jpg"
   },
   {
     "date": "09/25/17",
@@ -243,13 +243,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c5663b39312.jpg"
   },
   {
-    "date": "09/24/17",
-    "newsletter": "AM",
+    "date": "09/25/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=9.24.17_native",
-    "headline": "Your data is online. Have you searched your name?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c563ebe98de.jpg"
+    "sponsor_name": "Michael Vey",
+    "sponsor_url": "http://mercuryink.com/michaelvey-7.html",
+    "headline": "The book that has everyone talking - Michael Vey 7",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c5663b39312.jpg"
   },
   {
     "date": "09/24/17",
@@ -259,6 +259,15 @@
     "sponsor_url": "https://pro.hsionlineorders.net/m/764753",
     "headline": "Simple bathroom habit deadlier than cigarettes",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/l/59c429ba9dcfc.jpg"
+  },
+  {
+    "date": "09/24/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=9.24.17_native",
+    "headline": "Your data is online. Have you searched your name?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c563ebe98de.jpg"
   },
   {
     "date": "09/23/17",
@@ -277,113 +286,5 @@
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Agents are getting more personal",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "09/22/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=864686",
-    "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
-  },
-  {
-    "date": "09/22/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Cosmopolitan Magazine is showing porn to your children",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "09/21/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Marketing Keys",
-    "sponsor_url": "http://projectblindsided.com",
-    "headline": "The court case that changed history and the man who fought to make it happen",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d4883284e9.jpeg"
-  },
-  {
-    "date": "09/21/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.financialreport.info/m/765879",
-    "headline": "“Patriot Checks” available to 244 million Americans",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/k/59c2c20b0bfea.jpg"
-  },
-  {
-    "date": "09/20/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "New Market Health",
-    "sponsor_url": "https://pro.nutritionandhealing.com/m/764681",
-    "headline": "Simple \"bedtime snack\" for Alzheimer's",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/j/59c13ed754c8f.jpg"
-  },
-  {
-    "date": "09/19/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=daily9.19.17",
-    "headline": "Locate anyone by entering a name. Americans are addicted to site",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/i/59c02ea3aa3a9.jpg"
-  },
-  {
-    "date": "09/19/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Marketing Keys",
-    "sponsor_url": "www.projectblindsided.com",
-    "headline": "The ten-year battle to bring justice to a baby born with no eyes",
-    "image_url": "https://media.sailthru.com/3ia/1k1/6/n/594d471c916e7.jpeg"
-  },
-  {
-    "date": "09/18/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.brownsteinhealth.com/Health/DRB/LP/Brownstein-Cancer-Video-V2?dkt_nbr=0103013fjuja",
-    "headline": "5 cancer signs",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc17831bd53.jpg"
-  },
-  {
-    "date": "09/18/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "KingdomWorks",
-    "sponsor_url": "https://conquerseries.com/?imt=1&utm_campaign=The%20Blaze%20Website%20Banner%20-%20September%2012-14%2C%202017&utm_source=The%20Blaze&utm_medium=Web%20banner%20ad&utm_content=Life%20without%20Porn&utm_term=%7Bkeyword%7D",
-    "headline": "Thousands of men are quitting porn, here's why",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/e/59babff864fdb.jpg"
-  },
-  {
-    "date": "09/17/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "TheBlaze (In-house)",
-    "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=blaze&utm_medium=native+ad&utm_campaign=Glenn+Beck+Premium",
-    "headline": "14 days completely free, no credit card needed!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc1899f3062.jpg"
-  },
-  {
-    "date": "09/16/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=863973",
-    "headline": "New details reveal the root of 93 percent of skin problems",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/7/59b1c838235d6.jpg"
-  },
-  {
-    "date": "09/16/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "TheBlaze (In-house)",
-    "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=blaze&utm_medium=native+ad&utm_campaign=Glenn+Beck+Hard+Truth",
-    "headline": "Try TheBlaze Premium for free for unlimited access to hard-hitting truth",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc1899f3062.jpg"
   }
 ]
