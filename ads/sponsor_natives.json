@@ -5,7 +5,7 @@
     "type": "Native",
     "sponsor_name": "Fountainhead",
     "sponsor_url": "https://pro.chooseyourself.io/m/777173",
-    "headline": "Crypto-Millionaire hosts free masterclass",
+    "headline": "Crypto-Millionaire hosts free masterclass. Claim yours here",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/9/59db996699314.png"
   },
   {
@@ -54,13 +54,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/9/59db96d402f22.jpg"
   },
   {
-    "date": "10/10/17",
-    "newsletter": "PM",
+    "date": "10/11/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=867146",
-    "headline": "New study reveals the root of all skin problems, and the simple fix that may surprise you",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/59973748248b0.jpg"
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.blaylockwellness.com/Health/BWR/LP/BWR-Food-Cures-V2?dkt_nbr=010301uymp03",
+    "headline": "Christian breaking Bible food",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/9/59dbd1034446e.jpg"
   },
   {
     "date": "10/10/17",
@@ -70,6 +70,15 @@
     "sponsor_url": "http://bit.ly/MUSLIMtheblaze",
     "headline": "How well do you really know Islam?",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/9/59db963500470.jpg"
+  },
+  {
+    "date": "10/10/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=867146",
+    "headline": "New study reveals the root of all skin problems, and the simple fix that may surprise you",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/59973748248b0.jpg"
   },
   {
     "date": "10/09/17",
@@ -100,15 +109,6 @@
   },
   {
     "date": "10/07/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "http://thememoryrepairsolution.com/?aff_id=605033&subid=blnaneded07Oct17A",
-    "headline": "Alzheimer's quick test: Do you use this word in conversations?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d64632e600a.jpg"
-  },
-  {
-    "date": "10/07/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "4Patriots",
@@ -117,13 +117,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/t/59ce861a96d35.jpg"
   },
   {
-    "date": "10/06/17",
-    "newsletter": "PM",
+    "date": "10/07/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Thomas Nelson",
-    "sponsor_url": "http://bit.ly/2xhbCTU",
-    "headline": "See how one woman changed the lives of these two men and so many more",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/4/59d53e36bc2b9.jpg"
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "http://thememoryrepairsolution.com/?aff_id=605033&subid=blnaneded07Oct17A",
+    "headline": "Alzheimer's quick test: Do you use this word in conversations?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d64632e600a.jpg"
   },
   {
     "date": "10/06/17",
@@ -133,6 +133,15 @@
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=866456",
     "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
     "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61d311e63.jpg"
+  },
+  {
+    "date": "10/06/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Thomas Nelson",
+    "sponsor_url": "http://bit.ly/2xhbCTU",
+    "headline": "See how one woman changed the lives of these two men and so many more",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/4/59d53e36bc2b9.jpg"
   },
   {
     "date": "10/05/17",
@@ -154,21 +163,21 @@
   },
   {
     "date": "10/04/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Children caught reading porn in grocery stores",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "10/04/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "Not all real estate agents are the same",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "10/04/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Children caught reading porn in grocery stores",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/03/17",
@@ -208,21 +217,21 @@
   },
   {
     "date": "09/30/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Cosmopolitan Magazine is porn",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "09/30/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
     "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded30Sep17A",
     "headline": "Ear ringing: Are you lacking this crucial vitamin?",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd0f48efff8.jpg"
+  },
+  {
+    "date": "09/30/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Cosmopolitan Magazine is porn",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "09/29/17",
