@@ -42,6 +42,16 @@
     }
   },
   {
+    "date": "10/12/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "4Patriots",
+    "both": {
+      "sponsor_url": "http://newsworthysite.com/base.php?c=449&key=4a51f41705ff4722e2ea28e3d8202e61&t4p=123&aff_sub=1346-20171012-b0056npV3-pm",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/b/59de42456daeb.jpg"
+    }
+  },
+  {
     "date": "10/09/17",
     "newsletter": "AM",
     "type": "Banners",
@@ -99,6 +109,16 @@
   },
   {
     "date": "10/04/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Overstock.com",
+    "both": {
+      "sponsor_url": "https://www.overstock.com/?cid=262579",
+      "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd0c58abe5e.jpg"
+    }
+  },
+  {
+    "date": "10/04/17",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "4Patriots",
@@ -109,16 +129,6 @@
     "bottom": {
       "sponsor_url": "http://newsworthysite.com/base.php?c=449&key=4a51f41705ff4722e2ea28e3d8202e61&t4p=123&aff_sub=1346-20171004-b0056npV3-am",
       "image_url": "https://media.sailthru.com/3ia/1k1/a/2/59d2b9f7cd074.jpg"
-    }
-  },
-  {
-    "date": "10/04/17",
-    "newsletter": "PM",
-    "type": "Banners",
-    "sponsor_name": "Overstock.com",
-    "both": {
-      "sponsor_url": "https://www.overstock.com/?cid=262579",
-      "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd0c58abe5e.jpg"
     }
   },
   {
@@ -179,20 +189,6 @@
   },
   {
     "date": "09/25/17",
-    "newsletter": "PM",
-    "type": "Banners",
-    "sponsor_name": "TheBlaze (In-house)",
-    "top": {
-      "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=PM&utm_medium=email&utm_campaign=Glenn+Beck+Premium",
-      "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc1722eab47.jpg"
-    },
-    "bottom": {
-      "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=PM&utm_medium=email&utm_campaign=Glenn+Beck+Hard+Truth",
-      "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc16f6a7ec1.jpg"
-    }
-  },
-  {
-    "date": "09/25/17",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Filterbuy",
@@ -203,6 +199,20 @@
     "bottom": {
       "sponsor_url": "https://filterbuy.com/air-filter-sizes/",
       "image_url": "https://media.sailthru.com/3ia/1k1/8/m/599c46445d8d7.jpg"
+    }
+  },
+  {
+    "date": "09/25/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "TheBlaze (In-house)",
+    "top": {
+      "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=PM&utm_medium=email&utm_campaign=Glenn+Beck+Premium",
+      "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc1722eab47.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=PM&utm_medium=email&utm_campaign=Glenn+Beck+Hard+Truth",
+      "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc16f6a7ec1.jpg"
     }
   },
   {
