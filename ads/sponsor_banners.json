@@ -14,6 +14,20 @@
     }
   },
   {
+    "date": "10/17/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://dermalmedix.com/cmd.php?ad=868101",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/d/59e121fba7783.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=868100",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/d/59e1221e16ec0.jpg"
+    }
+  },
+  {
     "date": "10/16/17",
     "newsletter": "AM",
     "type": "Banners",
@@ -67,20 +81,6 @@
   },
   {
     "date": "10/06/17",
-    "newsletter": "AM",
-    "type": "Banners",
-    "sponsor_name": "Golden Hippo Media",
-    "top": {
-      "sponsor_url": "http://gundrymd.com/cmd.php?ad=867120",
-      "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bb4500f0.jpg"
-    },
-    "bottom": {
-      "sponsor_url": "http://nucific.com/cmd.php?ad=867123",
-      "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bd8e42d8.jpg"
-    }
-  },
-  {
-    "date": "10/06/17",
     "newsletter": "PM",
     "type": "Banners",
     "sponsor_name": "Golden Hippo Media",
@@ -91,6 +91,20 @@
     "bottom": {
       "sponsor_url": "http://gundrymd.com/cmd.php?ad=867120",
       "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bb4500f0.jpg"
+    }
+  },
+  {
+    "date": "10/06/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=867120",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bb4500f0.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://nucific.com/cmd.php?ad=867123",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bd8e42d8.jpg"
     }
   },
   {
