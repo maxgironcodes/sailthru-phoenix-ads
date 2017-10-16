@@ -14,6 +14,16 @@
     }
   },
   {
+    "date": "10/18/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "4Patriots",
+    "both": {
+      "sponsor_url": "http://techtracking123.com/base.php?c=880&key=de193f356e7d9bdb567cab3e65137fe0&t4p=123&aff_sub=1346-20171018-b0062b-am",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/g/59e52d6fec0f0.jpg"
+    }
+  },
+  {
     "date": "10/17/17",
     "newsletter": "AM",
     "type": "Banners",
@@ -81,20 +91,6 @@
   },
   {
     "date": "10/06/17",
-    "newsletter": "PM",
-    "type": "Banners",
-    "sponsor_name": "Golden Hippo Media",
-    "top": {
-      "sponsor_url": "http://nucific.com/cmd.php?ad=867123",
-      "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bd8e42d8.jpg"
-    },
-    "bottom": {
-      "sponsor_url": "http://gundrymd.com/cmd.php?ad=867120",
-      "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bb4500f0.jpg"
-    }
-  },
-  {
-    "date": "10/06/17",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Golden Hippo Media",
@@ -105,6 +101,20 @@
     "bottom": {
       "sponsor_url": "http://nucific.com/cmd.php?ad=867123",
       "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bd8e42d8.jpg"
+    }
+  },
+  {
+    "date": "10/06/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://nucific.com/cmd.php?ad=867123",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bd8e42d8.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=867120",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bb4500f0.jpg"
     }
   },
   {
