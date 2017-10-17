@@ -13,7 +13,7 @@
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "goTenna",
-    "sponsor_url": "https://www.blazegotenna.com/",
+    "sponsor_url": "https://www.gotenna.com/?utm_source=theblaze&utm_medium=native&utm_content=disaster",
     "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/h/59e664d92d5bc.png"
   },
@@ -250,95 +250,5 @@
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "Children caught reading porn in grocery stores",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "10/03/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Children are reading porn in grocery stores",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "10/03/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=866458",
-    "headline": "Shocking new study reveals what a single diet soda does",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/b/596553b57ac63.jpg"
-  },
-  {
-    "date": "10/02/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "4Patriots",
-    "sponsor_url": "http://homenewsinfo.com/base.php?c=382&key=2561b251a9b9ad3678b2a98ef7bcf4c8&t4p=123&aff_sub=1344-20171002-b0056np-h034-pm",
-    "headline": "North Korea: Shocking warning to America",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/t/59ce861a96d35.jpg"
-  },
-  {
-    "date": "10/01/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=866452",
-    "headline": "Dr. Gundry reveals how to fix your fatigue and get more energy. Do this every day",
-    "image_url": "https://media.sailthru.com/3ia/1k1/7/r/597a61c0f039a.jpg"
-  },
-  {
-    "date": "09/30/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Cosmopolitan Magazine is porn",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "09/30/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded30Sep17A",
-    "headline": "Ear ringing: Are you lacking this crucial vitamin?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd0f48efff8.jpg"
-  },
-  {
-    "date": "09/29/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/682667",
-    "headline": "Hillary collapsing in front of our eyes, shocking",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/s/59cd22fbda261.jpg"
-  },
-  {
-    "date": "09/29/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=865501",
-    "headline": "The secret to healthy digestion: “Many people are going to think this is too good to be true”",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
-  },
-  {
-    "date": "09/28/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.natural-healthtoday.net/m/710994",
-    "headline": "In 1944, an experiment was done in this Nazi medical center",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/p/59c981d69588c.jpg"
-  },
-  {
-    "date": "09/28/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Don't make the same mistake again",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   }
 ]
