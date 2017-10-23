@@ -54,13 +54,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
   },
   {
-    "date": "10/23/17",
-    "newsletter": "PM",
+    "date": "10/24/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/682671",
-    "headline": "Hillary’s Anti-American hand gesture caught on tape",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea20c91ab4f.jpg"
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Cosmopolitan Magazine is seducing underage girls",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/23/17",
@@ -72,13 +72,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea67a89ceae.jpg"
   },
   {
-    "date": "10/22/17",
-    "newsletter": "AM",
+    "date": "10/23/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://lettherebelightmovie.com/",
-    "headline": "Look what Kevin and Sam Sorbo have in common with Sean Hannity",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/682671",
+    "headline": "Hillary’s Anti-American hand gesture caught on tape",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea20c91ab4f.jpg"
   },
   {
     "date": "10/22/17",
@@ -88,6 +88,15 @@
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=868780",
     "headline": "Nation’s top regenerative doctor makes breakthrough linking deep fat to aging",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea1a6b69ace.jpg"
+  },
+  {
+    "date": "10/22/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://lettherebelightmovie.com/",
+    "headline": "Look what Kevin and Sam Sorbo have in common with Sean Hannity",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
   },
   {
     "date": "10/21/17",
@@ -145,15 +154,6 @@
   },
   {
     "date": "10/18/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Sexualization has significant negative mental health consequences for underage girls",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "10/18/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "goTenna",
@@ -162,12 +162,12 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/h/59e664d92d5bc.png"
   },
   {
-    "date": "10/17/17",
-    "newsletter": "PM",
+    "date": "10/18/17",
+    "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Cosmo Hurts Kids",
     "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "This is why your child needs to stop reading Cosmo",
+    "headline": "Sexualization has significant negative mental health consequences for underage girls",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
@@ -178,6 +178,15 @@
     "sponsor_url": "https://pro.chooseyourself.io/m/777173",
     "headline": "Crypto-Millionaire hosts free masterclass. What he reveals is shocking",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/9/59db996699314.png"
+  },
+  {
+    "date": "10/17/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "This is why your child needs to stop reading Cosmo",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/16/17",
