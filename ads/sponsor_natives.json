@@ -1,5 +1,14 @@
 [
   {
+    "date": "11/06/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "This is why your child knows about porn",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
     "date": "10/31/17",
     "newsletter": "PM",
     "type": "Native",
@@ -46,15 +55,6 @@
   },
   {
     "date": "10/24/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://lettherebelightmovie.com/",
-    "headline": "Look what Kevin and Sam Sorbo have in common with Sean Hannity",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
-  },
-  {
-    "date": "10/24/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Cosmo Hurts Kids",
@@ -63,13 +63,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
-    "date": "10/23/17",
-    "newsletter": "AM",
+    "date": "10/24/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "LOP Solutions",
-    "sponsor_url": "https://lopsolutions.isrefer.com/go/alrovs/bnalrlopo102317/",
-    "headline": "Poll: Americans asked if they want Obama back. See what they said",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea67a89ceae.jpg"
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://lettherebelightmovie.com/",
+    "headline": "Look what Kevin and Sam Sorbo have in common with Sean Hannity",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
   },
   {
     "date": "10/23/17",
@@ -79,6 +79,15 @@
     "sponsor_url": "https://pro.hsionlineorders.net/m/682671",
     "headline": "Hillary’s Anti-American hand gesture caught on tape",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea20c91ab4f.jpg"
+  },
+  {
+    "date": "10/23/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "LOP Solutions",
+    "sponsor_url": "https://lopsolutions.isrefer.com/go/alrovs/bnalrlopo102317/",
+    "headline": "Poll: Americans asked if they want Obama back. See what they said",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea67a89ceae.jpg"
   },
   {
     "date": "10/22/17",
@@ -118,21 +127,21 @@
   },
   {
     "date": "10/20/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "USA Depot",
-    "sponsor_url": "https://patriotdepot.com/i-stand-for-the-flag-and-kneel-at-the-cross-t-shirt/?utm_source=email&utm_campaign=sponsorship&utm_medium=blaze&utm_content=standfortheflagshirt&utm_term=2017-10-20_blaze_sponsorship",
-    "headline": "See the shirt that every American should wear to NFL games",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/j/59e8c3f55912c.png"
-  },
-  {
-    "date": "10/20/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=867908",
     "headline": "Constant fatigue is a warning sign– Here's the simple fix",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/d/59e0def80c58e.jpg"
+  },
+  {
+    "date": "10/20/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "USA Depot",
+    "sponsor_url": "https://patriotdepot.com/i-stand-for-the-flag-and-kneel-at-the-cross-t-shirt/?utm_source=email&utm_campaign=sponsorship&utm_medium=blaze&utm_content=standfortheflagshirt&utm_term=2017-10-20_blaze_sponsorship",
+    "headline": "See the shirt that every American should wear to NFL games",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/j/59e8c3f55912c.png"
   },
   {
     "date": "10/19/17",
@@ -208,15 +217,6 @@
   },
   {
     "date": "10/14/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Cosmopolitan Magazine is printing sexually explicit material",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "10/14/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-tactics",
@@ -225,13 +225,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/b/59de75e34e875.jpg"
   },
   {
-    "date": "10/13/17",
-    "newsletter": "PM",
+    "date": "10/14/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Fountainhead",
-    "sponsor_url": "https://pro.chooseyourself.io/m/777217",
-    "headline": "As cryptocurrencies skyrocket, this script exposes a dead simple way to make a fortune",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/9/59db9770a8a8a.png"
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Cosmopolitan Magazine is printing sexually explicit material",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/13/17",
@@ -241,6 +241,15 @@
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=867147",
     "headline": "The secret to healthy digestion: Many people are going to think this is too good to be true",
     "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
+  },
+  {
+    "date": "10/13/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead",
+    "sponsor_url": "https://pro.chooseyourself.io/m/777217",
+    "headline": "As cryptocurrencies skyrocket, this script exposes a dead simple way to make a fortune",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/9/59db9770a8a8a.png"
   },
   {
     "date": "10/12/17",
