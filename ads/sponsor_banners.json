@@ -1,5 +1,15 @@
 [
   {
+    "date": "10/26/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "4Patriots",
+    "both": {
+      "sponsor_url": "http://dailynewspatriot.com/base.php?c=449&key=4a51f41705ff4722e2ea28e3d8202e61&t4p=123&aff_sub=1346-20171026-b0068p-pm",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/p/59f0ab9aab69b.jpg"
+    }
+  },
+  {
     "date": "10/25/17",
     "newsletter": "AM",
     "type": "Banners",
@@ -15,20 +25,6 @@
   },
   {
     "date": "10/24/17",
-    "newsletter": "PM",
-    "type": "Banners",
-    "sponsor_name": "Golden Hippo Media",
-    "top": {
-      "sponsor_url": "http://nucific.com/cmd.php?ad=868782",
-      "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bd8e42d8.jpg"
-    },
-    "bottom": {
-      "sponsor_url": "http://gundrymd.com/cmd.php?ad=868775",
-      "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea1d4bc3cae.jpg"
-    }
-  },
-  {
-    "date": "10/24/17",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Filterbuy",
@@ -39,6 +35,20 @@
     "bottom": {
       "sponsor_url": "https://filterbuy.com/air-filter-sizes/",
       "image_url": "https://media.sailthru.com/3ia/1k1/8/l/599b4bb93d2db.jpg"
+    }
+  },
+  {
+    "date": "10/24/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://nucific.com/cmd.php?ad=868782",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bd8e42d8.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=868775",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea1d4bc3cae.jpg"
     }
   },
   {
@@ -241,20 +251,6 @@
   },
   {
     "date": "09/25/17",
-    "newsletter": "AM",
-    "type": "Banners",
-    "sponsor_name": "Filterbuy",
-    "top": {
-      "sponsor_url": "https://filterbuy.com/air-filter-sizes/",
-      "image_url": "https://media.sailthru.com/3ia/1k1/8/q/59a1f80c90610.jpg"
-    },
-    "bottom": {
-      "sponsor_url": "https://filterbuy.com/air-filter-sizes/",
-      "image_url": "https://media.sailthru.com/3ia/1k1/8/m/599c46445d8d7.jpg"
-    }
-  },
-  {
-    "date": "09/25/17",
     "newsletter": "PM",
     "type": "Banners",
     "sponsor_name": "TheBlaze (In-house)",
@@ -265,6 +261,20 @@
     "bottom": {
       "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=PM&utm_medium=email&utm_campaign=Glenn+Beck+Hard+Truth",
       "image_url": "https://media.sailthru.com/3ia/1k1/9/f/59bc16f6a7ec1.jpg"
+    }
+  },
+  {
+    "date": "09/25/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Filterbuy",
+    "top": {
+      "sponsor_url": "https://filterbuy.com/air-filter-sizes/",
+      "image_url": "https://media.sailthru.com/3ia/1k1/8/q/59a1f80c90610.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://filterbuy.com/air-filter-sizes/",
+      "image_url": "https://media.sailthru.com/3ia/1k1/8/m/599c46445d8d7.jpg"
     }
   },
   {
