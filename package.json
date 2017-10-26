@@ -1,7 +1,7 @@
 {
   "name": "sailthru-phoenix-ads",
   "version": "1.0.0",
-  "description": "A NodeJS workflow to manage TheBlaze's Daily Newsletter.",
+  "description": "A NodeJS workflow to manage ads for TheBlaze Daily Newsletter locally. Uses Sailthru's API.",
   "main": "index.js",
   "scripts": {
     "start": "node ./scripts/index.js",
