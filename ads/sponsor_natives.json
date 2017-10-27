@@ -18,13 +18,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
-    "date": "10/31/17",
-    "newsletter": "PM",
+    "date": "11/02/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Victoria Hearst in a battle against Cosmo",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=869508",
+    "headline": "Dr. reveals the #1 vegetable that is toxic to your health",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/r/59f38dd78b454.jpg"
   },
   {
     "date": "10/31/17",
@@ -34,6 +34,15 @@
     "sponsor_url": "https://w3.hearthealthreport.com/Health/CHH/LP/Crandall-Heart-Kit-Video?dkt_nbr=0103016g20ha",
     "headline": "4 signs your heart is quietly failing",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/r/59f37861863e4.jpg"
+  },
+  {
+    "date": "10/31/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Victoria Hearst in a battle against Cosmo",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/30/17",
@@ -208,15 +217,6 @@
   },
   {
     "date": "10/19/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://tickets.samekindofdifferentasmemovie.com/videos/",
-    "headline": "One woman’s kindness and forgiveness helped save this man, and an entire community",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/i/59e79df1c75bc.jpeg"
-  },
-  {
-    "date": "10/19/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
@@ -225,13 +225,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/i/59e7cecd09492.jpg"
   },
   {
-    "date": "10/18/17",
-    "newsletter": "AM",
+    "date": "10/19/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Sexualization has significant negative mental health consequences for underage girls",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://tickets.samekindofdifferentasmemovie.com/videos/",
+    "headline": "One woman’s kindness and forgiveness helped save this man, and an entire community",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/i/59e79df1c75bc.jpeg"
   },
   {
     "date": "10/18/17",
@@ -241,6 +241,15 @@
     "sponsor_url": "https://www.gotenna.com/?utm_source=theblaze&utm_medium=native&utm_content=disaster",
     "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/h/59e664d92d5bc.png"
+  },
+  {
+    "date": "10/18/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Sexualization has significant negative mental health consequences for underage girls",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/17/17",
@@ -280,21 +289,21 @@
   },
   {
     "date": "10/14/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Cosmopolitan Magazine is printing sexually explicit material",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "10/14/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-tactics",
     "sponsor_url": "https://pro.nutritionandhealing.com/m/682669",
     "headline": "Busted! Local doctors caught red-handed doing this",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/b/59de75e34e875.jpg"
+  },
+  {
+    "date": "10/14/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Cosmopolitan Magazine is printing sexually explicit material",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/13/17",
