@@ -1,5 +1,15 @@
 [
   {
+    "date": "11/02/17",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "TeaState",
+    "both": {
+      "sponsor_url": "www.teastate.shop",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/u/59f78d8198cb3.png"
+    }
+  },
+  {
     "date": "10/29/17",
     "newsletter": "PM",
     "type": "Banners",
