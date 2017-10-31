@@ -1,4 +1,4 @@
-# sailthru-phoenix-ads
+# theblaze-newsletter-ads
 This workflow stores ad information as JSON, and makes them accessible to our newsletter template via Sailthru includes &mdash; all from the command line. Updates do not interfere with our campaign cycle.
 
 ## Installation
