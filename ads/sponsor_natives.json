@@ -27,13 +27,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/r/59f38dd78b454.jpg"
   },
   {
-    "date": "10/31/17",
-    "newsletter": "AM",
+    "date": "11/02/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.hearthealthreport.com/Health/CHH/LP/Crandall-Heart-Kit-Video?dkt_nbr=0103016g20ha",
-    "headline": "4 signs your heart is quietly failing",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/r/59f37861863e4.jpg"
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "http://www.doctorshealthpress.com/videos/chgs6?sb=6BLAZE&dept=EH&scombo=1&sdate=11022017&st=1&up=1",
+    "headline": "Why the Chinese don't get sick like we do",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/v/59f8c7865bcee.jpg"
   },
   {
     "date": "10/31/17",
@@ -43,6 +43,15 @@
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "Victoria Hearst in a battle against Cosmo",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
+    "date": "10/31/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.hearthealthreport.com/Health/CHH/LP/Crandall-Heart-Kit-Video?dkt_nbr=0103016g20ha",
+    "headline": "4 signs your heart is quietly failing",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/r/59f37861863e4.jpg"
   },
   {
     "date": "10/30/17",
@@ -127,21 +136,21 @@
   },
   {
     "date": "10/24/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Cosmopolitan Magazine is seducing underage girls",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "10/24/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Renaissance Communications",
     "sponsor_url": "http://lettherebelightmovie.com/",
     "headline": "Look what Kevin and Sam Sorbo have in common with Sean Hannity",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
+  },
+  {
+    "date": "10/24/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Cosmopolitan Magazine is seducing underage girls",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/23/17",
@@ -163,21 +172,21 @@
   },
   {
     "date": "10/22/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=868780",
-    "headline": "Nation’s top regenerative doctor makes breakthrough linking deep fat to aging",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea1a6b69ace.jpg"
-  },
-  {
-    "date": "10/22/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Renaissance Communications",
     "sponsor_url": "http://lettherebelightmovie.com/",
     "headline": "Look what Kevin and Sam Sorbo have in common with Sean Hannity",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
+  },
+  {
+    "date": "10/22/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=868780",
+    "headline": "Nation’s top regenerative doctor makes breakthrough linking deep fat to aging",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea1a6b69ace.jpg"
   },
   {
     "date": "10/21/17",
@@ -199,15 +208,6 @@
   },
   {
     "date": "10/20/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "USA Depot",
-    "sponsor_url": "https://patriotdepot.com/i-stand-for-the-flag-and-kneel-at-the-cross-t-shirt/?utm_source=email&utm_campaign=sponsorship&utm_medium=blaze&utm_content=standfortheflagshirt&utm_term=2017-10-20_blaze_sponsorship",
-    "headline": "See the shirt that every American should wear to NFL games",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/j/59e8c3f55912c.png"
-  },
-  {
-    "date": "10/20/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -216,13 +216,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/d/59e0def80c58e.jpg"
   },
   {
-    "date": "10/19/17",
-    "newsletter": "AM",
+    "date": "10/20/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://www.medixselect.com//index.jp/page/ventricorefreetrial?src=J1553&dkt_nbr=010301wqtinx",
-    "headline": "The heart surgeon’s secret for healthy blood pressure",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/i/59e7cecd09492.jpg"
+    "sponsor_name": "USA Depot",
+    "sponsor_url": "https://patriotdepot.com/i-stand-for-the-flag-and-kneel-at-the-cross-t-shirt/?utm_source=email&utm_campaign=sponsorship&utm_medium=blaze&utm_content=standfortheflagshirt&utm_term=2017-10-20_blaze_sponsorship",
+    "headline": "See the shirt that every American should wear to NFL games",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/j/59e8c3f55912c.png"
   },
   {
     "date": "10/19/17",
@@ -232,6 +232,15 @@
     "sponsor_url": "http://tickets.samekindofdifferentasmemovie.com/videos/",
     "headline": "One woman’s kindness and forgiveness helped save this man, and an entire community",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/i/59e79df1c75bc.jpeg"
+  },
+  {
+    "date": "10/19/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://www.medixselect.com//index.jp/page/ventricorefreetrial?src=J1553&dkt_nbr=010301wqtinx",
+    "headline": "The heart surgeon’s secret for healthy blood pressure",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/i/59e7cecd09492.jpg"
   },
   {
     "date": "10/18/17",
