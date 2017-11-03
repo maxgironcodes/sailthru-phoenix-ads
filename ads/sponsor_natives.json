@@ -1,5 +1,14 @@
 [
   {
+    "date": "11/08/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=869963",
+    "headline": "How to flip the 'Master Switch' on your metabolism",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/3/59fc7fafbf64a.jpg"
+  },
+  {
     "date": "11/07/17",
     "newsletter": "PM",
     "type": "Native",
@@ -10,21 +19,21 @@
   },
   {
     "date": "11/06/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "This is why your child knows about porn",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "11/06/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "This is best choice you can make in real estate",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "11/06/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "This is why your child knows about porn",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "11/03/17",
@@ -127,15 +136,6 @@
   },
   {
     "date": "10/26/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "CashFlow LeadGen",
-    "sponsor_url": "https://awb.iljmp.com/19/10-26-blaze-obama-greatest-dpp-tap",
-    "headline": "You’ll never guess who’s declaring Obama as the greatest President of all time",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
-  },
-  {
-    "date": "10/26/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -144,13 +144,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
-    "date": "10/25/17",
-    "newsletter": "PM",
+    "date": "10/26/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Home owners are selling homes faster than ever",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/p/59f0cdefb0f45.jpg"
+    "sponsor_name": "CashFlow LeadGen",
+    "sponsor_url": "https://awb.iljmp.com/19/10-26-blaze-obama-greatest-dpp-tap",
+    "headline": "You’ll never guess who’s declaring Obama as the greatest President of all time",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
   },
   {
     "date": "10/25/17",
@@ -162,13 +162,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04db399396.jpg"
   },
   {
-    "date": "10/24/17",
+    "date": "10/25/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://lettherebelightmovie.com/",
-    "headline": "Look what Kevin and Sam Sorbo have in common with Sean Hannity",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Home owners are selling homes faster than ever",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/p/59f0cdefb0f45.jpg"
   },
   {
     "date": "10/24/17",
@@ -180,13 +180,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
-    "date": "10/23/17",
+    "date": "10/24/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/682671",
-    "headline": "Hillary’s Anti-American hand gesture caught on tape",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea20c91ab4f.jpg"
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://lettherebelightmovie.com/",
+    "headline": "Look what Kevin and Sam Sorbo have in common with Sean Hannity",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
   },
   {
     "date": "10/23/17",
@@ -196,6 +196,15 @@
     "sponsor_url": "https://lopsolutions.isrefer.com/go/alrovs/bnalrlopo102317/",
     "headline": "Poll: Americans asked if they want Obama back. See what they said",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea67a89ceae.jpg"
+  },
+  {
+    "date": "10/23/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/682671",
+    "headline": "Hillary’s Anti-American hand gesture caught on tape",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea20c91ab4f.jpg"
   },
   {
     "date": "10/22/17",
