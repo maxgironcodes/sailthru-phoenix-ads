@@ -10,6 +10,15 @@
   },
   {
     "date": "11/07/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "http://www.memoryrate.com/?dkt_nbr=010301bttci1",
+    "headline": "Do you have these Alzheimer's warning signs? Rate your memory now",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/6/5a008c5479416.jpg"
+  },
+  {
+    "date": "11/07/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -19,21 +28,21 @@
   },
   {
     "date": "11/06/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "This is best choice you can make in real estate",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
-  },
-  {
-    "date": "11/06/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Cosmo Hurts Kids",
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "This is why your child knows about porn",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
+    "date": "11/06/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "This is best choice you can make in real estate",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "11/03/17",
@@ -136,15 +145,6 @@
   },
   {
     "date": "10/26/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=868779",
-    "headline": "Dr. Steven Gundry, doctor to the stars claims to have solved the weight loss mystery",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
-  },
-  {
-    "date": "10/26/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "CashFlow LeadGen",
@@ -153,13 +153,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
   },
   {
-    "date": "10/25/17",
-    "newsletter": "AM",
+    "date": "10/26/17",
+    "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=868777",
-    "headline": "Renowned doctor and author, Steven Gundry, MD links discovers reason for low energy",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04db399396.jpg"
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=868779",
+    "headline": "Dr. Steven Gundry, doctor to the stars claims to have solved the weight loss mystery",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
     "date": "10/25/17",
@@ -171,13 +171,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/p/59f0cdefb0f45.jpg"
   },
   {
-    "date": "10/24/17",
+    "date": "10/25/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Cosmopolitan Magazine is seducing underage girls",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=868777",
+    "headline": "Renowned doctor and author, Steven Gundry, MD links discovers reason for low energy",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04db399396.jpg"
   },
   {
     "date": "10/24/17",
@@ -189,13 +189,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
   },
   {
-    "date": "10/23/17",
+    "date": "10/24/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "LOP Solutions",
-    "sponsor_url": "https://lopsolutions.isrefer.com/go/alrovs/bnalrlopo102317/",
-    "headline": "Poll: Americans asked if they want Obama back. See what they said",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea67a89ceae.jpg"
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Cosmopolitan Magazine is seducing underage girls",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/23/17",
@@ -205,6 +205,15 @@
     "sponsor_url": "https://pro.hsionlineorders.net/m/682671",
     "headline": "Hillary’s Anti-American hand gesture caught on tape",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea20c91ab4f.jpg"
+  },
+  {
+    "date": "10/23/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "LOP Solutions",
+    "sponsor_url": "https://lopsolutions.isrefer.com/go/alrovs/bnalrlopo102317/",
+    "headline": "Poll: Americans asked if they want Obama back. See what they said",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea67a89ceae.jpg"
   },
   {
     "date": "10/22/17",
