@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/8/5a0369e97aa96.jpg"
   },
   {
+    "date": "11/11/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "http://www.doctorshealthpress.com/videos/hhck14/?sb=6BLAZE&scombo=1&sdate=11112017&dept=EH&st=1&up=1",
+    "headline": "Here's real bladder relief when nothing else seems to work",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/8/5a0387b7c9062.jpg"
+  },
+  {
     "date": "11/10/17",
     "newsletter": "AM",
     "type": "Native",
@@ -109,21 +118,21 @@
   },
   {
     "date": "10/31/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Victoria Hearst in a battle against Cosmo",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "10/31/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
     "sponsor_url": "https://w3.hearthealthreport.com/Health/CHH/LP/Crandall-Heart-Kit-Video?dkt_nbr=0103016g20ha",
     "headline": "4 signs your heart is quietly failing",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/r/59f37861863e4.jpg"
+  },
+  {
+    "date": "10/31/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Victoria Hearst in a battle against Cosmo",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/30/17",
@@ -154,15 +163,6 @@
   },
   {
     "date": "10/27/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "The change in the real estate market has begun",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/p/59f0cdefb0f45.jpg"
-  },
-  {
-    "date": "10/27/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Quip",
@@ -171,13 +171,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/p/59f10854dc5ec.jpg"
   },
   {
-    "date": "10/26/17",
+    "date": "10/27/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=868779",
-    "headline": "Dr. Steven Gundry, doctor to the stars claims to have solved the weight loss mystery",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "The change in the real estate market has begun",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/p/59f0cdefb0f45.jpg"
   },
   {
     "date": "10/26/17",
@@ -189,13 +189,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/5/j/591f1e5919b6b.jpg"
   },
   {
-    "date": "10/25/17",
-    "newsletter": "AM",
+    "date": "10/26/17",
+    "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=868777",
-    "headline": "Renowned doctor and author, Steven Gundry, MD links discovers reason for low energy",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04db399396.jpg"
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=868779",
+    "headline": "Dr. Steven Gundry, doctor to the stars claims to have solved the weight loss mystery",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
     "date": "10/25/17",
@@ -207,13 +207,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/p/59f0cdefb0f45.jpg"
   },
   {
-    "date": "10/24/17",
+    "date": "10/25/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Cosmopolitan Magazine is seducing underage girls",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=868777",
+    "headline": "Renowned doctor and author, Steven Gundry, MD links discovers reason for low energy",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/p/59a04db399396.jpg"
   },
   {
     "date": "10/24/17",
@@ -223,6 +223,15 @@
     "sponsor_url": "http://lettherebelightmovie.com/",
     "headline": "Look what Kevin and Sam Sorbo have in common with Sean Hannity",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
+  },
+  {
+    "date": "10/24/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Cosmopolitan Magazine is seducing underage girls",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/23/17",
@@ -244,15 +253,6 @@
   },
   {
     "date": "10/22/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://lettherebelightmovie.com/",
-    "headline": "Look what Kevin and Sam Sorbo have in common with Sean Hannity",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
-  },
-  {
-    "date": "10/22/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -261,13 +261,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea1a6b69ace.jpg"
   },
   {
-    "date": "10/21/17",
-    "newsletter": "PM",
+    "date": "10/22/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "4Patriots",
-    "sponsor_url": "http://homeprepready.com/base.php?c=855&key=5121cadc9b56b8cb74c2b13f1777baeb&t4p=123&aff_sub=1344-20171021-b0062n-h042-pm",
-    "headline": "Gasless generator could save lives",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d64379978b0.jpg"
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://lettherebelightmovie.com/",
+    "headline": "Look what Kevin and Sam Sorbo have in common with Sean Hannity",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea6761a1092.png"
   },
   {
     "date": "10/21/17",
@@ -277,6 +277,15 @@
     "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded21Oct17A",
     "headline": "Scientists: Tinnitus has nothing to do with your ears",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/j/59e8c4567aa11.jpg"
+  },
+  {
+    "date": "10/21/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "4Patriots",
+    "sponsor_url": "http://homeprepready.com/base.php?c=855&key=5121cadc9b56b8cb74c2b13f1777baeb&t4p=123&aff_sub=1344-20171021-b0062n-h042-pm",
+    "headline": "Gasless generator could save lives",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d64379978b0.jpg"
   },
   {
     "date": "10/20/17",
