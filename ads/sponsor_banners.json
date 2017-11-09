@@ -1,5 +1,19 @@
 [
   {
+    "date": "11/10/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "TheBlaze In-House",
+    "top": {
+      "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=PM&utm_medium=email&utm_campaign=Glenn+Beck+Premium",
+      "image_url": "https://media.sailthru.com/3ia/1k1/b/9/5a04caacb2b0f.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=PM&utm_medium=email&utm_campaign=Glenn+Beck+Hard+Truth",
+      "image_url": "https://media.sailthru.com/3ia/1k1/b/9/5a04cac8cae2c.jpg"
+    }
+  },
+  {
     "date": "11/02/17",
     "newsletter": "AM",
     "type": "Banners",
@@ -59,20 +73,6 @@
   },
   {
     "date": "10/24/17",
-    "newsletter": "PM",
-    "type": "Banners",
-    "sponsor_name": "Golden Hippo Media",
-    "top": {
-      "sponsor_url": "http://nucific.com/cmd.php?ad=868782",
-      "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bd8e42d8.jpg"
-    },
-    "bottom": {
-      "sponsor_url": "http://gundrymd.com/cmd.php?ad=868775",
-      "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea1d4bc3cae.jpg"
-    }
-  },
-  {
-    "date": "10/24/17",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Filterbuy",
@@ -83,6 +83,20 @@
     "bottom": {
       "sponsor_url": "https://filterbuy.com/air-filter-sizes/",
       "image_url": "https://media.sailthru.com/3ia/1k1/8/l/599b4bb93d2db.jpg"
+    }
+  },
+  {
+    "date": "10/24/17",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://nucific.com/cmd.php?ad=868782",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/5/59d67bd8e42d8.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=868775",
+      "image_url": "https://media.sailthru.com/3ia/1k1/a/k/59ea1d4bc3cae.jpg"
     }
   },
   {
