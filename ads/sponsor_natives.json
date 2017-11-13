@@ -1,5 +1,14 @@
 [
   {
+    "date": "11/14/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "JWRA",
+    "sponsor_url": "http://ag.allegiancegold.com/taxplan/?utm_source=blz&utm_medium=Blaze&utm_campaign=TaxPlan",
+    "headline": "New tax plan putting your retirement account at risk",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09c5c157852.jpg"
+  },
+  {
     "date": "11/13/17",
     "newsletter": "AM",
     "type": "Native",
@@ -118,21 +127,21 @@
   },
   {
     "date": "11/02/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=869508",
-    "headline": "Dr. reveals the #1 vegetable that is toxic to your health",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/r/59f38dd78b454.jpg"
-  },
-  {
-    "date": "11/02/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-tactics",
     "sponsor_url": "http://www.doctorshealthpress.com/videos/chgs6?sb=6BLAZE&dept=EH&scombo=1&sdate=11022017&st=1&up=1",
     "headline": "Why the Chinese don't get sick like we do",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/v/59f8c7865bcee.jpg"
+  },
+  {
+    "date": "11/02/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=869508",
+    "headline": "Dr. reveals the #1 vegetable that is toxic to your health",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/r/59f38dd78b454.jpg"
   },
   {
     "date": "11/01/17",
