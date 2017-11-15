@@ -18,13 +18,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6c2383e04.png"
   },
   {
-    "date": "11/20/17",
+    "date": "11/21/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "http://www.newsmax.com/surveys/TrumpvsObama/Who-Is-Better-Trump-or-Obama/id/368/kw/default/?dkt_nbr=010301jrp87b",
-    "headline": "Who is better — Trump or Obama?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09fce7d39b8.jpg"
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=871462",
+    "headline": "3 foods worse than a single diet soda",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca811c3351.jpg"
   },
   {
     "date": "11/20/17",
@@ -34,6 +34,15 @@
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=871457",
     "headline": "New report reveals the energy boosting “trick” most adults don’t know about",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca7bad80aa.jpg"
+  },
+  {
+    "date": "11/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "http://www.newsmax.com/surveys/TrumpvsObama/Who-Is-Better-Trump-or-Obama/id/368/kw/default/?dkt_nbr=010301jrp87b",
+    "headline": "Who is better — Trump or Obama?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09fce7d39b8.jpg"
   },
   {
     "date": "11/18/17",
@@ -199,21 +208,21 @@
   },
   {
     "date": "11/06/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "This is why your child knows about porn",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "11/06/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "This is best choice you can make in real estate",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "11/06/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "This is why your child knows about porn",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "11/03/17",
