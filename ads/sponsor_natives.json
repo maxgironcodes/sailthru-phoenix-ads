@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09fce7d39b8.jpg"
   },
   {
+    "date": "11/18/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://pro.chooseyourself.io/m/777177",
+    "headline": "Cryptocurrencies like Bitcoin are on fire this year. But what exactly are cryptos?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6c2383e04.png"
+  },
+  {
     "date": "11/17/17",
     "newsletter": "AM",
     "type": "Native",
@@ -82,21 +91,21 @@
   },
   {
     "date": "11/11/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.nutritionandhealing.com/m/682672",
-    "headline": "Homemade \"beverage\" for Alzheimer's, get the recipe now",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/8/5a0369e97aa96.jpg"
-  },
-  {
-    "date": "11/11/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "E-tactics",
     "sponsor_url": "http://www.doctorshealthpress.com/videos/hhck14/?sb=6BLAZE&scombo=1&sdate=11112017&dept=EH&st=1&up=1",
     "headline": "Here's real bladder relief when nothing else seems to work",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/8/5a0387b7c9062.jpg"
+  },
+  {
+    "date": "11/11/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.nutritionandhealing.com/m/682672",
+    "headline": "Homemade \"beverage\" for Alzheimer's, get the recipe now",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/8/5a0369e97aa96.jpg"
   },
   {
     "date": "11/10/17",
@@ -127,15 +136,6 @@
   },
   {
     "date": "11/07/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "http://www.memoryrate.com/?dkt_nbr=010301bttci1",
-    "headline": "Do you have these Alzheimer's warning signs? Rate your memory now",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/6/5a008c5479416.jpg"
-  },
-  {
-    "date": "11/07/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -144,13 +144,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
-    "date": "11/06/17",
+    "date": "11/07/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "This is why your child knows about porn",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "http://www.memoryrate.com/?dkt_nbr=010301bttci1",
+    "headline": "Do you have these Alzheimer's warning signs? Rate your memory now",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/6/5a008c5479416.jpg"
   },
   {
     "date": "11/06/17",
@@ -160,6 +160,15 @@
     "sponsor_url": "http://www.realestateagentsitrust.com/",
     "headline": "This is best choice you can make in real estate",
     "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+  },
+  {
+    "date": "11/06/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "This is why your child knows about porn",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "11/03/17",
@@ -199,21 +208,21 @@
   },
   {
     "date": "10/31/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.hearthealthreport.com/Health/CHH/LP/Crandall-Heart-Kit-Video?dkt_nbr=0103016g20ha",
-    "headline": "4 signs your heart is quietly failing",
-    "image_url": "https://media.sailthru.com/3ia/1k1/a/r/59f37861863e4.jpg"
-  },
-  {
-    "date": "10/31/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Cosmo Hurts Kids",
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "Victoria Hearst in a battle against Cosmo",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
+    "date": "10/31/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.hearthealthreport.com/Health/CHH/LP/Crandall-Heart-Kit-Video?dkt_nbr=0103016g20ha",
+    "headline": "4 signs your heart is quietly failing",
+    "image_url": "https://media.sailthru.com/3ia/1k1/a/r/59f37861863e4.jpg"
   },
   {
     "date": "10/30/17",
