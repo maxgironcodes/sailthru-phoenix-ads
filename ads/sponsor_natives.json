@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09fce7d39b8.jpg"
   },
   {
+    "date": "11/17/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Grocery stores are now censoring this popular women's magazine",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
     "date": "11/16/17",
     "newsletter": "AM",
     "type": "Native",
@@ -46,21 +55,21 @@
   },
   {
     "date": "11/13/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden HIppo Media",
-    "sponsor_url": "http://activatedyou.com/cmd.php?ad=870812",
-    "headline": "Actress how to: Reduce your bloated belly",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/9/5a04cb3de6d2c.jpg"
-  },
-  {
-    "date": "11/13/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Cosmo Hurts Kids",
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "Cosmopolitan Magazine is showing porn to minors",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
+    "date": "11/13/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden HIppo Media",
+    "sponsor_url": "http://activatedyou.com/cmd.php?ad=870812",
+    "headline": "Actress how to: Reduce your bloated belly",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/9/5a04cb3de6d2c.jpg"
   },
   {
     "date": "11/12/17",
@@ -118,15 +127,6 @@
   },
   {
     "date": "11/07/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=869957",
-    "headline": "The secret to healthy digestion: “Many people are going to think this is too good to be true”",
-    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
-  },
-  {
-    "date": "11/07/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
@@ -135,13 +135,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/6/5a008c5479416.jpg"
   },
   {
-    "date": "11/06/17",
+    "date": "11/07/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "This is best choice you can make in real estate",
-    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=869957",
+    "headline": "The secret to healthy digestion: “Many people are going to think this is too good to be true”",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
     "date": "11/06/17",
@@ -151,6 +151,15 @@
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "This is why your child knows about porn",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
+    "date": "11/06/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "This is best choice you can make in real estate",
+    "image_url": "https://media.sailthru.com/3ia/1k1/5/u/592db72e0c506.jpg"
   },
   {
     "date": "11/03/17",
@@ -190,21 +199,21 @@
   },
   {
     "date": "10/31/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Victoria Hearst in a battle against Cosmo",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "10/31/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
     "sponsor_url": "https://w3.hearthealthreport.com/Health/CHH/LP/Crandall-Heart-Kit-Video?dkt_nbr=0103016g20ha",
     "headline": "4 signs your heart is quietly failing",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/r/59f37861863e4.jpg"
+  },
+  {
+    "date": "10/31/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Victoria Hearst in a battle against Cosmo",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/30/17",
