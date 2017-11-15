@@ -1,5 +1,14 @@
 [
   {
+    "date": "11/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://pro.chooseyourself.io/m/77713",
+    "headline": "As cryptocurrencies skyrocket, this script exposes a simple way to make a fortune",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6e082505c.jpg"
+  },
+  {
     "date": "11/22/17",
     "newsletter": "AM",
     "type": "Native",
@@ -217,21 +226,21 @@
   },
   {
     "date": "10/31/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Victoria Hearst in a battle against Cosmo",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "10/31/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
     "sponsor_url": "https://w3.hearthealthreport.com/Health/CHH/LP/Crandall-Heart-Kit-Video?dkt_nbr=0103016g20ha",
     "headline": "4 signs your heart is quietly failing",
     "image_url": "https://media.sailthru.com/3ia/1k1/a/r/59f37861863e4.jpg"
+  },
+  {
+    "date": "10/31/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Victoria Hearst in a battle against Cosmo",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "10/30/17",
