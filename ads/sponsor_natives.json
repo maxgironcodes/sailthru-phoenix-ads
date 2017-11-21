@@ -10,21 +10,21 @@
   },
   {
     "date": "11/27/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/682675",
-    "headline": "Simple bathroom habit deadlier than cigarettes",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14424989d7e.jpg"
-  },
-  {
-    "date": "11/27/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "USA Depot",
     "sponsor_url": "https://patriotdepot.com/10-t-shirt-sale/?utm_source=email&utm_campaign=sponsorship&utm_medium=theblaze&utm_content=10shirtsale&utm_term=2017-11-27_blaze_sponsorship",
     "headline": "Conservative t-shirts for just $10 each!",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14798f295df.jpg"
+  },
+  {
+    "date": "11/27/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/682675",
+    "headline": "Simple bathroom habit deadlier than cigarettes",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14424989d7e.jpg"
   },
   {
     "date": "11/26/17",
@@ -72,13 +72,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6c2383e04.png"
   },
   {
-    "date": "11/21/17",
+    "date": "11/22/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Agora Financial",
-    "sponsor_url": "https://pro.financialreport.info/m/787275",
-    "headline": "This is hotter than the marijuana investing market",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/h/5a0f78244b506.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "www.realestateagentsitrust.com",
+    "headline": "This is how you sell your home before the holidays",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a149cae0b941.jpg"
   },
   {
     "date": "11/21/17",
@@ -90,13 +90,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca811c3351.jpg"
   },
   {
-    "date": "11/20/17",
+    "date": "11/21/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=871457",
-    "headline": "New report reveals the energy boosting “trick” most adults don’t know about",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca7bad80aa.jpg"
+    "sponsor_name": "Agora Financial",
+    "sponsor_url": "https://pro.financialreport.info/m/787275",
+    "headline": "This is hotter than the marijuana investing market",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/h/5a0f78244b506.jpg"
   },
   {
     "date": "11/20/17",
@@ -106,6 +106,15 @@
     "sponsor_url": "http://www.newsmax.com/surveys/TrumpvsObama/Who-Is-Better-Trump-or-Obama/id/368/kw/default/?dkt_nbr=010301jrp87b",
     "headline": "Who is better — Trump or Obama?",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09fce7d39b8.jpg"
+  },
+  {
+    "date": "11/20/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=871457",
+    "headline": "New report reveals the energy boosting “trick” most adults don’t know about",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca7bad80aa.jpg"
   },
   {
     "date": "11/19/17",
@@ -136,15 +145,6 @@
   },
   {
     "date": "11/17/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://juvetress.com/ace.php?stm=54",
-    "headline": "Want gorgeous head of hair again? Don’t use this popular product",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca74673bcf.jpg"
-  },
-  {
-    "date": "11/17/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Cosmo Hurts Kids",
@@ -153,13 +153,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
-    "date": "11/16/17",
-    "newsletter": "AM",
+    "date": "11/17/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "http://www.simplehearttest.com/heartsurvey.aspx/?dkt_nbr=010301i9i7za",
-    "headline": "At risk for a heart attack? Find out now",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09fd708539c.jpg"
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://juvetress.com/ace.php?stm=54",
+    "headline": "Want gorgeous head of hair again? Don’t use this popular product",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca74673bcf.jpg"
   },
   {
     "date": "11/16/17",
@@ -169,6 +169,15 @@
     "sponsor_url": "http://www.thestarmovie.com/",
     "headline": "Have you ever thought about the 1st Christmas from a different point of view?",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c8fd3022bc.png"
+  },
+  {
+    "date": "11/16/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "http://www.simplehearttest.com/heartsurvey.aspx/?dkt_nbr=010301i9i7za",
+    "headline": "At risk for a heart attack? Find out now",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09fd708539c.jpg"
   },
   {
     "date": "11/15/17",
@@ -181,15 +190,6 @@
   },
   {
     "date": "11/14/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "JWRA",
-    "sponsor_url": "http://ag.allegiancegold.com/taxplan/?utm_source=blz&utm_medium=Blaze&utm_campaign=TaxPlan",
-    "headline": "New tax plan putting your retirement account at risk",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09c5c157852.jpg"
-  },
-  {
-    "date": "11/14/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
@@ -198,13 +198,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/a/p/59f0cdefb0f45.jpg"
   },
   {
-    "date": "11/13/17",
+    "date": "11/14/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden HIppo Media",
-    "sponsor_url": "http://activatedyou.com/cmd.php?ad=870812",
-    "headline": "Actress how to: Reduce your bloated belly",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/9/5a04cb3de6d2c.jpg"
+    "sponsor_name": "JWRA",
+    "sponsor_url": "http://ag.allegiancegold.com/taxplan/?utm_source=blz&utm_medium=Blaze&utm_campaign=TaxPlan",
+    "headline": "New tax plan putting your retirement account at risk",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09c5c157852.jpg"
   },
   {
     "date": "11/13/17",
@@ -214,6 +214,15 @@
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "Cosmopolitan Magazine is showing porn to minors",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
+    "date": "11/13/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden HIppo Media",
+    "sponsor_url": "http://activatedyou.com/cmd.php?ad=870812",
+    "headline": "Actress how to: Reduce your bloated belly",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/9/5a04cb3de6d2c.jpg"
   },
   {
     "date": "11/12/17",
