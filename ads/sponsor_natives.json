@@ -10,6 +10,15 @@
   },
   {
     "date": "11/29/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=872160",
+    "headline": "Is turmeric the answer? Dr. reveals how to flip the 'Master Switch' on your metabolism",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b5229d5b8.jpg"
+  },
+  {
+    "date": "11/29/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -55,21 +64,21 @@
   },
   {
     "date": "11/25/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Fountainhead Marketing",
-    "sponsor_url": "https://amorain.com/?E=hsmN%2bBfLwAHMovEK4wjKLQ%3d%3d&s1=am1125",
-    "headline": "As cryptocurrencies skyrocket, this script exposes a simple way to make a fortune",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6e082505c.jpg"
-  },
-  {
-    "date": "11/25/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Rainmaker",
     "sponsor_url": "https://pro.financialreport.info/m/793828",
     "headline": "\"Patriot Checks\" available to 244 million Americans",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a1440ccd86b6.jpg"
+  },
+  {
+    "date": "11/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://amorain.com/?E=hsmN%2bBfLwAHMovEK4wjKLQ%3d%3d&s1=am1125",
+    "headline": "As cryptocurrencies skyrocket, this script exposes a simple way to make a fortune",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6e082505c.jpg"
   },
   {
     "date": "11/24/17",
@@ -154,15 +163,6 @@
   },
   {
     "date": "11/18/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Fountainhead Marketing",
-    "sponsor_url": "https://amorain.com/?E=HZ0kvAmKSQ77Tlr6%2fGLy4w%3d%3d&s1=pm1118",
-    "headline": "Cryptocurrencies like Bitcoin are on fire this year. But what exactly are cryptos?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6c2383e04.png"
-  },
-  {
-    "date": "11/18/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Media",
@@ -171,13 +171,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/g/5a0dbb8c31db2.jpg"
   },
   {
-    "date": "11/17/17",
-    "newsletter": "AM",
+    "date": "11/18/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Grocery stores are now censoring this popular women's magazine",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://amorain.com/?E=HZ0kvAmKSQ77Tlr6%2fGLy4w%3d%3d&s1=pm1118",
+    "headline": "Cryptocurrencies like Bitcoin are on fire this year. But what exactly are cryptos?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6c2383e04.png"
   },
   {
     "date": "11/17/17",
@@ -189,13 +189,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca74673bcf.jpg"
   },
   {
-    "date": "11/16/17",
-    "newsletter": "PM",
+    "date": "11/17/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.thestarmovie.com/",
-    "headline": "Have you ever thought about the 1st Christmas from a different point of view?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c8fd3022bc.png"
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Grocery stores are now censoring this popular women's magazine",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "11/16/17",
@@ -205,6 +205,15 @@
     "sponsor_url": "http://www.simplehearttest.com/heartsurvey.aspx/?dkt_nbr=010301i9i7za",
     "headline": "At risk for a heart attack? Find out now",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09fd708539c.jpg"
+  },
+  {
+    "date": "11/16/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.thestarmovie.com/",
+    "headline": "Have you ever thought about the 1st Christmas from a different point of view?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c8fd3022bc.png"
   },
   {
     "date": "11/15/17",
@@ -235,21 +244,21 @@
   },
   {
     "date": "11/13/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Cosmopolitan Magazine is showing porn to minors",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "11/13/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden HIppo Media",
     "sponsor_url": "http://activatedyou.com/cmd.php?ad=870812",
     "headline": "Actress how to: Reduce your bloated belly",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/9/5a04cb3de6d2c.jpg"
+  },
+  {
+    "date": "11/13/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Cosmopolitan Magazine is showing porn to minors",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "11/12/17",
