@@ -1,5 +1,14 @@
 [
   {
+    "date": "12/02/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "http://thememoryrepairsolution.com/?aff_id=605033&subid=blnaneded02Dec17A",
+    "headline": "Alzheimer's quick test: Is your bedroom organized this way?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/t/5a1ee24503de5.jpg"
+  },
+  {
     "date": "11/30/17",
     "newsletter": "PM",
     "type": "Native",
@@ -19,21 +28,21 @@
   },
   {
     "date": "11/29/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=872160",
-    "headline": "Is turmeric the answer? Dr. reveals how to flip the 'Master Switch' on your metabolism",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b5229d5b8.jpg"
-  },
-  {
-    "date": "11/29/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=872158",
     "headline": "Dr. reveals the #1 vegetable that is toxic to your health",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b4caed938.jpg"
+  },
+  {
+    "date": "11/29/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=872160",
+    "headline": "Is turmeric the answer? Dr. reveals how to flip the 'Master Switch' on your metabolism",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b5229d5b8.jpg"
   },
   {
     "date": "11/28/17",
@@ -55,21 +64,21 @@
   },
   {
     "date": "11/27/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "USA Depot",
-    "sponsor_url": "https://patriotdepot.com/10-t-shirt-sale/?utm_source=email&utm_campaign=sponsorship&utm_medium=theblaze&utm_content=10shirtsale&utm_term=2017-11-27_blaze_sponsorship",
-    "headline": "Conservative t-shirts for just $10 each!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14798f295df.jpg"
-  },
-  {
-    "date": "11/27/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-tactics",
     "sponsor_url": "https://pro.hsionlineorders.net/m/682675",
     "headline": "Simple bathroom habit deadlier than cigarettes",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14424989d7e.jpg"
+  },
+  {
+    "date": "11/27/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "USA Depot",
+    "sponsor_url": "https://patriotdepot.com/10-t-shirt-sale/?utm_source=email&utm_campaign=sponsorship&utm_medium=theblaze&utm_content=10shirtsale&utm_term=2017-11-27_blaze_sponsorship",
+    "headline": "Conservative t-shirts for just $10 each!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14798f295df.jpg"
   },
   {
     "date": "11/26/17",
@@ -127,15 +136,6 @@
   },
   {
     "date": "11/22/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "https://www.realestateagentsitrust.com",
-    "headline": "This is how you sell your home before the holidays",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a149cae0b941.jpg"
-  },
-  {
-    "date": "11/22/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Fountainhead Marketing",
@@ -144,13 +144,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6c2383e04.png"
   },
   {
-    "date": "11/21/17",
+    "date": "11/22/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Agora Financial",
-    "sponsor_url": "https://pro.financialreport.info/m/787275",
-    "headline": "This is hotter than the marijuana investing market",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/h/5a0f78244b506.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "https://www.realestateagentsitrust.com",
+    "headline": "This is how you sell your home before the holidays",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a149cae0b941.jpg"
   },
   {
     "date": "11/21/17",
@@ -162,13 +162,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca811c3351.jpg"
   },
   {
-    "date": "11/20/17",
-    "newsletter": "AM",
+    "date": "11/21/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "http://www.newsmax.com/surveys/TrumpvsObama/Who-Is-Better-Trump-or-Obama/id/368/kw/default/?dkt_nbr=010301jrp87b",
-    "headline": "Who is better — Trump or Obama?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09fce7d39b8.jpg"
+    "sponsor_name": "Agora Financial",
+    "sponsor_url": "https://pro.financialreport.info/m/787275",
+    "headline": "This is hotter than the marijuana investing market",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/h/5a0f78244b506.jpg"
   },
   {
     "date": "11/20/17",
@@ -178,6 +178,15 @@
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=871457",
     "headline": "New report reveals the energy boosting “trick” most adults don’t know about",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca7bad80aa.jpg"
+  },
+  {
+    "date": "11/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "http://www.newsmax.com/surveys/TrumpvsObama/Who-Is-Better-Trump-or-Obama/id/368/kw/default/?dkt_nbr=010301jrp87b",
+    "headline": "Who is better — Trump or Obama?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09fce7d39b8.jpg"
   },
   {
     "date": "11/19/17",
@@ -208,21 +217,21 @@
   },
   {
     "date": "11/17/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Grocery stores are now censoring this popular women's magazine",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "11/17/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo",
     "sponsor_url": "http://juvetress.com/ace.php?stm=54",
     "headline": "Want gorgeous head of hair again? Don’t use this popular product",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca74673bcf.jpg"
+  },
+  {
+    "date": "11/17/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Grocery stores are now censoring this popular women's magazine",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "11/16/17",
