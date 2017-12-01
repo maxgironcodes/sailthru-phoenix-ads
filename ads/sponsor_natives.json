@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/u/5a2029273bca1.jpg"
   },
   {
+    "date": "12/05/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://probioticamerica.com/cmd.php?ad=873030",
+    "headline": "Doctor reveals root of all stomach problems. Watch",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/1/5a21c2f453bdf.jpg"
+  },
+  {
     "date": "12/04/17",
     "newsletter": "PM",
     "type": "Native",
@@ -46,21 +55,21 @@
   },
   {
     "date": "11/29/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=872158",
-    "headline": "Dr. reveals the #1 vegetable that is toxic to your health",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b4caed938.jpg"
-  },
-  {
-    "date": "11/29/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=872160",
     "headline": "Is turmeric the answer? Dr. reveals how to flip the 'Master Switch' on your metabolism",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b5229d5b8.jpg"
+  },
+  {
+    "date": "11/29/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=872158",
+    "headline": "Dr. reveals the #1 vegetable that is toxic to your health",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b4caed938.jpg"
   },
   {
     "date": "11/28/17",
@@ -109,21 +118,21 @@
   },
   {
     "date": "11/25/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Fountainhead Marketing",
-    "sponsor_url": "https://amorain.com/?E=hsmN%2bBfLwAHMovEK4wjKLQ%3d%3d&s1=am1125",
-    "headline": "As cryptocurrencies skyrocket, this script exposes a simple way to make a fortune",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6e082505c.jpg"
-  },
-  {
-    "date": "11/25/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Rainmaker",
     "sponsor_url": "https://pro.financialreport.info/m/793828",
     "headline": "\"Patriot Checks\" available to 244 million Americans",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a1440ccd86b6.jpg"
+  },
+  {
+    "date": "11/25/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://amorain.com/?E=hsmN%2bBfLwAHMovEK4wjKLQ%3d%3d&s1=am1125",
+    "headline": "As cryptocurrencies skyrocket, this script exposes a simple way to make a fortune",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6e082505c.jpg"
   },
   {
     "date": "11/24/17",
@@ -154,15 +163,6 @@
   },
   {
     "date": "11/22/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "https://www.realestateagentsitrust.com",
-    "headline": "This is how you sell your home before the holidays",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a149cae0b941.jpg"
-  },
-  {
-    "date": "11/22/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Fountainhead Marketing",
@@ -171,13 +171,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6c2383e04.png"
   },
   {
-    "date": "11/21/17",
+    "date": "11/22/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Agora Financial",
-    "sponsor_url": "https://pro.financialreport.info/m/787275",
-    "headline": "This is hotter than the marijuana investing market",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/h/5a0f78244b506.jpg"
+    "sponsor_name": "MRES",
+    "sponsor_url": "https://www.realestateagentsitrust.com",
+    "headline": "This is how you sell your home before the holidays",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a149cae0b941.jpg"
   },
   {
     "date": "11/21/17",
@@ -189,13 +189,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca811c3351.jpg"
   },
   {
-    "date": "11/20/17",
+    "date": "11/21/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=871457",
-    "headline": "New report reveals the energy boosting “trick” most adults don’t know about",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca7bad80aa.jpg"
+    "sponsor_name": "Agora Financial",
+    "sponsor_url": "https://pro.financialreport.info/m/787275",
+    "headline": "This is hotter than the marijuana investing market",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/h/5a0f78244b506.jpg"
   },
   {
     "date": "11/20/17",
@@ -205,6 +205,15 @@
     "sponsor_url": "http://www.newsmax.com/surveys/TrumpvsObama/Who-Is-Better-Trump-or-Obama/id/368/kw/default/?dkt_nbr=010301jrp87b",
     "headline": "Who is better — Trump or Obama?",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/d/5a09fce7d39b8.jpg"
+  },
+  {
+    "date": "11/20/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=871457",
+    "headline": "New report reveals the energy boosting “trick” most adults don’t know about",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca7bad80aa.jpg"
   },
   {
     "date": "11/19/17",
@@ -217,15 +226,6 @@
   },
   {
     "date": "11/18/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded18Nov17A",
-    "headline": "Tinnitus: This is what ear ringing does to your brain",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/g/5a0dbb8c31db2.jpg"
-  },
-  {
-    "date": "11/18/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Fountainhead Marketing",
@@ -234,13 +234,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6c2383e04.png"
   },
   {
-    "date": "11/17/17",
+    "date": "11/18/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Grocery stores are now censoring this popular women's magazine",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://silencispro.net/index.php?affId=42A4ADB8&c1=blnaneded18Nov17A",
+    "headline": "Tinnitus: This is what ear ringing does to your brain",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/g/5a0dbb8c31db2.jpg"
   },
   {
     "date": "11/17/17",
@@ -250,6 +250,15 @@
     "sponsor_url": "http://juvetress.com/ace.php?stm=54",
     "headline": "Want gorgeous head of hair again? Don’t use this popular product",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca74673bcf.jpg"
+  },
+  {
+    "date": "11/17/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Grocery stores are now censoring this popular women's magazine",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "11/16/17",
