@@ -9,13 +9,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/1/5a21c36b792b4.jpg"
   },
   {
-    "date": "12/06/17",
-    "newsletter": "PM",
+    "date": "12/07/17",
+    "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Brand Ventures",
     "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
-    "headline": "Get 90% off and free shipping! Only a few left! Hurry before we run out!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a27227c0f8e0.png"
+    "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
   },
   {
     "date": "12/06/17",
@@ -25,6 +25,15 @@
     "sponsor_url": "https://amorain.com/?E=hjBnrFlUHXDpeYdlJ7F2Nw%3d%3d&s1=am1206",
     "headline": "Cryptocurrencies like Bitcoin are on fire this year. But what exactly are cryptos?",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
+  },
+  {
+    "date": "12/06/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Brand Ventures",
+    "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
+    "headline": "Get 90% off and free shipping! Only a few left! Hurry before we run out!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a27227c0f8e0.png"
   },
   {
     "date": "12/05/17",
@@ -118,21 +127,21 @@
   },
   {
     "date": "11/27/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "USA Depot",
-    "sponsor_url": "https://patriotdepot.com/10-t-shirt-sale/?utm_source=email&utm_campaign=sponsorship&utm_medium=theblaze&utm_content=10shirtsale&utm_term=2017-11-27_blaze_sponsorship",
-    "headline": "Conservative t-shirts for just $10 each!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14798f295df.jpg"
-  },
-  {
-    "date": "11/27/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-tactics",
     "sponsor_url": "https://pro.hsionlineorders.net/m/682675",
     "headline": "Simple bathroom habit deadlier than cigarettes",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14424989d7e.jpg"
+  },
+  {
+    "date": "11/27/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "USA Depot",
+    "sponsor_url": "https://patriotdepot.com/10-t-shirt-sale/?utm_source=email&utm_campaign=sponsorship&utm_medium=theblaze&utm_content=10shirtsale&utm_term=2017-11-27_blaze_sponsorship",
+    "headline": "Conservative t-shirts for just $10 each!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14798f295df.jpg"
   },
   {
     "date": "11/26/17",
@@ -190,15 +199,6 @@
   },
   {
     "date": "11/22/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Fountainhead Marketing",
-    "sponsor_url": "https://amorain.com/?E=hsmN%2bBfLwAHMovEK4wjKLQ%3d%3d&s1=am1122",
-    "headline": "Cryptocurrencies like Bitcoin are on fire this year. But what exactly are cryptos?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6c2383e04.png"
-  },
-  {
-    "date": "11/22/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
@@ -207,13 +207,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a149cae0b941.jpg"
   },
   {
-    "date": "11/21/17",
-    "newsletter": "PM",
+    "date": "11/22/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Agora Financial",
-    "sponsor_url": "https://pro.financialreport.info/m/787275",
-    "headline": "This is hotter than the marijuana investing market",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/h/5a0f78244b506.jpg"
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://amorain.com/?E=hsmN%2bBfLwAHMovEK4wjKLQ%3d%3d&s1=am1122",
+    "headline": "Cryptocurrencies like Bitcoin are on fire this year. But what exactly are cryptos?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0c6c2383e04.png"
   },
   {
     "date": "11/21/17",
@@ -223,6 +223,15 @@
     "sponsor_url": "http://nucific.com/cmd.php?ad=871462",
     "headline": "3 foods worse than a single diet soda",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca811c3351.jpg"
+  },
+  {
+    "date": "11/21/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Agora Financial",
+    "sponsor_url": "https://pro.financialreport.info/m/787275",
+    "headline": "This is hotter than the marijuana investing market",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/h/5a0f78244b506.jpg"
   },
   {
     "date": "11/20/17",
