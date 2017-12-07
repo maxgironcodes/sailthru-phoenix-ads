@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
   },
   {
+    "date": "12/13/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead",
+    "sponsor_url": "example.com",
+    "headline": "Eccentric millionaire reveals his secret $1.8 million cryptocurrency script",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29be5bc6670.png"
+  },
+  {
     "date": "12/08/17",
     "newsletter": "PM",
     "type": "Native",
