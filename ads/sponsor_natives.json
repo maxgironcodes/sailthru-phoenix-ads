@@ -18,6 +18,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29be5bc6670.png"
   },
   {
+    "date": "12/11/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873546",
+    "headline": "The energy-boosting “trick” most adults don’t know about",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c3b4b4390.jpg"
+  },
+  {
     "date": "12/08/17",
     "newsletter": "PM",
     "type": "Native",
@@ -100,21 +109,21 @@
   },
   {
     "date": "11/30/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "http://www.myretirementdate.com/?dkt_nbr=010301mzuclu",
-    "headline": "When can you retire? Free assessment teaches you how to retire richer and faster",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/t/5a1eeadc158ad.jpg"
-  },
-  {
-    "date": "11/30/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
     "sponsor_url": "https://www.realestateagentsitrust.com",
     "headline": "Home buyers need a great advocate",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a149cae0b941.jpg"
+  },
+  {
+    "date": "11/30/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "http://www.myretirementdate.com/?dkt_nbr=010301mzuclu",
+    "headline": "When can you retire? Free assessment teaches you how to retire richer and faster",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/t/5a1eeadc158ad.jpg"
   },
   {
     "date": "11/29/17",
@@ -136,21 +145,21 @@
   },
   {
     "date": "11/28/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "USA Depot",
-    "sponsor_url": "https://patriotdepot.com/hoodies/?utm_source=email&utm_campaign=sponsorship&utm_medium=theblaze&utm_content=20hoodiesale&utm_term=2017-11-28_blaze_sponsorship",
-    "headline": "Conservative hoodies for $20 each!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a1480133131a.jpg"
-  },
-  {
-    "date": "11/28/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Rainmaker Ad Ventures",
     "sponsor_url": "https://pro.chooseyourselfmedia.us/m/804037",
     "headline": "Reserve your cryptocurrency masterclass course",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/s/5a1d805273e58.jpg"
+  },
+  {
+    "date": "11/28/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "USA Depot",
+    "sponsor_url": "https://patriotdepot.com/hoodies/?utm_source=email&utm_campaign=sponsorship&utm_medium=theblaze&utm_content=20hoodiesale&utm_term=2017-11-28_blaze_sponsorship",
+    "headline": "Conservative hoodies for $20 each!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a1480133131a.jpg"
   },
   {
     "date": "11/27/17",
