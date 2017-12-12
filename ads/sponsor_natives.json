@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
   },
   {
+    "date": "12/15/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/682677",
+    "headline": "Hillary collapsing in front of our eyes, shocking",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a30023ca9203.jpg"
+  },
+  {
     "date": "12/14/17",
     "newsletter": "PM",
     "type": "Native",
@@ -100,21 +109,21 @@
   },
   {
     "date": "12/06/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Brand Ventures",
-    "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
-    "headline": "Get 90% off and free shipping! Only a few left! Hurry before we run out!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a27227c0f8e0.png"
-  },
-  {
-    "date": "12/06/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Fountainhead Marketing",
     "sponsor_url": "https://amorain.com/?E=hjBnrFlUHXDpeYdlJ7F2Nw%3d%3d&s1=am1206",
     "headline": "Cryptocurrencies like Bitcoin are on fire this year. But what exactly are cryptos?",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
+  },
+  {
+    "date": "12/06/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Brand Ventures",
+    "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
+    "headline": "Get 90% off and free shipping! Only a few left! Hurry before we run out!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a27227c0f8e0.png"
   },
   {
     "date": "12/05/17",
@@ -172,15 +181,6 @@
   },
   {
     "date": "11/29/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=872160",
-    "headline": "Is turmeric the answer? Dr. reveals how to flip the 'Master Switch' on your metabolism",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b5229d5b8.jpg"
-  },
-  {
-    "date": "11/29/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -189,13 +189,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b4caed938.jpg"
   },
   {
-    "date": "11/28/17",
-    "newsletter": "AM",
+    "date": "11/29/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "USA Depot",
-    "sponsor_url": "https://patriotdepot.com/hoodies/?utm_source=email&utm_campaign=sponsorship&utm_medium=theblaze&utm_content=20hoodiesale&utm_term=2017-11-28_blaze_sponsorship",
-    "headline": "Conservative hoodies for $20 each!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a1480133131a.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=872160",
+    "headline": "Is turmeric the answer? Dr. reveals how to flip the 'Master Switch' on your metabolism",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b5229d5b8.jpg"
   },
   {
     "date": "11/28/17",
@@ -207,13 +207,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/s/5a1d805273e58.jpg"
   },
   {
-    "date": "11/27/17",
-    "newsletter": "PM",
+    "date": "11/28/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/682675",
-    "headline": "Simple bathroom habit deadlier than cigarettes",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14424989d7e.jpg"
+    "sponsor_name": "USA Depot",
+    "sponsor_url": "https://patriotdepot.com/hoodies/?utm_source=email&utm_campaign=sponsorship&utm_medium=theblaze&utm_content=20hoodiesale&utm_term=2017-11-28_blaze_sponsorship",
+    "headline": "Conservative hoodies for $20 each!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a1480133131a.jpg"
   },
   {
     "date": "11/27/17",
@@ -223,6 +223,15 @@
     "sponsor_url": "https://patriotdepot.com/10-t-shirt-sale/?utm_source=email&utm_campaign=sponsorship&utm_medium=theblaze&utm_content=10shirtsale&utm_term=2017-11-27_blaze_sponsorship",
     "headline": "Conservative t-shirts for just $10 each!",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14798f295df.jpg"
+  },
+  {
+    "date": "11/27/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/682675",
+    "headline": "Simple bathroom habit deadlier than cigarettes",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14424989d7e.jpg"
   },
   {
     "date": "11/26/17",
