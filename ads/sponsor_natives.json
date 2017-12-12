@@ -1,5 +1,14 @@
 [
   {
+    "date": "12/19/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.survival-today.info/m/801095",
+    "headline": "97% of people will make this deadly mistake if they're attacked on the street",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a3002a8311f3.jpg"
+  },
+  {
     "date": "12/18/17",
     "newsletter": "AM",
     "type": "Native",
@@ -46,21 +55,21 @@
   },
   {
     "date": "12/12/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.dailyfinancialnews.us/m/816529",
-    "headline": "“Patriot Checks” available to 244 million Americans",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/b/5a2ef70095fca.jpg"
-  },
-  {
-    "date": "12/12/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Brand Ventures",
     "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
     "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
+  },
+  {
+    "date": "12/12/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.dailyfinancialnews.us/m/816529",
+    "headline": "“Patriot Checks” available to 244 million Americans",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/b/5a2ef70095fca.jpg"
   },
   {
     "date": "12/11/17",
@@ -109,21 +118,21 @@
   },
   {
     "date": "12/06/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Fountainhead Marketing",
-    "sponsor_url": "https://amorain.com/?E=hjBnrFlUHXDpeYdlJ7F2Nw%3d%3d&s1=am1206",
-    "headline": "Cryptocurrencies like Bitcoin are on fire this year. But what exactly are cryptos?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
-  },
-  {
-    "date": "12/06/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Brand Ventures",
     "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
     "headline": "Get 90% off and free shipping! Only a few left! Hurry before we run out!",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a27227c0f8e0.png"
+  },
+  {
+    "date": "12/06/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://amorain.com/?E=hjBnrFlUHXDpeYdlJ7F2Nw%3d%3d&s1=am1206",
+    "headline": "Cryptocurrencies like Bitcoin are on fire this year. But what exactly are cryptos?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
   },
   {
     "date": "12/05/17",
@@ -181,15 +190,6 @@
   },
   {
     "date": "11/29/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=872158",
-    "headline": "Dr. reveals the #1 vegetable that is toxic to your health",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b4caed938.jpg"
-  },
-  {
-    "date": "11/29/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -198,13 +198,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b5229d5b8.jpg"
   },
   {
-    "date": "11/28/17",
-    "newsletter": "PM",
+    "date": "11/29/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.chooseyourselfmedia.us/m/804037",
-    "headline": "Reserve your cryptocurrency masterclass course",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/s/5a1d805273e58.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=872158",
+    "headline": "Dr. reveals the #1 vegetable that is toxic to your health",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b4caed938.jpg"
   },
   {
     "date": "11/28/17",
@@ -216,13 +216,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a1480133131a.jpg"
   },
   {
-    "date": "11/27/17",
-    "newsletter": "AM",
+    "date": "11/28/17",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "USA Depot",
-    "sponsor_url": "https://patriotdepot.com/10-t-shirt-sale/?utm_source=email&utm_campaign=sponsorship&utm_medium=theblaze&utm_content=10shirtsale&utm_term=2017-11-27_blaze_sponsorship",
-    "headline": "Conservative t-shirts for just $10 each!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14798f295df.jpg"
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.chooseyourselfmedia.us/m/804037",
+    "headline": "Reserve your cryptocurrency masterclass course",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/s/5a1d805273e58.jpg"
   },
   {
     "date": "11/27/17",
@@ -232,6 +232,15 @@
     "sponsor_url": "https://pro.hsionlineorders.net/m/682675",
     "headline": "Simple bathroom habit deadlier than cigarettes",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14424989d7e.jpg"
+  },
+  {
+    "date": "11/27/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "USA Depot",
+    "sponsor_url": "https://patriotdepot.com/10-t-shirt-sale/?utm_source=email&utm_campaign=sponsorship&utm_medium=theblaze&utm_content=10shirtsale&utm_term=2017-11-27_blaze_sponsorship",
+    "headline": "Conservative t-shirts for just $10 each!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a14798f295df.jpg"
   },
   {
     "date": "11/26/17",
