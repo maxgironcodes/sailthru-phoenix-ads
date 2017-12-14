@@ -36,13 +36,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a30023ca9203.jpg"
   },
   {
-    "date": "12/14/17",
-    "newsletter": "PM",
+    "date": "12/15/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873547",
-    "headline": "The secret to healthy digestion: \"Many people are going to think this is too good to be true\"",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c45fa1bac.jpg"
+    "sponsor_name": "Renaissance",
+    "sponsor_url": "http://www.thestarmovie.com/",
+    "headline": "See who followed the star on the first Christmas",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e620ca2de.png"
   },
   {
     "date": "12/14/17",
@@ -52,6 +52,15 @@
     "sponsor_url": "http://www.gotenna.com/pages/mesh/blaze",
     "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
+  },
+  {
+    "date": "12/14/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873547",
+    "headline": "The secret to healthy digestion: \"Many people are going to think this is too good to be true\"",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c45fa1bac.jpg"
   },
   {
     "date": "12/13/17",
@@ -73,21 +82,21 @@
   },
   {
     "date": "12/12/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.dailyfinancialnews.us/m/816529",
-    "headline": "“Patriot Checks” available to 244 million Americans",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/b/5a2ef70095fca.jpg"
-  },
-  {
-    "date": "12/12/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Brand Ventures",
     "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
     "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
+  },
+  {
+    "date": "12/12/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.dailyfinancialnews.us/m/816529",
+    "headline": "“Patriot Checks” available to 244 million Americans",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/b/5a2ef70095fca.jpg"
   },
   {
     "date": "12/11/17",
@@ -154,21 +163,21 @@
   },
   {
     "date": "12/05/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://probioticamerica.com/cmd.php?ad=873030",
-    "headline": "Doctor reveals root of all stomach problems. Watch",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/1/5a21c2f453bdf.jpg"
-  },
-  {
-    "date": "12/05/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Paradigm Life",
     "sponsor_url": "http://wallstreethatesthis.paradigmlife.net/",
     "headline": "For 150 years, America’s wealthiest families have used this secret financial strategy and Wall Street hates it!",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/u/5a2029273bca1.jpg"
+  },
+  {
+    "date": "12/05/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://probioticamerica.com/cmd.php?ad=873030",
+    "headline": "Doctor reveals root of all stomach problems. Watch",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/1/5a21c2f453bdf.jpg"
   },
   {
     "date": "12/04/17",
@@ -190,15 +199,6 @@
   },
   {
     "date": "11/30/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "http://www.myretirementdate.com/?dkt_nbr=010301mzuclu",
-    "headline": "When can you retire? Free assessment teaches you how to retire richer and faster",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/t/5a1eeadc158ad.jpg"
-  },
-  {
-    "date": "11/30/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "MRES",
@@ -207,13 +207,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a149cae0b941.jpg"
   },
   {
-    "date": "11/29/17",
+    "date": "11/30/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=872158",
-    "headline": "Dr. reveals the #1 vegetable that is toxic to your health",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b4caed938.jpg"
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "http://www.myretirementdate.com/?dkt_nbr=010301mzuclu",
+    "headline": "When can you retire? Free assessment teaches you how to retire richer and faster",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/t/5a1eeadc158ad.jpg"
   },
   {
     "date": "11/29/17",
@@ -223,6 +223,15 @@
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=872160",
     "headline": "Is turmeric the answer? Dr. reveals how to flip the 'Master Switch' on your metabolism",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b5229d5b8.jpg"
+  },
+  {
+    "date": "11/29/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=872158",
+    "headline": "Dr. reveals the #1 vegetable that is toxic to your health",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/m/5a15b4caed938.jpg"
   },
   {
     "date": "11/28/17",
