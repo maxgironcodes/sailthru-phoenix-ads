@@ -10,15 +10,6 @@
   },
   {
     "date": "12/18/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Bill O'Reilly",
-    "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
-    "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
-  },
-  {
-    "date": "12/18/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Fountainhead",
@@ -27,13 +18,22 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
   },
   {
-    "date": "12/16/17",
+    "date": "12/18/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Bill O'Reilly",
     "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
     "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
+  },
+  {
+    "date": "12/17/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=874282",
+    "headline": "This toxic vegetable is the #1 danger in your diet",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7d3a6743.jpg"
   },
   {
     "date": "12/16/17",
@@ -45,13 +45,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32b8187bb24.jpg"
   },
   {
-    "date": "12/15/17",
+    "date": "12/16/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/682677",
-    "headline": "Hillary collapsing in front of our eyes, shocking",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a30023ca9203.jpg"
+    "sponsor_name": "Bill O'Reilly",
+    "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
+    "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
   },
   {
     "date": "12/15/17",
@@ -61,6 +61,15 @@
     "sponsor_url": "http://www.thestarmovie.com/",
     "headline": "See who followed the star on the first Christmas",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
+  },
+  {
+    "date": "12/15/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/682677",
+    "headline": "Hillary collapsing in front of our eyes, shocking",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a30023ca9203.jpg"
   },
   {
     "date": "12/14/17",
@@ -100,21 +109,21 @@
   },
   {
     "date": "12/12/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Brand Ventures",
-    "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
-    "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
-  },
-  {
-    "date": "12/12/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Rainmaker Ad Ventures",
     "sponsor_url": "https://pro.dailyfinancialnews.us/m/816529",
     "headline": "“Patriot Checks” available to 244 million Americans",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/b/5a2ef70095fca.jpg"
+  },
+  {
+    "date": "12/12/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Brand Ventures",
+    "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
+    "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
   },
   {
     "date": "12/11/17",
