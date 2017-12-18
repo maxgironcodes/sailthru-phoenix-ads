@@ -1,5 +1,14 @@
 [
   {
+    "date": "12/28/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.chooseyourselfmedia.us/m/825258",
+    "headline": "Famous millionaire: “Amazon is about to shock America’s retirement”",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/i/5a37f81b65871.jpg"
+  },
+  {
     "date": "12/19/17",
     "newsletter": "AM",
     "type": "Native",
@@ -10,21 +19,21 @@
   },
   {
     "date": "12/18/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Fountainhead",
-    "sponsor_url": "https://amorain.com/?E=hjBnrFlUHXDpeYdlJ7F2Nw%3d%3d&s1=am1218",
-    "headline": "Do not invest in Bitcoin until seeing this",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
-  },
-  {
-    "date": "12/18/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Bill O'Reilly",
     "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
     "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
+  },
+  {
+    "date": "12/18/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead",
+    "sponsor_url": "https://amorain.com/?E=hjBnrFlUHXDpeYdlJ7F2Nw%3d%3d&s1=am1218",
+    "headline": "Do not invest in Bitcoin until seeing this",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
   },
   {
     "date": "12/17/17",
@@ -73,21 +82,21 @@
   },
   {
     "date": "12/14/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873547",
-    "headline": "The secret to healthy digestion: \"Many people are going to think this is too good to be true\"",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c45fa1bac.jpg"
-  },
-  {
-    "date": "12/14/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "goTenna",
     "sponsor_url": "http://www.gotenna.com/pages/mesh/blaze",
     "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
+  },
+  {
+    "date": "12/14/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873547",
+    "headline": "The secret to healthy digestion: \"Many people are going to think this is too good to be true\"",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c45fa1bac.jpg"
   },
   {
     "date": "12/13/17",
@@ -109,15 +118,6 @@
   },
   {
     "date": "12/12/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.dailyfinancialnews.us/m/816529",
-    "headline": "“Patriot Checks” available to 244 million Americans",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/b/5a2ef70095fca.jpg"
-  },
-  {
-    "date": "12/12/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Brand Ventures",
@@ -126,13 +126,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
   },
   {
-    "date": "12/11/17",
-    "newsletter": "PM",
+    "date": "12/12/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873546",
-    "headline": "The energy-boosting “trick” most adults don’t know about",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c3b4b4390.jpg"
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.dailyfinancialnews.us/m/816529",
+    "headline": "“Patriot Checks” available to 244 million Americans",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/b/5a2ef70095fca.jpg"
   },
   {
     "date": "12/11/17",
@@ -142,6 +142,15 @@
     "sponsor_url": "https://pro.dailyfinancialnews.us/m/817494",
     "headline": "Trump to end the dollar as we know it by 2018?",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/8/5a2af955cd3a2.jpg"
+  },
+  {
+    "date": "12/11/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873546",
+    "headline": "The energy-boosting “trick” most adults don’t know about",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c3b4b4390.jpg"
   },
   {
     "date": "12/08/17",
