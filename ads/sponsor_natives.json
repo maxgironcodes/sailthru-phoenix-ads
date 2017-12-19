@@ -1,23 +1,5 @@
 [
   {
-    "date": "12/20/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "goTenna",
-    "sponsor_url": "http://www.gotenna.com/pages/mesh/blaze",
-    "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
-  },
-  {
-    "date": "12/19/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Brand Ventures",
-    "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
-    "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
-  },
-  {
     "date": "12/28/17",
     "newsletter": "AM",
     "type": "Native",
@@ -27,6 +9,24 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/i/5a37f81b65871.jpg"
   },
   {
+    "date": "12/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "goTenna",
+    "sponsor_url": "http://www.gotenna.com/pages/mesh/blaze",
+    "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
+  },
+  {
+    "date": "12/20/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "TheBlaze In-House",
+    "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=blaze&utm_medium=native+ad&utm_campaign=Glenn+Beck+Premium",
+    "headline": "Back to what brought you together in the first place. Free for 14 days",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/g/5a0dcba86f208.jpg"
+  },
+  {
     "date": "12/19/17",
     "newsletter": "AM",
     "type": "Native",
@@ -34,6 +34,15 @@
     "sponsor_url": "https://pro.survival-today.info/m/801095",
     "headline": "97% of people will make this deadly mistake if they're attacked on the street",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a3002a8311f3.jpg"
+  },
+  {
+    "date": "12/19/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Brand Ventures",
+    "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
+    "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
   },
   {
     "date": "12/18/17",
@@ -64,15 +73,6 @@
   },
   {
     "date": "12/16/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "https://steelbiteprotocol.net/index.php?affId=42A4ADB8&c1=blnaneded16Dec17A",
-    "headline": "60-second trick rebuilds your teeth and gums overnight",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32b8187bb24.jpg"
-  },
-  {
-    "date": "12/16/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Bill O'Reilly",
@@ -81,13 +81,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
   },
   {
-    "date": "12/15/17",
+    "date": "12/16/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Renaissance",
-    "sponsor_url": "http://www.thestarmovie.com/",
-    "headline": "See who followed the star on the first Christmas",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://steelbiteprotocol.net/index.php?affId=42A4ADB8&c1=blnaneded16Dec17A",
+    "headline": "60-second trick rebuilds your teeth and gums overnight",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32b8187bb24.jpg"
   },
   {
     "date": "12/15/17",
@@ -97,6 +97,15 @@
     "sponsor_url": "https://pro.hsionlineorders.net/m/682677",
     "headline": "Hillary collapsing in front of our eyes, shocking",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a30023ca9203.jpg"
+  },
+  {
+    "date": "12/15/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Renaissance",
+    "sponsor_url": "http://www.thestarmovie.com/",
+    "headline": "See who followed the star on the first Christmas",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
   },
   {
     "date": "12/14/17",
@@ -118,21 +127,21 @@
   },
   {
     "date": "12/13/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=873551",
-    "headline": "Dr. reveals the 3 signs that you may have a fatty liver. Test at home",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c40fcd6cc.jpg"
-  },
-  {
-    "date": "12/13/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Fountainhead",
     "sponsor_url": "https://amorain.com/?E=DsKt00vjUxzNcJIrJpaRmA%3d%3d&s1=pm1213",
     "headline": "Eccentric millionaire reveals his secret $1.8 million cryptocurrency script",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29be5bc6670.png"
+  },
+  {
+    "date": "12/13/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=873551",
+    "headline": "Dr. reveals the 3 signs that you may have a fatty liver. Test at home",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c40fcd6cc.jpg"
   },
   {
     "date": "12/12/17",
@@ -154,21 +163,21 @@
   },
   {
     "date": "12/11/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.dailyfinancialnews.us/m/817494",
-    "headline": "Trump to end the dollar as we know it by 2018?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/8/5a2af955cd3a2.jpg"
-  },
-  {
-    "date": "12/11/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=873546",
     "headline": "The energy-boosting “trick” most adults don’t know about",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c3b4b4390.jpg"
+  },
+  {
+    "date": "12/11/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.dailyfinancialnews.us/m/817494",
+    "headline": "Trump to end the dollar as we know it by 2018?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/8/5a2af955cd3a2.jpg"
   },
   {
     "date": "12/08/17",
