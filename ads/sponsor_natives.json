@@ -1,5 +1,14 @@
 [
   {
+    "date": "12/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "goTenna",
+    "sponsor_url": "http://www.gotenna.com/pages/mesh/blaze",
+    "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
+  },
+  {
     "date": "12/19/17",
     "newsletter": "PM",
     "type": "Native",
