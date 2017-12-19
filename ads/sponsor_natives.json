@@ -9,13 +9,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/i/5a37f81b65871.jpg"
   },
   {
-    "date": "12/20/17",
+    "date": "12/21/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "goTenna",
-    "sponsor_url": "http://www.gotenna.com/pages/mesh/blaze",
-    "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
+    "sponsor_name": "Paradigm Life",
+    "sponsor_url": "http://wallstreethatesthis.paradigmlife.net/",
+    "headline": "The next market crash is inevitable. Is your money protected?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/j/5a396d4c838f5.jpg"
   },
   {
     "date": "12/20/17",
@@ -25,6 +25,15 @@
     "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=blaze&utm_medium=native+ad&utm_campaign=Glenn+Beck+Premium",
     "headline": "Back to what brought you together in the first place. Free for 14 days",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/g/5a0dcba86f208.jpg"
+  },
+  {
+    "date": "12/20/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "goTenna",
+    "sponsor_url": "http://www.gotenna.com/pages/mesh/blaze",
+    "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
   },
   {
     "date": "12/19/17",
@@ -46,21 +55,21 @@
   },
   {
     "date": "12/18/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Bill O'Reilly",
-    "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
-    "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
-  },
-  {
-    "date": "12/18/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Fountainhead",
     "sponsor_url": "https://amorain.com/?E=hjBnrFlUHXDpeYdlJ7F2Nw%3d%3d&s1=am1218",
     "headline": "Do not invest in Bitcoin until seeing this",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
+  },
+  {
+    "date": "12/18/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Bill O'Reilly",
+    "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
+    "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
   },
   {
     "date": "12/17/17",
@@ -127,15 +136,6 @@
   },
   {
     "date": "12/13/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Fountainhead",
-    "sponsor_url": "https://amorain.com/?E=DsKt00vjUxzNcJIrJpaRmA%3d%3d&s1=pm1213",
-    "headline": "Eccentric millionaire reveals his secret $1.8 million cryptocurrency script",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29be5bc6670.png"
-  },
-  {
-    "date": "12/13/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -144,13 +144,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c40fcd6cc.jpg"
   },
   {
-    "date": "12/12/17",
+    "date": "12/13/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Brand Ventures",
-    "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
-    "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
+    "sponsor_name": "Fountainhead",
+    "sponsor_url": "https://amorain.com/?E=DsKt00vjUxzNcJIrJpaRmA%3d%3d&s1=pm1213",
+    "headline": "Eccentric millionaire reveals his secret $1.8 million cryptocurrency script",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29be5bc6670.png"
   },
   {
     "date": "12/12/17",
@@ -162,13 +162,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/b/5a2ef70095fca.jpg"
   },
   {
-    "date": "12/11/17",
+    "date": "12/12/17",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873546",
-    "headline": "The energy-boosting “trick” most adults don’t know about",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c3b4b4390.jpg"
+    "sponsor_name": "Brand Ventures",
+    "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
+    "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
   },
   {
     "date": "12/11/17",
@@ -178,6 +178,15 @@
     "sponsor_url": "https://pro.dailyfinancialnews.us/m/817494",
     "headline": "Trump to end the dollar as we know it by 2018?",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/8/5a2af955cd3a2.jpg"
+  },
+  {
+    "date": "12/11/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873546",
+    "headline": "The energy-boosting “trick” most adults don’t know about",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c3b4b4390.jpg"
   },
   {
     "date": "12/08/17",
