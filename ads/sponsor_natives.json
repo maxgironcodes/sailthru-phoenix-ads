@@ -27,13 +27,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/k/5a3aedf472f85.jpg"
   },
   {
-    "date": "12/21/17",
+    "date": "12/26/17",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Paradigm Life",
-    "sponsor_url": "http://wallstreethatesthis.paradigmlife.net/",
-    "headline": "The next market crash is inevitable. Is your money protected?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/j/5a3981e1418cb.jpg"
+    "sponsor_name": "TheBlaze In-House",
+    "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=blaze&utm_medium=native+ad&utm_campaign=Glenn+Beck+Hard+Truth",
+    "headline": "14 days Free of TheBlaze Premium content - no credit card required!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a2986022bd3e.jpg"
   },
   {
     "date": "12/21/17",
@@ -43,6 +43,15 @@
     "sponsor_url": "http://www.thestarmovie.com/",
     "headline": "Have you ever wondered who followed that first Christmas star?",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
+  },
+  {
+    "date": "12/21/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Paradigm Life",
+    "sponsor_url": "http://wallstreethatesthis.paradigmlife.net/",
+    "headline": "The next market crash is inevitable. Is your money protected?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/j/5a3981e1418cb.jpg"
   },
   {
     "date": "12/20/17",
@@ -64,21 +73,21 @@
   },
   {
     "date": "12/19/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Brand Ventures",
-    "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
-    "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
-  },
-  {
-    "date": "12/19/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Rainmaker Ad Ventures",
     "sponsor_url": "https://pro.survival-today.info/m/801095",
     "headline": "97% of people will make this deadly mistake if they're attacked on the street",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a3002a8311f3.jpg"
+  },
+  {
+    "date": "12/19/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Brand Ventures",
+    "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
+    "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
   },
   {
     "date": "12/18/17",
@@ -145,21 +154,21 @@
   },
   {
     "date": "12/14/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873547",
-    "headline": "The secret to healthy digestion: \"Many people are going to think this is too good to be true\"",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c45fa1bac.jpg"
-  },
-  {
-    "date": "12/14/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "goTenna",
     "sponsor_url": "http://www.gotenna.com/pages/mesh/blaze",
     "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
+  },
+  {
+    "date": "12/14/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873547",
+    "headline": "The secret to healthy digestion: \"Many people are going to think this is too good to be true\"",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c45fa1bac.jpg"
   },
   {
     "date": "12/13/17",
@@ -181,15 +190,6 @@
   },
   {
     "date": "12/12/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.dailyfinancialnews.us/m/816529",
-    "headline": "“Patriot Checks” available to 244 million Americans",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/b/5a2ef70095fca.jpg"
-  },
-  {
-    "date": "12/12/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Brand Ventures",
@@ -198,13 +198,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
   },
   {
-    "date": "12/11/17",
-    "newsletter": "PM",
+    "date": "12/12/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873546",
-    "headline": "The energy-boosting “trick” most adults don’t know about",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c3b4b4390.jpg"
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.dailyfinancialnews.us/m/816529",
+    "headline": "“Patriot Checks” available to 244 million Americans",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/b/5a2ef70095fca.jpg"
   },
   {
     "date": "12/11/17",
@@ -214,6 +214,15 @@
     "sponsor_url": "https://pro.dailyfinancialnews.us/m/817494",
     "headline": "Trump to end the dollar as we know it by 2018?",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/8/5a2af955cd3a2.jpg"
+  },
+  {
+    "date": "12/11/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873546",
+    "headline": "The energy-boosting “trick” most adults don’t know about",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c3b4b4390.jpg"
   },
   {
     "date": "12/08/17",
