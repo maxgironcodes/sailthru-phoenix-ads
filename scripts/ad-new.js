@@ -5,11 +5,11 @@ var file = {};
 
 function getValidDate () {
   var regExp =/^\d{1,2}\/\d{1,2}\/\d{1,2}$/;
-  var thisDate = readlineSync.question("Date (MM/dd/yy): ");
+  var thisDate = readlineSync.question("Date (yy/MM/dd): ");
 
   while (!regExp.test(thisDate)) {
     console.log("Please enter date in correct format.");
-    thisDate = readlineSync.question("Date (MM/dd/yy): ");
+    thisDate = readlineSync.question("Date (yy/MM/dd): ");
   }
 
   return thisDate;
