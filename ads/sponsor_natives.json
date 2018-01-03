@@ -37,21 +37,21 @@
   },
   {
     "date": "12/21/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.thestarmovie.com/",
-    "headline": "Have you ever wondered who followed that first Christmas star?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
-  },
-  {
-    "date": "12/21/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Paradigm Life",
     "sponsor_url": "http://wallstreethatesthis.paradigmlife.net/",
     "headline": "The next market crash is inevitable. Is your money protected?",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/j/5a3981e1418cb.jpg"
+  },
+  {
+    "date": "12/21/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.thestarmovie.com/",
+    "headline": "Have you ever wondered who followed that first Christmas star?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
   },
   {
     "date": "12/20/17",
@@ -73,15 +73,6 @@
   },
   {
     "date": "12/19/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.survival-today.info/m/801095",
-    "headline": "97% of people will make this deadly mistake if they're attacked on the street",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a3002a8311f3.jpg"
-  },
-  {
-    "date": "12/19/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Brand Ventures",
@@ -90,13 +81,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
   },
   {
-    "date": "12/18/17",
-    "newsletter": "PM",
+    "date": "12/19/17",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Bill O'Reilly",
-    "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
-    "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.survival-today.info/m/801095",
+    "headline": "97% of people will make this deadly mistake if they're attacked on the street",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a3002a8311f3.jpg"
   },
   {
     "date": "12/18/17",
@@ -106,6 +97,15 @@
     "sponsor_url": "https://amorain.com/?E=hjBnrFlUHXDpeYdlJ7F2Nw%3d%3d&s1=am1218",
     "headline": "Do not invest in Bitcoin until seeing this",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
+  },
+  {
+    "date": "12/18/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Bill O'Reilly",
+    "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
+    "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
   },
   {
     "date": "12/17/17",
@@ -304,6 +304,15 @@
     "sponsor_url": "http://thememoryrepairsolution.com/?aff_id=605033&subid=blnaneded02Dec17A",
     "headline": "Alzheimer's quick test: Is your bedroom organized this way?",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/t/5a1ee24503de5.jpg"
+  },
+  {
+    "date": "01/04/18",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=875376",
+    "headline": "The secret to healthy digestion: “Many people are going to think this is too good to be true”",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/i/599735d63017c.jpg"
   },
   {
     "date": "01/03/18",
