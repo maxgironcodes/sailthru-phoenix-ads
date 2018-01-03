@@ -37,21 +37,21 @@
   },
   {
     "date": "12/21/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Paradigm Life",
-    "sponsor_url": "http://wallstreethatesthis.paradigmlife.net/",
-    "headline": "The next market crash is inevitable. Is your money protected?",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/j/5a3981e1418cb.jpg"
-  },
-  {
-    "date": "12/21/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Renaissance Communications",
     "sponsor_url": "http://www.thestarmovie.com/",
     "headline": "Have you ever wondered who followed that first Christmas star?",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
+  },
+  {
+    "date": "12/21/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Paradigm Life",
+    "sponsor_url": "http://wallstreethatesthis.paradigmlife.net/",
+    "headline": "The next market crash is inevitable. Is your money protected?",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/j/5a3981e1418cb.jpg"
   },
   {
     "date": "12/20/17",
@@ -304,6 +304,15 @@
     "sponsor_url": "http://thememoryrepairsolution.com/?aff_id=605033&subid=blnaneded02Dec17A",
     "headline": "Alzheimer's quick test: Is your bedroom organized this way?",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/t/5a1ee24503de5.jpg"
+  },
+  {
+    "date": "01/09/18",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "http://simplethyroidtest.com/?dkt_nbr=010301r1ula5",
+    "headline": "What your tongue says about your thyroid — find out!",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/3/5a4d0ade3f2dc.jpg"
   },
   {
     "date": "01/05/18",
