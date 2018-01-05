@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/1/5/5a4fa04c2da53.jpg"
   },
   {
+    "date": "18/01/10",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.chooseyourselfmedia.us/m/830700",
+    "headline": "James Altucher: \"Do not buy Bitcoin until you see this!\"",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/5/5a500b906cf4b.jpg"
+  },
+  {
     "date": "18/01/09",
     "newsletter": "AM",
     "type": "Native",
@@ -127,21 +136,21 @@
   },
   {
     "date": "17/12/20",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "TheBlaze In-House",
-    "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=blaze&utm_medium=native+ad&utm_campaign=Glenn+Beck+Premium",
-    "headline": "Back to what brought you together in the first place. Free for 14 days",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/g/5a0dcba86f208.jpg"
-  },
-  {
-    "date": "17/12/20",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "goTenna",
     "sponsor_url": "http://www.gotenna.com/pages/mesh/blaze",
     "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
+  },
+  {
+    "date": "17/12/20",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "TheBlaze In-House",
+    "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=blaze&utm_medium=native+ad&utm_campaign=Glenn+Beck+Premium",
+    "headline": "Back to what brought you together in the first place. Free for 14 days",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/g/5a0dcba86f208.jpg"
   },
   {
     "date": "17/12/19",
@@ -181,15 +190,6 @@
   },
   {
     "date": "17/12/16",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "https://steelbiteprotocol.net/index.php?affId=42A4ADB8&c1=blnaneded16Dec17A",
-    "headline": "60-second trick rebuilds your teeth and gums overnight",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32b8187bb24.jpg"
-  },
-  {
-    "date": "17/12/16",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Bill O'Reilly",
@@ -198,13 +198,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
   },
   {
-    "date": "17/12/15",
-    "newsletter": "PM",
+    "date": "17/12/16",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/682677",
-    "headline": "Hillary collapsing in front of our eyes, shocking",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a30023ca9203.jpg"
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://steelbiteprotocol.net/index.php?affId=42A4ADB8&c1=blnaneded16Dec17A",
+    "headline": "60-second trick rebuilds your teeth and gums overnight",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32b8187bb24.jpg"
   },
   {
     "date": "17/12/15",
@@ -216,13 +216,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
   },
   {
-    "date": "17/12/14",
+    "date": "17/12/15",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873547",
-    "headline": "The secret to healthy digestion: \"Many people are going to think this is too good to be true\"",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c45fa1bac.jpg"
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/682677",
+    "headline": "Hillary collapsing in front of our eyes, shocking",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a30023ca9203.jpg"
   },
   {
     "date": "17/12/14",
@@ -234,13 +234,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
   },
   {
-    "date": "17/12/13",
+    "date": "17/12/14",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Fountainhead",
-    "sponsor_url": "https://amorain.com/?E=DsKt00vjUxzNcJIrJpaRmA%3d%3d&s1=pm1213",
-    "headline": "Eccentric millionaire reveals his secret $1.8 million cryptocurrency script",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29be5bc6670.png"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873547",
+    "headline": "The secret to healthy digestion: \"Many people are going to think this is too good to be true\"",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c45fa1bac.jpg"
   },
   {
     "date": "17/12/13",
@@ -250,6 +250,15 @@
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=873551",
     "headline": "Dr. reveals the 3 signs that you may have a fatty liver. Test at home",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c40fcd6cc.jpg"
+  },
+  {
+    "date": "17/12/13",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead",
+    "sponsor_url": "https://amorain.com/?E=DsKt00vjUxzNcJIrJpaRmA%3d%3d&s1=pm1213",
+    "headline": "Eccentric millionaire reveals his secret $1.8 million cryptocurrency script",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29be5bc6670.png"
   },
   {
     "date": "17/12/12",
@@ -298,21 +307,21 @@
   },
   {
     "date": "17/12/07",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=873032",
-    "headline": "Study reveals 3 foods to avoid this holiday season",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/1/5a21c36b792b4.jpg"
-  },
-  {
-    "date": "17/12/07",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Brand Ventures",
     "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
     "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
+  },
+  {
+    "date": "17/12/07",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=873032",
+    "headline": "Study reveals 3 foods to avoid this holiday season",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/1/5a21c36b792b4.jpg"
   },
   {
     "date": "17/12/06",
