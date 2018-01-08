@@ -27,13 +27,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/1/3/5a4d0ade3f2dc.jpg"
   },
   {
-    "date": "18/01/08",
-    "newsletter": "AM",
+    "date": "18/01/09",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=875814",
-    "headline": "Constant fatigue is a warning sign– here's the simple fix",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca7bad80aa.jpg"
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "www.alienintrusion.com",
+    "headline": "John Schneider thinks the truth in “Alien Intrusion Unmasking a Deception” will be more surprising than people realize",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/8/5a53b5587e5e7.jpg"
   },
   {
     "date": "18/01/08",
@@ -43,6 +43,15 @@
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "This is why your child knows about porn",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
+    "date": "18/01/08",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=875814",
+    "headline": "Constant fatigue is a warning sign– here's the simple fix",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca7bad80aa.jpg"
   },
   {
     "date": "18/01/06",
@@ -145,21 +154,21 @@
   },
   {
     "date": "17/12/20",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "goTenna",
-    "sponsor_url": "http://www.gotenna.com/pages/mesh/blaze",
-    "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
-  },
-  {
-    "date": "17/12/20",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "TheBlaze In-House",
     "sponsor_url": "http://www.theblaze.com/14-day-trial/?utm_source=blaze&utm_medium=native+ad&utm_campaign=Glenn+Beck+Premium",
     "headline": "Back to what brought you together in the first place. Free for 14 days",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/g/5a0dcba86f208.jpg"
+  },
+  {
+    "date": "17/12/20",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "goTenna",
+    "sponsor_url": "http://www.gotenna.com/pages/mesh/blaze",
+    "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
   },
   {
     "date": "17/12/19",
@@ -199,15 +208,6 @@
   },
   {
     "date": "17/12/16",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "https://steelbiteprotocol.net/index.php?affId=42A4ADB8&c1=blnaneded16Dec17A",
-    "headline": "60-second trick rebuilds your teeth and gums overnight",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32b8187bb24.jpg"
-  },
-  {
-    "date": "17/12/16",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Bill O'Reilly",
@@ -216,13 +216,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
   },
   {
-    "date": "17/12/15",
+    "date": "17/12/16",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Renaissance",
-    "sponsor_url": "http://www.thestarmovie.com/",
-    "headline": "See who followed the star on the first Christmas",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://steelbiteprotocol.net/index.php?affId=42A4ADB8&c1=blnaneded16Dec17A",
+    "headline": "60-second trick rebuilds your teeth and gums overnight",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32b8187bb24.jpg"
   },
   {
     "date": "17/12/15",
@@ -234,13 +234,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a30023ca9203.jpg"
   },
   {
-    "date": "17/12/14",
-    "newsletter": "PM",
+    "date": "17/12/15",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873547",
-    "headline": "The secret to healthy digestion: \"Many people are going to think this is too good to be true\"",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c45fa1bac.jpg"
+    "sponsor_name": "Renaissance",
+    "sponsor_url": "http://www.thestarmovie.com/",
+    "headline": "See who followed the star on the first Christmas",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
   },
   {
     "date": "17/12/14",
@@ -252,13 +252,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
   },
   {
-    "date": "17/12/13",
+    "date": "17/12/14",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Fountainhead",
-    "sponsor_url": "https://amorain.com/?E=DsKt00vjUxzNcJIrJpaRmA%3d%3d&s1=pm1213",
-    "headline": "Eccentric millionaire reveals his secret $1.8 million cryptocurrency script",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29be5bc6670.png"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873547",
+    "headline": "The secret to healthy digestion: \"Many people are going to think this is too good to be true\"",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c45fa1bac.jpg"
   },
   {
     "date": "17/12/13",
@@ -268,6 +268,15 @@
     "sponsor_url": "http://livecellresearch.com/cmd.php?ad=873551",
     "headline": "Dr. reveals the 3 signs that you may have a fatty liver. Test at home",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c40fcd6cc.jpg"
+  },
+  {
+    "date": "17/12/13",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead",
+    "sponsor_url": "https://amorain.com/?E=DsKt00vjUxzNcJIrJpaRmA%3d%3d&s1=pm1213",
+    "headline": "Eccentric millionaire reveals his secret $1.8 million cryptocurrency script",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29be5bc6670.png"
   },
   {
     "date": "17/12/12",
@@ -316,21 +325,21 @@
   },
   {
     "date": "17/12/07",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://nucific.com/cmd.php?ad=873032",
-    "headline": "Study reveals 3 foods to avoid this holiday season",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/1/5a21c36b792b4.jpg"
-  },
-  {
-    "date": "17/12/07",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Brand Ventures",
     "sponsor_url": "http://brandedoffersaff.go2cloud.org/aff_c?offer_id=789&aff_id=1901",
     "headline": "Over 100,000 sold and running out! Get yours today 90% off with free shipping!",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
+  },
+  {
+    "date": "17/12/07",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://nucific.com/cmd.php?ad=873032",
+    "headline": "Study reveals 3 foods to avoid this holiday season",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/1/5a21c36b792b4.jpg"
   },
   {
     "date": "17/12/06",
