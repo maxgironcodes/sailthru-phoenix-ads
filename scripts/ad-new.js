@@ -42,9 +42,6 @@ function chooseAdType() {
     return getSponsorNative();
   } else if (file.name == "sponsor_banners") {
     return getSponsorBanner();
-  } else if (file.name == "channel_banners") {
-    getChannelBanner();
-  }
 }
 
 function getSponsorNative() {
@@ -100,17 +97,6 @@ function getSponsorBanner() {
 
   // addJSON(newBanner);
   return checkForConflict(newBanner);
-}
-
-function getChannelBanner() {
-  console.log(chalk.request("Enter new banner values.\n"));
-  var newBanner = {};
-
-  newBanner.channel_name = readlineSync.question("Channel Name: ");
-  newBanner.channel_url = getValidUrl("Channel URL: ");
-  newBanner.image_url = getValidUrl("Image URL: ");
-
-  addJSON(newBanner);
 }
 
 function checkForConflict(newEntry) {

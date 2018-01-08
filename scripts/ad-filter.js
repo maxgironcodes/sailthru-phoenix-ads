@@ -4,9 +4,7 @@ var fileSave = require("./file-save.js");
 var file = require("./file-get.js").fileGet();
 
 (function init() {
-  if (file.name == "channel_banners") {
-    console.log(chalk.error("This file does not hold dated entries. Please open and edit manually."));
-  } else if (file) {
+  if (file) {
     filterJSON();
   } else {
     console.log(chalk.error("Error: Could not get file from scripts/file-get.js"));
