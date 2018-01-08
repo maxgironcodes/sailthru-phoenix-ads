@@ -22,7 +22,7 @@ function filterJSON() {
   var outdated = [];
 
   file.data.forEach(function(adObj, index) {
-    var adDate = new Date(adObj.date);
+    var adDate = formatDate(adObj.date);
 
     // If the ad is older than two weeks ago, consider it outdated. Sometimes clients ask for another test a week or two later, per Sales.
     if (adDate < twoWeeksAgo) {
@@ -34,6 +34,20 @@ function filterJSON() {
     getConsent(outdated);
   } else {
     console.log(chalk.success("All entries are up-to-date."));
+  }
+
+  // Formats adObj.date to MM/dd/yy and gets the JS equivalent
+  function formatDate(date) {
+    var newDate = {yy: "", mm: "", dd: ""};
+    date = date.replace(/\//g, "");
+
+    newDate.yy = date.substring(0, 2);
+    newDate.mm = date.substring(2, 4);
+    newDate.dd = date.substring(4);
+
+    newDate = newDate.mm + "/" + newDate.dd + "/" + newDate.yy;
+    newDate = new Date(newDate);
+    return newDate;
   }
 }
 
