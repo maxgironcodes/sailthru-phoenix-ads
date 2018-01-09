@@ -42,6 +42,7 @@ function chooseAdType() {
     return getSponsorNative();
   } else if (file.name == "sponsor_banners") {
     return getSponsorBanner();
+  }
 }
 
 function getSponsorNative() {
