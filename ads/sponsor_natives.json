@@ -9,13 +9,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/1/9/5a54efe7b5be5.jpg"
   },
   {
-    "date": "18/01/10",
-    "newsletter": "PM",
+    "date": "18/01/11",
+    "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=875814",
-    "headline": "Doctor's new discovery makes foot calluses \"vanish\"",
-    "image_url": "https://media.sailthru.com/3ia/1k2/1/5/5a4fa04c2da53.jpg"
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=876222",
+    "headline": "He transformed his gut with one thing",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/9/5a5515a758147.jpg"
   },
   {
     "date": "18/01/10",
@@ -25,6 +25,15 @@
     "sponsor_url": "https://pro.chooseyourselfmedia.us/m/830700",
     "headline": "James Altucher: \"Do not buy Bitcoin until you see this!\"",
     "image_url": "https://media.sailthru.com/3ia/1k2/1/5/5a500b906cf4b.jpg"
+  },
+  {
+    "date": "18/01/10",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=875814",
+    "headline": "Doctor's new discovery makes foot calluses \"vanish\"",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/5/5a4fa04c2da53.jpg"
   },
   {
     "date": "18/01/09",
@@ -46,21 +55,21 @@
   },
   {
     "date": "18/01/08",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "This is why your child knows about porn",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "18/01/08",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://dermalmedix.com/cmd.php?ad=875814",
     "headline": "Constant fatigue is a warning sign– here's the simple fix",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca7bad80aa.jpg"
+  },
+  {
+    "date": "18/01/08",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "This is why your child knows about porn",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "18/01/06",
@@ -199,30 +208,21 @@
   },
   {
     "date": "17/12/18",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Bill O'Reilly",
+    "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
+    "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
+  },
+  {
+    "date": "17/12/18",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Fountainhead",
     "sponsor_url": "https://amorain.com/?E=hjBnrFlUHXDpeYdlJ7F2Nw%3d%3d&s1=am1218",
     "headline": "Do not invest in Bitcoin until seeing this",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
-  },
-  {
-    "date": "17/12/18",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Bill O'Reilly",
-    "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
-    "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
-  },
-  {
-    "date": "17/12/16",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Bill O'Reilly",
-    "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
-    "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
   },
   {
     "date": "17/12/16",
@@ -234,13 +234,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32b8187bb24.jpg"
   },
   {
-    "date": "17/12/15",
-    "newsletter": "AM",
+    "date": "17/12/16",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Renaissance",
-    "sponsor_url": "http://www.thestarmovie.com/",
-    "headline": "See who followed the star on the first Christmas",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
+    "sponsor_name": "Bill O'Reilly",
+    "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
+    "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
   },
   {
     "date": "17/12/15",
@@ -252,13 +252,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a30023ca9203.jpg"
   },
   {
-    "date": "17/12/14",
-    "newsletter": "PM",
+    "date": "17/12/15",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873547",
-    "headline": "The secret to healthy digestion: \"Many people are going to think this is too good to be true\"",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c45fa1bac.jpg"
+    "sponsor_name": "Renaissance",
+    "sponsor_url": "http://www.thestarmovie.com/",
+    "headline": "See who followed the star on the first Christmas",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
   },
   {
     "date": "17/12/14",
@@ -268,6 +268,15 @@
     "sponsor_url": "http://www.gotenna.com/pages/mesh/blaze",
     "headline": "In wake of disasters, company builds tech so you can use your phone when cell towers are down",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/1/59fa06dc7717c.jpg"
+  },
+  {
+    "date": "17/12/14",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873547",
+    "headline": "The secret to healthy digestion: \"Many people are going to think this is too good to be true\"",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c45fa1bac.jpg"
   },
   {
     "date": "17/12/13",
@@ -307,21 +316,21 @@
   },
   {
     "date": "17/12/11",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873546",
-    "headline": "The energy-boosting “trick” most adults don’t know about",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c3b4b4390.jpg"
-  },
-  {
-    "date": "17/12/11",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Rainmaker Ad Ventures",
     "sponsor_url": "https://pro.dailyfinancialnews.us/m/817494",
     "headline": "Trump to end the dollar as we know it by 2018?",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/8/5a2af955cd3a2.jpg"
+  },
+  {
+    "date": "17/12/11",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=873546",
+    "headline": "The energy-boosting “trick” most adults don’t know about",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/7/5a29c3b4b4390.jpg"
   },
   {
     "date": "17/12/08",
