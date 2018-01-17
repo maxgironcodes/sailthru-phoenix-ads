@@ -1,5 +1,14 @@
 [
   {
+    "date": "18/01/18",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Truth Finder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=303&s1=dailyam_1.18.18",
+    "headline": "Have you searched a name yet? Google may not show you this info",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/h/5a5faa3f581fd.jpg"
+  },
+  {
     "date": "18/01/17",
     "newsletter": "PM",
     "type": "Native",
@@ -55,15 +64,6 @@
   },
   {
     "date": "18/01/10",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=875814",
-    "headline": "Doctor's new discovery makes foot calluses \"vanish\"",
-    "image_url": "https://media.sailthru.com/3ia/1k2/1/5/5a4fa04c2da53.jpg"
-  },
-  {
-    "date": "18/01/10",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Rainmaker Ad Ventures",
@@ -72,13 +72,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/1/5/5a500b906cf4b.jpg"
   },
   {
-    "date": "18/01/09",
+    "date": "18/01/10",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.alienintrusion.com",
-    "headline": "John Schneider thinks the truth in “Alien Intrusion Unmasking a Deception” will be more surprising than people realize",
-    "image_url": "https://media.sailthru.com/3ia/1k2/1/8/5a53b5587e5e7.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=875814",
+    "headline": "Doctor's new discovery makes foot calluses \"vanish\"",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/5/5a4fa04c2da53.jpg"
   },
   {
     "date": "18/01/09",
@@ -88,6 +88,15 @@
     "sponsor_url": "http://simplethyroidtest.com/?dkt_nbr=010301r1ula5",
     "headline": "What your tongue says about your thyroid — find out!",
     "image_url": "https://media.sailthru.com/3ia/1k2/1/3/5a4d0ade3f2dc.jpg"
+  },
+  {
+    "date": "18/01/09",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.alienintrusion.com",
+    "headline": "John Schneider thinks the truth in “Alien Intrusion Unmasking a Deception” will be more surprising than people realize",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/8/5a53b5587e5e7.jpg"
   },
   {
     "date": "18/01/08",
@@ -154,21 +163,21 @@
   },
   {
     "date": "17/12/28",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=874740",
-    "headline": "Breakthrough technology reveals master switch to burn deep belly fat",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/k/5a3aee95668f2.jpg"
-  },
-  {
-    "date": "17/12/28",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Rainmaker Ad Ventures",
     "sponsor_url": "https://pro.chooseyourselfmedia.us/m/825258",
     "headline": "Famous millionaire: “Amazon is about to shock America’s retirement”",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/i/5a37f81b65871.jpg"
+  },
+  {
+    "date": "17/12/28",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://livecellresearch.com/cmd.php?ad=874740",
+    "headline": "Breakthrough technology reveals master switch to burn deep belly fat",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/k/5a3aee95668f2.jpg"
   },
   {
     "date": "17/12/27",
@@ -226,15 +235,6 @@
   },
   {
     "date": "17/12/19",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.survival-today.info/m/801095",
-    "headline": "97% of people will make this deadly mistake if they're attacked on the street",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a3002a8311f3.jpg"
-  },
-  {
-    "date": "17/12/19",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Brand Ventures",
@@ -243,13 +243,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/6/5a2873b91010c.png"
   },
   {
-    "date": "17/12/18",
-    "newsletter": "PM",
+    "date": "17/12/19",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Bill O'Reilly",
-    "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
-    "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.survival-today.info/m/801095",
+    "headline": "97% of people will make this deadly mistake if they're attacked on the street",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a3002a8311f3.jpg"
   },
   {
     "date": "17/12/18",
@@ -261,13 +261,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/5/5a270f915c65a.jpg"
   },
   {
-    "date": "17/12/16",
-    "newsletter": "AM",
+    "date": "17/12/18",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Lion Media",
-    "sponsor_url": "https://steelbiteprotocol.net/index.php?affId=42A4ADB8&c1=blnaneded16Dec17A",
-    "headline": "60-second trick rebuilds your teeth and gums overnight",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32b8187bb24.jpg"
+    "sponsor_name": "Bill O'Reilly",
+    "sponsor_url": "https://www.billoreilly.com/membership?utm_source=theblaze&utm_medium=native&utm_campaign=holiday_pm",
+    "headline": "O’Reilly: Get a free book w/ membership or membership gift certificate!",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
   },
   {
     "date": "17/12/16",
@@ -279,13 +279,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k1/c/f/5a33f7410a8eb.png"
   },
   {
-    "date": "17/12/15",
-    "newsletter": "PM",
+    "date": "17/12/16",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.hsionlineorders.net/m/682677",
-    "headline": "Hillary collapsing in front of our eyes, shocking",
-    "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a30023ca9203.jpg"
+    "sponsor_name": "Lion Media",
+    "sponsor_url": "https://steelbiteprotocol.net/index.php?affId=42A4ADB8&c1=blnaneded16Dec17A",
+    "headline": "60-second trick rebuilds your teeth and gums overnight",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32b8187bb24.jpg"
   },
   {
     "date": "17/12/15",
@@ -295,6 +295,15 @@
     "sponsor_url": "http://www.thestarmovie.com/",
     "headline": "See who followed the star on the first Christmas",
     "image_url": "https://media.sailthru.com/3ia/1k1/c/e/5a32e6a3a3103.jpg"
+  },
+  {
+    "date": "17/12/15",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/682677",
+    "headline": "Hillary collapsing in front of our eyes, shocking",
+    "image_url": "https://media.sailthru.com/3ia/1k1/c/c/5a30023ca9203.jpg"
   },
   {
     "date": "17/12/14",
