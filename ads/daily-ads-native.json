@@ -1,4 +1,4 @@
-{
+x{
   "feed":
   {
     "name": "daily-ads-native",
@@ -8,7 +8,23 @@
   "content":
   [
     {
-      "date": "1516233600",
+      "date": "1516838400",
+      "newsletter": "AM",
+      "sponsor": "Golden Hippo Media",
+      "url": "http://gundrymd.com/cmd.php?ad=877098",
+      "title": "Constant fatigue is a warning sign– here's the simple fix",
+      "image": "https://media.sailthru.com/3ia/1k2/1/i/5a611053a05ce.jpg"
+    },
+    {
+      "date": "1516665600",
+      "newsletter": "PM",
+      "sponsor": "Golden Hippo Media",
+      "url": "http://gundrymd.com/cmd.php?ad=877099",
+      "title": "Want better appetite control? Do this once daily. Easy but very effective",
+      "image": "https://media.sailthru.com/3ia/1k2/1/i/5a610fc93f64a.jpg"
+    },
+    {
+      "date": "1516579200",
       "newsletter": "PM",
       "sponsor": "E-tactics",
       "url": "https://pro.hsionlineorders.net/m/837884",
@@ -33,19 +49,19 @@
     },
     {
       "date": "1516147200",
-      "newsletter": "AM",
-      "sponsor": "Rainmaker Ad Ventures",
-      "url": "https://pro.healthytips.report/m/750639",
-      "title": "Obama agent caught inside the White House?",
-      "image": "https://media.sailthru.com/3ia/1k2/1/f/5a5cd7624870d.jpg"
-    },
-    {
-      "date": "1516147200",
       "newsletter": "PM",
       "sponsor": "Golden Hippo Media",
       "url": "http://gundrymd.com/cmd.php?ad=876517",
       "title": "Dr. Gundry reveals the #1 toxic vegetable you should never eat",
       "image": "https://media.sailthru.com/3ia/1k2/1/c/5a58e789282d1.jpg"
+    },
+    {
+      "date": "1516147200",
+      "newsletter": "AM",
+      "sponsor": "Rainmaker Ad Ventures",
+      "url": "https://pro.healthytips.report/m/750639",
+      "title": "Obama agent caught inside the White House?",
+      "image": "https://media.sailthru.com/3ia/1k2/1/f/5a5cd7624870d.jpg"
     },
     {
       "date": "1516060800",
