@@ -2,7 +2,7 @@
   "feed":
   {
     "name": "daily-ads-native",
-    "url": "http://feed.sailthru.com/ws/feed?id=5a53d51b3c8aa903158b45db"
+    "url": "https://rawgit.com/maxgironcodes/theblaze-newsletter-ads/test-external-feed/ads/daily-ads-native.json"
   },
 
   "content":
