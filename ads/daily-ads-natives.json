@@ -1,0 +1,19 @@
+{
+  "feed":
+  {
+    "name": "Daily Ads: Natives",
+    "url": "https://rawgit.com/maxgironcodes/theblaze-newsletter-ads/test-external-feed/ads/daily-ads-native.json"
+  },
+
+  "content":
+  [
+    {
+      "date": "1516860000",
+      "newsletter": "AM",
+      "description": "Golden Hippo Media",
+      "url": "http://gundrymd.com/cmd.php?ad=877098",
+      "title": "Constant fatigue is a warning sign– here's the simple fix",
+      "image": "https://media.sailthru.com/3ia/1k2/1/i/5a611053a05ce.jpg"
+    }
+  ]
+}

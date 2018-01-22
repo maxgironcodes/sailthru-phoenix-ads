@@ -1,0 +1,19 @@
+{
+  "feed":
+  {
+    "name": "Daily Ads: Banners",
+    "url": "https://rawgit.com/maxgironcodes/theblaze-newsletter-ads/test-external-feed/ads/daily-ads-banners.json"
+  },
+
+  "content":
+  [
+    {
+      "date": "12/26/17",
+      "newsletter": "AM",
+      "description": "TheBlaze In-House",
+      "url": "http://www.theblaze.com/14-day-trial/?utm_source=AM&utm_medium=email&utm_campaign=Glenn+Beck+Premium",
+      "image": "https://media.sailthru.com/3ia/1k1/c/c/5a30352b196a3.jpg",
+      "banner_position": "both"
+    }
+  ]
+}
