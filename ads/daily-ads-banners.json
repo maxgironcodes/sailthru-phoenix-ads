@@ -10,9 +10,9 @@
     {
       "date": "1514268000",
       "newsletter": "AM",
-      "description": "TheBlaze In-House",
-      "url": "http://www.theblaze.com/14-day-trial/?utm_source=AM&utm_medium=email&utm_campaign=Glenn+Beck+Premium",
-      "image": "https://media.sailthru.com/3ia/1k1/c/c/5a30352b196a3.jpg",
+      "description": "Sponsor Name",
+      "url": "https://theblaze.com",
+      "image": "http://via.placeholder.com/600x150",
       "banner_position": "both"
     }
   ]
