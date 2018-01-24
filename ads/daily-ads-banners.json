@@ -8,12 +8,25 @@
   "content":
   [
     {
-      "date": "1514268000",
-      "newsletter": "AM",
+      "date": "1514804400",
       "description": "Sponsor Name",
       "url": "https://theblaze.com",
       "image": "http://via.placeholder.com/600x150",
       "banner_position": "both"
+    },
+    {
+      "date": "1514840400",
+      "description": "Sponsor Name",
+      "url": "https://theblaze.com",
+      "image": "http://via.placeholder.com/600x150",
+      "banner_position": "top"
+    },
+    {
+      "date": "1514840400",
+      "description": "Sponsor Name",
+      "url": "https://theblaze.com",
+      "image": "http://via.placeholder.com/600x150",
+      "banner_position": "bottom"
     }
   ]
 }

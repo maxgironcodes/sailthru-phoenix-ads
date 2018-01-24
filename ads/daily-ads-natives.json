@@ -8,8 +8,14 @@
   "content":
   [
     {
-      "date": "1516860000",
-      "newsletter": "AM",
+      "date": "1514804400",
+      "description": "Sponsor Name",
+      "url": "https://theblaze.com",
+      "title": "Example native advertisement in sentence-case",
+      "image": "http://via.placeholder.com/250x135"
+    },
+    {
+      "date": "1514840400",
       "description": "Sponsor Name",
       "url": "https://theblaze.com",
       "title": "Example native advertisement in sentence-case",
