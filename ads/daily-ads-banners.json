@@ -9,6 +9,7 @@
   [
     {
       "date": "1514804400",
+      "title": "Both Banners",
       "description": "Sponsor Name",
       "url": "https://theblaze.com",
       "image": "http://via.placeholder.com/600x150",
@@ -16,6 +17,7 @@
     },
     {
       "date": "1514840400",
+      "title": "Top Banner",
       "description": "Sponsor Name",
       "url": "https://theblaze.com",
       "image": "http://via.placeholder.com/600x150",
@@ -23,6 +25,7 @@
     },
     {
       "date": "1514840400",
+      "title": "Bottom Banner",
       "description": "Sponsor Name",
       "url": "https://theblaze.com",
       "image": "http://via.placeholder.com/600x150",
