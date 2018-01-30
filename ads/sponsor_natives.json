@@ -10,6 +10,15 @@
   },
   {
     "date": "18/01/30",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Cosmopolitan Magazine is Showing Porn to Your Children",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
+    "date": "18/01/30",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
