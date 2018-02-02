@@ -1,0 +1,40 @@
+[
+  {
+    "date": "18/02/05",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Riduzone",
+    "both": {
+      "sponsor_url": "http://www.riduzone.com/",
+      "image_url": "https://media.sailthru.com/3ia/1k2/2/2/5a74acceb9f4a.jpg"
+    }
+  },
+  {
+    "date": "18/02/01",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=877968",
+      "image_url": "https://media.sailthru.com/3ia/1k2/1/v/5a724998ea458.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=877969",
+      "image_url": "https://media.sailthru.com/3ia/1k2/1/v/5a7249b515044.jpg"
+    }
+  },
+  {
+    "date": "18/01/29",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://nucific.com/cmd.php?ad=877971",
+      "image_url": "https://media.sailthru.com/3ia/1k2/1/q/5a6b9ccc6d5e6.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=877970",
+      "image_url": "https://media.sailthru.com/3ia/1k2/1/q/5a6b9cf6213eb.jpg"
+    }
+  }
+]
