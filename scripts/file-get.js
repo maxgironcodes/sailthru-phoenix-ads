@@ -17,9 +17,9 @@ function fileGet(state) {
   }
 
   if (state == "minified") {
-    file.data = fs.readFileSync("./ads/min/" + file.name + ".min.json", "utf8");
+    file.data = fs.readFileSync("./feeds/min/" + file.name + ".min.json", "utf8");
   } else {
-    file.data = fs.readFileSync("./ads/" + file.name + ".json", "utf8");
+    file.data = fs.readFileSync("./feeds/" + file.name + ".json", "utf8");
   }
 
   return file;

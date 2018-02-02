@@ -15,7 +15,7 @@ Here's a list of available commands:
 6. `npm run test`&#42;
 7. `npm start`&#42;
 
-All commands (except test) will ask you to select a JSON file from the ads/ folder:
+All commands (except test) will ask you to select a JSON file from the feeds/ folder:
 
 ```
 [1] sponsor_natives
@@ -42,7 +42,7 @@ Sorts sponsor_natives or sponsor_banners in descending order by date. Note that 
 ------------------------------------------
 
 ### 3. Run "Minify"
-Removes all spaces from the selected file and saves to ads/min. Ensures Sailthru can read the information properly when the file is pushed to production.
+Removes all spaces from the selected file and saves to feeds/min. Ensures Sailthru can read the information properly when the file is pushed to production.
 
 ------------------------------------------
 
