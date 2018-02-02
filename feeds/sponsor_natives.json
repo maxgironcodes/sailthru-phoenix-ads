@@ -36,6 +36,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/2/2/5a74cf143833d.jpg"
   },
   {
+    "date": "18/02/04",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=878638",
+    "headline": "U.S. cardiologist warns: Throw out your probiotics now",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/2/5a74cf7206f7b.jpg"
+  },
+  {
     "date": "18/01/31",
     "newsletter": "AM",
     "type": "Native",
@@ -118,21 +127,21 @@
   },
   {
     "date": "18/01/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=876517",
-    "headline": "Dr. Gundry reveals the #1 toxic vegetable you should never eat",
-    "image_url": "https://media.sailthru.com/3ia/1k2/1/c/5a58e789282d1.jpg"
-  },
-  {
-    "date": "18/01/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Rainmaker Ad Ventures",
     "sponsor_url": "https://pro.healthytips.report/m/750639",
     "headline": "Obama agent caught inside the White House?",
     "image_url": "https://media.sailthru.com/3ia/1k2/1/f/5a5cd7624870d.jpg"
+  },
+  {
+    "date": "18/01/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=876517",
+    "headline": "Dr. Gundry reveals the #1 toxic vegetable you should never eat",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/c/5a58e789282d1.jpg"
   },
   {
     "date": "18/01/16",
