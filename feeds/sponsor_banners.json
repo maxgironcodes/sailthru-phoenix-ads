@@ -14,6 +14,20 @@
     }
   },
   {
+    "date": "18/02/08",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=878642",
+      "image_url": "https://media.sailthru.com/3ia/1k2/2/2/5a74d1abb0a53.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=878647",
+      "image_url": "https://media.sailthru.com/3ia/1k2/2/2/5a74d1e12f8df.jpg"
+    }
+  },
+  {
     "date": "18/02/05",
     "newsletter": "AM",
     "type": "Banners",
