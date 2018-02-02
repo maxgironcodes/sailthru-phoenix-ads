@@ -1,5 +1,5 @@
 # theblaze-newsletter-ads
-This workflow converts ad information to JSON feeds, and makes them accessible to our newsletter template via Sailthru includes — all from the command line. Updates do not interfere with our recurring campaign cycle.
+This workflow converts ad information to JSON feeds, and makes them accessible to our newsletter template as Sailthru includes — all from the command line. Updates do not interfere with our recurring campaign cycle.
 
 ## Installation
 1. Clone the repository onto your machine.
