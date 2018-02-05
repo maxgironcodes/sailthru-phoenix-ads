@@ -1,5 +1,14 @@
 [
   {
+    "date": "18/02/16",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://samson.movie/",
+    "headline": "With the power of God Samson defeats an army of 1000",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/5/5a78e32e483b1.jpg"
+  },
+  {
     "date": "18/02/11",
     "newsletter": "AM",
     "type": "Native",
@@ -64,21 +73,21 @@
   },
   {
     "date": "18/01/30",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "Cosmopolitan Magazine is Showing Porn to Your Children",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
-  },
-  {
-    "date": "18/01/30",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=877916",
     "headline": "Dr. Gundry reveals the #1 toxic vegetable you should never eat",
     "image_url": "https://media.sailthru.com/3ia/1k2/1/q/5a6b57f10a4c6.jpg"
+  },
+  {
+    "date": "18/01/30",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Cosmopolitan Magazine is Showing Porn to Your Children",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "18/01/29",
@@ -208,15 +217,6 @@
   },
   {
     "date": "18/01/09",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.alienintrusion.com",
-    "headline": "John Schneider thinks the truth in “Alien Intrusion Unmasking a Deception” will be more surprising than people realize",
-    "image_url": "https://media.sailthru.com/3ia/1k2/1/8/5a53b5587e5e7.jpg"
-  },
-  {
-    "date": "18/01/09",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
@@ -225,13 +225,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/1/3/5a4d0ade3f2dc.jpg"
   },
   {
-    "date": "18/01/08",
+    "date": "18/01/09",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "This is why your child knows about porn",
-    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.alienintrusion.com",
+    "headline": "John Schneider thinks the truth in “Alien Intrusion Unmasking a Deception” will be more surprising than people realize",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/8/5a53b5587e5e7.jpg"
   },
   {
     "date": "18/01/08",
@@ -241,6 +241,15 @@
     "sponsor_url": "http://dermalmedix.com/cmd.php?ad=875814",
     "headline": "Constant fatigue is a warning sign– here's the simple fix",
     "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca7bad80aa.jpg"
+  },
+  {
+    "date": "18/01/08",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "This is why your child knows about porn",
+    "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
   },
   {
     "date": "18/01/06",
