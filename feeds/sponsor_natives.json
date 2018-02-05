@@ -1,5 +1,14 @@
 [
   {
+    "date": "18/02/16",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://samson.movie/",
+    "headline": "With the power of God Samson defeats an army of 1000",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/5/5a78e2d85e0ea.jpg"
+  },
+  {
     "date": "18/02/11",
     "newsletter": "AM",
     "type": "Native",
@@ -127,21 +136,21 @@
   },
   {
     "date": "18/01/17",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Rainmaker Ad Ventures",
-    "sponsor_url": "https://pro.healthytips.report/m/750639",
-    "headline": "Obama agent caught inside the White House?",
-    "image_url": "https://media.sailthru.com/3ia/1k2/1/f/5a5cd7624870d.jpg"
-  },
-  {
-    "date": "18/01/17",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=876517",
     "headline": "Dr. Gundry reveals the #1 toxic vegetable you should never eat",
     "image_url": "https://media.sailthru.com/3ia/1k2/1/c/5a58e789282d1.jpg"
+  },
+  {
+    "date": "18/01/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Rainmaker Ad Ventures",
+    "sponsor_url": "https://pro.healthytips.report/m/750639",
+    "headline": "Obama agent caught inside the White House?",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/f/5a5cd7624870d.jpg"
   },
   {
     "date": "18/01/16",
@@ -181,15 +190,6 @@
   },
   {
     "date": "18/01/10",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=875814",
-    "headline": "Doctor's new discovery makes foot calluses \"vanish\"",
-    "image_url": "https://media.sailthru.com/3ia/1k2/1/5/5a4fa04c2da53.jpg"
-  },
-  {
-    "date": "18/01/10",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Rainmaker Ad Ventures",
@@ -198,13 +198,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/1/5/5a500b906cf4b.jpg"
   },
   {
-    "date": "18/01/09",
-    "newsletter": "AM",
+    "date": "18/01/10",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "http://simplethyroidtest.com/?dkt_nbr=010301r1ula5",
-    "headline": "What your tongue says about your thyroid — find out!",
-    "image_url": "https://media.sailthru.com/3ia/1k2/1/3/5a4d0ade3f2dc.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=875814",
+    "headline": "Doctor's new discovery makes foot calluses \"vanish\"",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/5/5a4fa04c2da53.jpg"
   },
   {
     "date": "18/01/09",
@@ -216,13 +216,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/1/8/5a53b5587e5e7.jpg"
   },
   {
-    "date": "18/01/08",
+    "date": "18/01/09",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=875814",
-    "headline": "Constant fatigue is a warning sign– here's the simple fix",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca7bad80aa.jpg"
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "http://simplethyroidtest.com/?dkt_nbr=010301r1ula5",
+    "headline": "What your tongue says about your thyroid — find out!",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/3/5a4d0ade3f2dc.jpg"
   },
   {
     "date": "18/01/08",
@@ -232,6 +232,15 @@
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "This is why your child knows about porn",
     "image_url": "https://media.sailthru.com/3ia/1k1/9/m/59c543d5eca32.jpg"
+  },
+  {
+    "date": "18/01/08",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://dermalmedix.com/cmd.php?ad=875814",
+    "headline": "Constant fatigue is a warning sign– here's the simple fix",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/f/5a0ca7bad80aa.jpg"
   },
   {
     "date": "18/01/06",
