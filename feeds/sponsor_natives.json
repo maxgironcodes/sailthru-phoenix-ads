@@ -18,13 +18,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/2/2/5a74cdb300dfe.jpg"
   },
   {
-    "date": "18/02/09",
+    "date": "18/02/10",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=878641",
-    "headline": "He transformed his gut with one thing",
-    "image_url": "https://media.sailthru.com/3ia/1k2/2/2/5a74ceb73010d.jpg"
+    "sponsor_name": "Lion Publishing",
+    "sponsor_url": "https://silencecomplete.net/?affId=42A4ADB8&c1=blnaneded10Feb18A",
+    "headline": "Brain scan uncovers real cause of tinnitus",
+    "image_url": "https://media.sailthru.com/3ia/1k1/8/o/599ef37dbc3a0.jpg"
   },
   {
     "date": "18/02/09",
@@ -34,6 +34,15 @@
     "sponsor_url": "https://pro.healthrevelations.net/m/837886",
     "headline": "Do this to reveal your biblical bloodline in seconds",
     "image_url": "https://media.sailthru.com/3ia/1k2/2/6/5a7a2a4db03ee.jpg"
+  },
+  {
+    "date": "18/02/09",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=878641",
+    "headline": "He transformed his gut with one thing",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/2/5a74ceb73010d.jpg"
   },
   {
     "date": "18/02/08",
@@ -163,21 +172,21 @@
   },
   {
     "date": "18/01/17",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=876517",
-    "headline": "Dr. Gundry reveals the #1 toxic vegetable you should never eat",
-    "image_url": "https://media.sailthru.com/3ia/1k2/1/c/5a58e789282d1.jpg"
-  },
-  {
-    "date": "18/01/17",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Rainmaker Ad Ventures",
     "sponsor_url": "https://pro.healthytips.report/m/750639",
     "headline": "Obama agent caught inside the White House?",
     "image_url": "https://media.sailthru.com/3ia/1k2/1/f/5a5cd7624870d.jpg"
+  },
+  {
+    "date": "18/01/17",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=876517",
+    "headline": "Dr. Gundry reveals the #1 toxic vegetable you should never eat",
+    "image_url": "https://media.sailthru.com/3ia/1k2/1/c/5a58e789282d1.jpg"
   },
   {
     "date": "18/01/16",
