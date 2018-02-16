@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/2/g/5a86ffed889cb.jpg"
   },
   {
+    "date": "18/02/21",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=879916",
+    "headline": "U.S. cardiologist warns: Throw out your probiotics now",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/g/5a87007b0b031.jpg"
+  },
+  {
     "date": "18/02/18",
     "newsletter": "AM",
     "type": "Native",
@@ -28,21 +37,21 @@
   },
   {
     "date": "18/02/16",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://samson.movie/",
-    "headline": "With the power of God Samson defeats an army of 1000",
-    "image_url": "https://media.sailthru.com/3ia/1k2/2/5/5a78e32e483b1.jpg"
-  },
-  {
-    "date": "18/02/16",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Sava Bros",
     "sponsor_url": "http://svb.trackerrr.com/link.php?c=528063&c1=blazenews_med_oth_thelostways",
     "headline": "Could this plant extract keep pain from recurring?",
     "image_url": "https://media.sailthru.com/3ia/1k2/2/e/5a84849c3dafa.jpg"
+  },
+  {
+    "date": "18/02/16",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://samson.movie/",
+    "headline": "With the power of God Samson defeats an army of 1000",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/5/5a78e32e483b1.jpg"
   },
   {
     "date": "18/02/15",
@@ -91,15 +100,6 @@
   },
   {
     "date": "18/02/09",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=878641",
-    "headline": "He transformed his gut with one thing",
-    "image_url": "https://media.sailthru.com/3ia/1k2/2/2/5a74ceb73010d.jpg"
-  },
-  {
-    "date": "18/02/09",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-tactics",
@@ -108,13 +108,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/2/6/5a7a2a4db03ee.jpg"
   },
   {
-    "date": "18/02/08",
-    "newsletter": "PM",
+    "date": "18/02/09",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://samson.movie/",
-    "headline": "How did God give Samson his strength?",
-    "image_url": "https://media.sailthru.com/3ia/1k2/2/5/5a78e2d85e0ea.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=878641",
+    "headline": "He transformed his gut with one thing",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/2/5a74ceb73010d.jpg"
   },
   {
     "date": "18/02/08",
@@ -124,6 +124,15 @@
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "This major magazine is accused of spreading pornography to children",
     "image_url": "https://media.sailthru.com/3ia/1k2/2/7/5a7b5ce152e97.jpg"
+  },
+  {
+    "date": "18/02/08",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://samson.movie/",
+    "headline": "How did God give Samson his strength?",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/5/5a78e2d85e0ea.jpg"
   },
   {
     "date": "18/02/07",
