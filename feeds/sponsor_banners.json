@@ -1,5 +1,19 @@
 [
   {
+    "date": "18/02/22",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://dermalmedix.com/cmd.php?ad=879929",
+      "image_url": "https://media.sailthru.com/3ia/1k2/2/g/5a87010ab90e7.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://juvetress.com/cmd.php?ad=879925",
+      "image_url": "https://media.sailthru.com/3ia/1k2/2/g/5a87012550cd7.jpg"
+    }
+  },
+  {
     "date": "18/02/17",
     "newsletter": "AM",
     "type": "Banners",
