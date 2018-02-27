@@ -10,15 +10,6 @@
   },
   {
     "date": "18/02/28",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Guru Media",
-    "sponsor_url": "http://collicts-unityprus.com/12e64fcd-6fad-431e-8735-4d4f0ec90ef8?s4=13viralad1",
-    "headline": "13 insanely cool gadgets flying off shelves, elderly drivers need #11",
-    "image_url": "https://media.sailthru.com/3ia/1k2/2/r/5a95848d65141.jpg"
-  },
-  {
-    "date": "18/02/28",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -27,13 +18,22 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/2/m/5a8f5c4401481.jpg"
   },
   {
-    "date": "18/02/26",
-    "newsletter": "AM",
+    "date": "18/02/28",
+    "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Guru Media",
     "sponsor_url": "http://collicts-unityprus.com/12e64fcd-6fad-431e-8735-4d4f0ec90ef8?s4=13viralad1",
     "headline": "13 insanely cool gadgets flying off shelves, elderly drivers need #11",
-    "image_url": "https://media.sailthru.com/3ia/1k2/2/n/5a907d0218e96.jpg"
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/r/5a95848d65141.jpg"
+  },
+  {
+    "date": "18/02/27",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "Family Battle To Keep Porn Away From Children",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/r/5a95852e557a3.jpg"
   },
   {
     "date": "18/02/26",
@@ -43,6 +43,15 @@
     "sponsor_url": "https://pro.hsionlineorders.net/m/837887",
     "headline": "Hillary collapsing in front of our eyes",
     "image_url": "https://media.sailthru.com/3ia/1k2/2/n/5a907cb840f4a.jpg"
+  },
+  {
+    "date": "18/02/26",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Guru Media",
+    "sponsor_url": "http://collicts-unityprus.com/12e64fcd-6fad-431e-8735-4d4f0ec90ef8?s4=13viralad1",
+    "headline": "13 insanely cool gadgets flying off shelves, elderly drivers need #11",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/n/5a907d0218e96.jpg"
   },
   {
     "date": "18/02/24",
@@ -100,21 +109,21 @@
   },
   {
     "date": "18/02/16",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://samson.movie/",
-    "headline": "With the power of God Samson defeats an army of 1000",
-    "image_url": "https://media.sailthru.com/3ia/1k2/2/5/5a78e32e483b1.jpg"
-  },
-  {
-    "date": "18/02/16",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Sava Bros",
     "sponsor_url": "http://svb.trackerrr.com/link.php?c=528063&c1=blazenews_med_oth_thelostways",
     "headline": "Could this plant extract keep pain from recurring?",
     "image_url": "https://media.sailthru.com/3ia/1k2/2/e/5a84849c3dafa.jpg"
+  },
+  {
+    "date": "18/02/16",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://samson.movie/",
+    "headline": "With the power of God Samson defeats an army of 1000",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/5/5a78e32e483b1.jpg"
   },
   {
     "date": "18/02/15",
@@ -163,15 +172,6 @@
   },
   {
     "date": "18/02/09",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.healthrevelations.net/m/837886",
-    "headline": "Do this to reveal your biblical bloodline in seconds",
-    "image_url": "https://media.sailthru.com/3ia/1k2/2/6/5a7a2a4db03ee.jpg"
-  },
-  {
-    "date": "18/02/09",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -180,13 +180,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/2/2/5a74ceb73010d.jpg"
   },
   {
-    "date": "18/02/08",
-    "newsletter": "AM",
+    "date": "18/02/09",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "This major magazine is accused of spreading pornography to children",
-    "image_url": "https://media.sailthru.com/3ia/1k2/2/7/5a7b5ce152e97.jpg"
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.healthrevelations.net/m/837886",
+    "headline": "Do this to reveal your biblical bloodline in seconds",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/6/5a7a2a4db03ee.jpg"
   },
   {
     "date": "18/02/08",
@@ -196,6 +196,15 @@
     "sponsor_url": "http://samson.movie/",
     "headline": "How did God give Samson his strength?",
     "image_url": "https://media.sailthru.com/3ia/1k2/2/5/5a78e2d85e0ea.jpg"
+  },
+  {
+    "date": "18/02/08",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "This major magazine is accused of spreading pornography to children",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/7/5a7b5ce152e97.jpg"
   },
   {
     "date": "18/02/07",
