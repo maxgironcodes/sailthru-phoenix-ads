@@ -14,6 +14,20 @@
     }
   },
   {
+    "date": "18/03/13",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://livecellresearch.com/cmd.php?ad=881898",
+      "image_url": "https://media.sailthru.com/3ia/1k2/3/8/5aa1ba042aa32.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=881891",
+      "image_url": "https://media.sailthru.com/3ia/1k2/3/8/5aa1ba1c245c6.jpg"
+    }
+  },
+  {
     "date": "18/03/10",
     "newsletter": "AM",
     "type": "Banners",
@@ -119,22 +133,22 @@
   },
   {
     "date": "18/02/20",
-    "newsletter": "AM",
-    "type": "Banners",
-    "sponsor_name": "Truthfinder",
-    "both": {
-      "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=387&s1=2.20.18_AM_EX",
-      "image_url": "https://media.sailthru.com/3ia/1k2/2/9/5a7dfd0b4aec8.png"
-    }
-  },
-  {
-    "date": "18/02/20",
     "newsletter": "PM",
     "type": "Banners",
     "sponsor_name": "Truthfinder",
     "both": {
       "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=388&s1=2.20.18_PM_CONS",
       "image_url": "https://media.sailthru.com/3ia/1k2/2/9/5a7dfd51e0b01.png"
+    }
+  },
+  {
+    "date": "18/02/20",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Truthfinder",
+    "both": {
+      "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=387&s1=2.20.18_AM_EX",
+      "image_url": "https://media.sailthru.com/3ia/1k2/2/9/5a7dfd0b4aec8.png"
     }
   },
   {
