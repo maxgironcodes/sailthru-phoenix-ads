@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/3/5/5a9d6bd344340.jpeg"
   },
   {
+    "date": "18/03/14",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=881893",
+    "headline": "Diet expert tells all: \"It's like superfuel for your gut lining\"",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/8/5aa1b8f74a77f.jpg"
+  },
+  {
     "date": "18/03/10",
     "newsletter": "AM",
     "type": "Native",
@@ -73,21 +82,21 @@
   },
   {
     "date": "18/02/28",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Guru Media",
-    "sponsor_url": "http://collicts-unityprus.com/12e64fcd-6fad-431e-8735-4d4f0ec90ef8?s4=13viralad1",
-    "headline": "13 insanely cool gadgets flying off shelves, elderly drivers need #11",
-    "image_url": "https://media.sailthru.com/3ia/1k2/2/r/5a95848d65141.jpg"
-  },
-  {
-    "date": "18/02/28",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://drmartypets.com/cmd.php?ad=880482",
     "headline": "3 dangerous ingredients you're feeding your dog",
     "image_url": "https://media.sailthru.com/3ia/1k2/2/m/5a8f5c4401481.jpg"
+  },
+  {
+    "date": "18/02/28",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Guru Media",
+    "sponsor_url": "http://collicts-unityprus.com/12e64fcd-6fad-431e-8735-4d4f0ec90ef8?s4=13viralad1",
+    "headline": "13 insanely cool gadgets flying off shelves, elderly drivers need #11",
+    "image_url": "https://media.sailthru.com/3ia/1k2/2/r/5a95848d65141.jpg"
   },
   {
     "date": "18/02/27",
