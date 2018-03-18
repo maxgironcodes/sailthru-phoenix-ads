@@ -10,21 +10,21 @@
   },
   {
     "date": "18/03/28",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.paulmovie.com/site/",
-    "headline": "Do you know the remarkable entire story of “Paul Apostle of Christ”?",
-    "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa97443c8085.png"
-  },
-  {
-    "date": "18/03/28",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Thomas Nelson",
     "sponsor_url": "http://miracleinshreveport.com/",
     "headline": "Have you heard the baseball miracle story of twin brothers who put their dream of going pro in God’s hands?",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/5/5a9d6bd344340.jpeg"
+  },
+  {
+    "date": "18/03/28",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.paulmovie.com/site/",
+    "headline": "Do you know the remarkable entire story of “Paul Apostle of Christ”?",
+    "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa97443c8085.png"
   },
   {
     "date": "18/03/25",
@@ -70,6 +70,15 @@
     "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=882627",
     "headline": "Plastic surgeon reveals: “You can fill in wrinkles st home” Here’s how",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/g/5aac2c535997c.jpg"
+  },
+  {
+    "date": "18/03/19",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Israel 365 / Meir Panim",
+    "sponsor_url": "https://www.causematch.com/en/projects/dollaraday/?utm_source=the_blaze&utm_medium=email&utm_campaign=dollar-a-day&utm_content=03_19_18",
+    "headline": "Ruth from Jerusalem is hungry",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/i/5aae8af7e60d6.jpg"
   },
   {
     "date": "18/03/18",
@@ -154,21 +163,21 @@
   },
   {
     "date": "18/03/08",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "https://icanonlyimagine.com/",
-    "headline": "\"I Can Only Imagine”, the song you know; the story you don’t",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/5/5a9d6b869a635.png"
-  },
-  {
-    "date": "18/03/08",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
     "sponsor_url": "https://www.newsmax.com/surveys/TrumpGunControl/Should-Trump-Support-or-Oppose-Stricter-Gun-Contro/id/355/kw/default/?&dkt_nbr=010301psdd6l",
     "headline": "Trump gun control? Vote here now",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/6/5a9ec19fd3b81.jpg"
+  },
+  {
+    "date": "18/03/08",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "https://icanonlyimagine.com/",
+    "headline": "\"I Can Only Imagine”, the song you know; the story you don’t",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/5/5a9d6b869a635.png"
   },
   {
     "date": "18/03/06",
