@@ -1,5 +1,15 @@
 [
   {
+    "date": "18/03/23",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Truthfinder",
+    "both": {
+      "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=396&s1=DailyNativeAM_3.23",
+      "image_url": "https://media.sailthru.com/3ia/1k2/3/l/5ab2dc7564e1b.jpg"
+    }
+  },
+  {
     "date": "18/03/22",
     "newsletter": "AM",
     "type": "Banners",
