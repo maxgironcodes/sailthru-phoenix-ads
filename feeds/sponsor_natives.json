@@ -45,6 +45,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab418565803c.jpg"
   },
   {
+    "date": "18/03/26",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.hsionlineorders.net/m/837889",
+    "headline": "Hillary caught in the biggest lie",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab420196fe37.jpg"
+  },
+  {
     "date": "18/03/25",
     "newsletter": "AM",
     "type": "Native",
@@ -118,21 +127,21 @@
   },
   {
     "date": "18/03/20",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "MRES",
-    "sponsor_url": "http://www.realestateagentsitrust.com/",
-    "headline": "Home buyers need a great advocate",
-    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a149cae0b941.jpg"
-  },
-  {
-    "date": "18/03/20",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=882627",
     "headline": "Plastic surgeon reveals: “You can fill in wrinkles st home” Here’s how",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/g/5aac2c535997c.jpg"
+  },
+  {
+    "date": "18/03/20",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "MRES",
+    "sponsor_url": "http://www.realestateagentsitrust.com/",
+    "headline": "Home buyers need a great advocate",
+    "image_url": "https://media.sailthru.com/3ia/1k1/b/l/5a149cae0b941.jpg"
   },
   {
     "date": "18/03/19",
