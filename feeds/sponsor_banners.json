@@ -5,12 +5,12 @@
     "type": "Banners",
     "sponsor_name": "Golden Hippo Media",
     "top": {
-      "sponsor_url": "https://media.sailthru.com/3ia/1k2/3/7/5aa01c5c59481.jpg",
-      "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab417b1d54f0.jpg"
-    },
-    "bottom": {
       "sponsor_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab417b1d54f0.jpg",
       "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab417d55f901.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://media.sailthru.com/3ia/1k2/3/7/5aa01c5c59481.jpg",
+      "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab417b1d54f0.jpg"
     }
   },
   {
