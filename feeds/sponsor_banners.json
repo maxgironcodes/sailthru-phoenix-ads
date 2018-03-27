@@ -19,7 +19,7 @@
     "type": "Banners",
     "sponsor_name": "Truthfinder",
     "both": {
-      "sponsor_url": "http://tracking.truthfinder.com/?a=244&oc=27&c=404&s1=Amber&subtheme=friends-family&noPop=true",
+      "sponsor_url": "http://tracking.truthfinder.com/?a=244&oc=27&c=404&s1=Amber&subtheme=friends-family&tone=curiosity&noPop=true",
       "image_url": "https://media.sailthru.com/3ia/1k2/3/r/5aba86e58c3c0.jpg"
     }
   },
