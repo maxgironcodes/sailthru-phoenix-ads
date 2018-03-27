@@ -14,6 +14,16 @@
     }
   },
   {
+    "date": "18/03/28",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Truthfinder",
+    "both": {
+      "sponsor_url": "http://tracking.truthfinder.com/?a=244&oc=27&c=404&s1=Amber&subtheme=friends-family&noPop=true",
+      "image_url": "https://media.sailthru.com/3ia/1k2/3/r/5aba86e58c3c0.jpg"
+    }
+  },
+  {
     "date": "18/03/27",
     "newsletter": "AM",
     "type": "Banners",
@@ -181,22 +191,22 @@
   },
   {
     "date": "18/02/20",
-    "newsletter": "PM",
-    "type": "Banners",
-    "sponsor_name": "Truthfinder",
-    "both": {
-      "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=388&s1=2.20.18_PM_CONS",
-      "image_url": "https://media.sailthru.com/3ia/1k2/2/9/5a7dfd51e0b01.png"
-    }
-  },
-  {
-    "date": "18/02/20",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Truthfinder",
     "both": {
       "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=387&s1=2.20.18_AM_EX",
       "image_url": "https://media.sailthru.com/3ia/1k2/2/9/5a7dfd0b4aec8.png"
+    }
+  },
+  {
+    "date": "18/02/20",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Truthfinder",
+    "both": {
+      "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=388&s1=2.20.18_PM_CONS",
+      "image_url": "https://media.sailthru.com/3ia/1k2/2/9/5a7dfd51e0b01.png"
     }
   },
   {
