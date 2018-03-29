@@ -1,5 +1,19 @@
 [
   {
+    "date": "18/04/03",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=883636",
+      "image_url": "https://media.sailthru.com/3ia/1k2/3/t/5abd6c5112a77.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://livecellresearch.com/cmd.php?ad=883629",
+      "image_url": "https://media.sailthru.com/3ia/1k2/3/t/5abd6d6e3d3aa.jpg"
+    }
+  },
+  {
     "date": "18/03/29",
     "newsletter": "AM",
     "type": "Banners",
