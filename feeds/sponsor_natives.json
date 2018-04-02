@@ -18,6 +18,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac24da425d78.png"
   },
   {
+    "date": "18/04/03",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353472",
+    "headline": "Americans who’ve given up on Bitcoin are set to lose a fortune",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac290ad7de17.jpg"
+  },
+  {
     "date": "18/04/02",
     "newsletter": "AM",
     "type": "Native",
@@ -55,21 +64,21 @@
   },
   {
     "date": "18/03/30",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Guru Media",
-    "sponsor_url": "http://collicts-unityprus.com/637df760-38f9-4607-aec6-15c3e52ce054?s4=newsletterad1",
-    "headline": "Born before 1967? Claim these 19 senior rebates now",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/f/5aaaeadc01a7a.jpg"
-  },
-  {
-    "date": "18/03/30",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Renaissance Communications",
     "sponsor_url": "https://icanonlyimagine.com/",
     "headline": "Another week where God worked miracles at the box office",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/q/5ab927833809e.png"
+  },
+  {
+    "date": "18/03/30",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Guru Media",
+    "sponsor_url": "http://collicts-unityprus.com/637df760-38f9-4607-aec6-15c3e52ce054?s4=newsletterad1",
+    "headline": "Born before 1967? Claim these 19 senior rebates now",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/f/5aaaeadc01a7a.jpg"
   },
   {
     "date": "18/03/29",
