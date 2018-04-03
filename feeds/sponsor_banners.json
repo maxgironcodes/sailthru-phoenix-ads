@@ -14,6 +14,20 @@
     }
   },
   {
+    "date": "18/04/05",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Fountainhead Marketing",
+    "top": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353654",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3f1af01831.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353655",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3f1edf0844.jpg"
+    }
+  },
+  {
     "date": "18/04/03",
     "newsletter": "AM",
     "type": "Banners",
@@ -291,22 +305,22 @@
   },
   {
     "date": "18/02/12",
-    "newsletter": "PM",
-    "type": "Banners",
-    "sponsor_name": "Truthfinder",
-    "both": {
-      "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=388&s1=2.20.18_PM_CONS",
-      "image_url": "https://media.sailthru.com/3ia/1k2/2/9/5a7dfd51e0b01.png"
-    }
-  },
-  {
-    "date": "18/02/12",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Truthfinder",
     "both": {
       "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=387&s1=2.20.18_AM_EX",
       "image_url": "https://media.sailthru.com/3ia/1k2/2/9/5a7dfd0b4aec8.png"
+    }
+  },
+  {
+    "date": "18/02/12",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Truthfinder",
+    "both": {
+      "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=388&s1=2.20.18_PM_CONS",
+      "image_url": "https://media.sailthru.com/3ia/1k2/2/9/5a7dfd51e0b01.png"
     }
   },
   {
