@@ -36,13 +36,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3ec4bba3d1.png"
   },
   {
-    "date": "18/04/03",
+    "date": "18/04/04",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Clarion Project",
-    "sponsor_url": "http://faithkeepersmovie.com/",
-    "headline": "'Faithkeepers' documentary premieres on April 18th on TheBlaze",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac2a98aa927a.jpg"
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353650",
+    "headline": "What every American needs to know about Bitcoin and Cryptocurrency in 2018",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3f0a56ad3d.jpg"
   },
   {
     "date": "18/04/03",
@@ -52,6 +52,15 @@
     "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353472",
     "headline": "Americans who’ve given up on Bitcoin are set to lose a fortune",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac290ad7de17.jpg"
+  },
+  {
+    "date": "18/04/03",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Clarion Project",
+    "sponsor_url": "http://faithkeepersmovie.com/",
+    "headline": "'Faithkeepers' documentary premieres on April 18th on TheBlaze",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac2a98aa927a.jpg"
   },
   {
     "date": "18/04/02",
@@ -127,21 +136,21 @@
   },
   {
     "date": "18/03/28",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.paulmovie.com/site/",
-    "headline": "Do you know the remarkable entire story of “Paul Apostle of Christ”?",
-    "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa97443c8085.png"
-  },
-  {
-    "date": "18/03/28",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Thomas Nelson",
     "sponsor_url": "http://miracleinshreveport.com/",
     "headline": "Have you heard the baseball miracle story of twin brothers who put their dream of going pro in God’s hands?",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/5/5a9d6bd344340.jpeg"
+  },
+  {
+    "date": "18/03/28",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.paulmovie.com/site/",
+    "headline": "Do you know the remarkable entire story of “Paul Apostle of Christ”?",
+    "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa97443c8085.png"
   },
   {
     "date": "18/03/27",
@@ -181,15 +190,6 @@
   },
   {
     "date": "18/03/24",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "https://icanonlyimagine.com/",
-    "headline": "God, faith and forgiveness score huge at the box office",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/k/5ab168d27d9a9.png"
-  },
-  {
-    "date": "18/03/24",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Publishing",
@@ -198,13 +198,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab3f4c32f437.jpg"
   },
   {
-    "date": "18/03/23",
+    "date": "18/03/24",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=396&s1=DailyNativePM_3.23&subtheme=patriot-alert",
-    "headline": "Have you looked yourself up? It’s scary what this site knows about Americans",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/l/5ab2dc1db0419.jpg"
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "https://icanonlyimagine.com/",
+    "headline": "God, faith and forgiveness score huge at the box office",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/k/5ab168d27d9a9.png"
   },
   {
     "date": "18/03/23",
@@ -216,13 +216,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab3f3321953c.jpg"
   },
   {
-    "date": "18/03/22",
-    "newsletter": "AM",
+    "date": "18/03/23",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.paulmovie.com/site/",
-    "headline": "There is so much more to one of the Bible’s most beloved stories",
-    "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa97443c8085.png"
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=396&s1=DailyNativePM_3.23&subtheme=patriot-alert",
+    "headline": "Have you looked yourself up? It’s scary what this site knows about Americans",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/l/5ab2dc1db0419.jpg"
   },
   {
     "date": "18/03/22",
@@ -232,6 +232,15 @@
     "sponsor_url": "https://godsnotdead.pureflix.com/",
     "headline": "God’s Not Dead: A Light In Darkness, you loved the first two just wait for the third",
     "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa974c2f3949.jpg"
+  },
+  {
+    "date": "18/03/22",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.paulmovie.com/site/",
+    "headline": "There is so much more to one of the Bible’s most beloved stories",
+    "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa97443c8085.png"
   },
   {
     "date": "18/03/21",
