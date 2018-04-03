@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/3/t/5abd6ec476e9d.jpg"
   },
   {
+    "date": "18/04/06",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.healthrevelations.net/m/837892",
+    "headline": "What if God hid a warning inside the body of every Christian upon creation?",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3ebd827b42.jpg"
+  },
+  {
     "date": "18/04/05",
     "newsletter": "PM",
     "type": "Native",
@@ -32,7 +41,7 @@
     "type": "Native",
     "sponsor_name": "Clarion Project",
     "sponsor_url": "http://faithkeepersmovie.com/",
-    "headline": "\"Faithkeepers\" documentary premieres on April 18th on TheBlaze",
+    "headline": "'Faithkeepers' documentary premieres on April 18th on TheBlaze",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac2a98aa927a.jpg"
   },
   {
@@ -199,21 +208,21 @@
   },
   {
     "date": "18/03/22",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.paulmovie.com/site/",
-    "headline": "There is so much more to one of the Bible’s most beloved stories",
-    "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa97443c8085.png"
-  },
-  {
-    "date": "18/03/22",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Renaissance Communications",
     "sponsor_url": "https://godsnotdead.pureflix.com/",
     "headline": "God’s Not Dead: A Light In Darkness, you loved the first two just wait for the third",
     "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa974c2f3949.jpg"
+  },
+  {
+    "date": "18/03/22",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.paulmovie.com/site/",
+    "headline": "There is so much more to one of the Bible’s most beloved stories",
+    "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa97443c8085.png"
   },
   {
     "date": "18/03/21",
