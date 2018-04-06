@@ -14,17 +14,17 @@
     }
   },
   {
-    "date": "18/04/09",
-    "newsletter": "PM",
+    "date": "18/04/10",
+    "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Fountainhead Marketing",
     "top": {
-      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355400&encryptedSnaid=&snaid=&step=start",
-      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac795eec936e.jpg"
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355473&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7d7ad948ec.jpg"
     },
     "bottom": {
-      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355467&encryptedSnaid=&snaid=&step=start",
-      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7d706e6ec4.jpg"
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355475&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7d7c3dae24.jpg"
     }
   },
   {
@@ -39,6 +39,20 @@
     "bottom": {
       "sponsor_url": "http://gundrymd.com/cmd.php?ad=884353",
       "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7b2548a82e.jpg"
+    }
+  },
+  {
+    "date": "18/04/09",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Fountainhead Marketing",
+    "top": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355400&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac795eec936e.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355467&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7d706e6ec4.jpg"
     }
   },
   {
@@ -299,22 +313,22 @@
   },
   {
     "date": "18/02/20",
-    "newsletter": "AM",
-    "type": "Banners",
-    "sponsor_name": "Truthfinder",
-    "both": {
-      "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=387&s1=2.20.18_AM_EX",
-      "image_url": "https://media.sailthru.com/3ia/1k2/2/9/5a7dfd0b4aec8.png"
-    }
-  },
-  {
-    "date": "18/02/20",
     "newsletter": "PM",
     "type": "Banners",
     "sponsor_name": "Truthfinder",
     "both": {
       "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=388&s1=2.20.18_PM_CONS",
       "image_url": "https://media.sailthru.com/3ia/1k2/2/9/5a7dfd51e0b01.png"
+    }
+  },
+  {
+    "date": "18/02/20",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Truthfinder",
+    "both": {
+      "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=387&s1=2.20.18_AM_EX",
+      "image_url": "https://media.sailthru.com/3ia/1k2/2/9/5a7dfd0b4aec8.png"
     }
   },
   {
