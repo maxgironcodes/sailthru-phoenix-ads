@@ -18,9 +18,13 @@
     "newsletter": "PM",
     "type": "Banners",
     "sponsor_name": "Fountainhead Marketing",
-    "both": {
+    "top": {
       "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355400&encryptedSnaid=&snaid=&step=start",
       "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac795eec936e.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355467&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7d706e6ec4.jpg"
     }
   },
   {
