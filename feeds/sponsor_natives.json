@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/4/5/5ac69961b526b.jpg"
   },
   {
+    "date": "18/04/08",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=884350",
+    "headline": "U.S. cardiologist warns: Throw out your probiotics now",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7b55e588bb.jpg"
+  },
+  {
     "date": "18/04/07",
     "newsletter": "AM",
     "type": "Native",
@@ -64,21 +73,21 @@
   },
   {
     "date": "18/04/03",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Clarion Project",
-    "sponsor_url": "http://faithkeepersmovie.com/",
-    "headline": "'Faithkeepers' documentary premieres on April 18th on TheBlaze",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac2a98aa927a.jpg"
-  },
-  {
-    "date": "18/04/03",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Fountainhead Marketing",
     "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353472",
     "headline": "Americans who’ve given up on Bitcoin are set to lose a fortune",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac290ad7de17.jpg"
+  },
+  {
+    "date": "18/04/03",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Clarion Project",
+    "sponsor_url": "http://faithkeepersmovie.com/",
+    "headline": "'Faithkeepers' documentary premieres on April 18th on TheBlaze",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac2a98aa927a.jpg"
   },
   {
     "date": "18/04/02",
@@ -100,21 +109,21 @@
   },
   {
     "date": "18/03/31",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.paulmovie.com/site/",
-    "headline": "This Easter weekend it’s important to know the true story of Paul and Luke",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/s/5abbb73426fc2.png"
-  },
-  {
-    "date": "18/03/31",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=883147",
     "headline": "How to fix crepe skin: Beverly Hills surgeon explains at home fix for crepe skin around the arms, legs, and stomach",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab418a68a40f.jpg"
+  },
+  {
+    "date": "18/03/31",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.paulmovie.com/site/",
+    "headline": "This Easter weekend it’s important to know the true story of Paul and Luke",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/s/5abbb73426fc2.png"
   },
   {
     "date": "18/03/30",
@@ -136,15 +145,6 @@
   },
   {
     "date": "18/03/29",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "A family feud over a pornographic magazine",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab3f3321953c.jpg"
-  },
-  {
-    "date": "18/03/29",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Renaissance Communications",
@@ -153,13 +153,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/3/n/5ab5600aea470.jpg"
   },
   {
-    "date": "18/03/28",
+    "date": "18/03/29",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.paulmovie.com/site/",
-    "headline": "Do you know the remarkable entire story of “Paul Apostle of Christ”?",
-    "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa97443c8085.png"
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "A family feud over a pornographic magazine",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab3f3321953c.jpg"
   },
   {
     "date": "18/03/28",
@@ -171,13 +171,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/3/5/5a9d6bd344340.jpeg"
   },
   {
-    "date": "18/03/27",
-    "newsletter": "AM",
+    "date": "18/03/28",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://activatedyou.com/cmd.php?ad=883149",
-    "headline": "Actress warns: Throw out your probiotics now",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab418565803c.jpg"
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.paulmovie.com/site/",
+    "headline": "Do you know the remarkable entire story of “Paul Apostle of Christ”?",
+    "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa97443c8085.png"
   },
   {
     "date": "18/03/27",
@@ -187,6 +187,15 @@
     "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT352719",
     "headline": "Finally: Brand new cryptocurrency course reveals the truth behind blockchain, Bitcoin, and other cryptos",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/q/5ab97e8de1b08.jpg"
+  },
+  {
+    "date": "18/03/27",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://activatedyou.com/cmd.php?ad=883149",
+    "headline": "Actress warns: Throw out your probiotics now",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab418565803c.jpg"
   },
   {
     "date": "18/03/26",
