@@ -9,6 +9,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/4/5/5ac69961b526b.jpg"
   },
   {
+    "date": "18/04/11",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355622&encryptedSnaid=&snaid=&step=start",
+    "headline": "The truth about Bitcoin & other cryptocurrencies Wall Street won’t tell you",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/9/5acbd3a11ece9.jpg"
+  },
+  {
     "date": "18/04/10",
     "newsletter": "AM",
     "type": "Native",
@@ -118,21 +127,21 @@
   },
   {
     "date": "18/03/31",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.paulmovie.com/site/",
-    "headline": "This Easter weekend it’s important to know the true story of Paul and Luke",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/s/5abbb73426fc2.png"
-  },
-  {
-    "date": "18/03/31",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=883147",
     "headline": "How to fix crepe skin: Beverly Hills surgeon explains at home fix for crepe skin around the arms, legs, and stomach",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab418a68a40f.jpg"
+  },
+  {
+    "date": "18/03/31",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.paulmovie.com/site/",
+    "headline": "This Easter weekend it’s important to know the true story of Paul and Luke",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/s/5abbb73426fc2.png"
   },
   {
     "date": "18/03/30",
@@ -190,21 +199,21 @@
   },
   {
     "date": "18/03/27",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://activatedyou.com/cmd.php?ad=883149",
-    "headline": "Actress warns: Throw out your probiotics now",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab418565803c.jpg"
-  },
-  {
-    "date": "18/03/27",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Fountainhead Marketing",
     "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT352719",
     "headline": "Finally: Brand new cryptocurrency course reveals the truth behind blockchain, Bitcoin, and other cryptos",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/q/5ab97e8de1b08.jpg"
+  },
+  {
+    "date": "18/03/27",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://activatedyou.com/cmd.php?ad=883149",
+    "headline": "Actress warns: Throw out your probiotics now",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab418565803c.jpg"
   },
   {
     "date": "18/03/26",
