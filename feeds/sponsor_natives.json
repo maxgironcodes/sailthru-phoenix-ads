@@ -9,13 +9,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace3d9de2b6f.jpg"
   },
   {
-    "date": "18/04/12",
-    "newsletter": "PM",
+    "date": "18/04/16",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Common Sense Publishing",
-    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355775&encryptedSnaid=&snaid=&step=start",
-    "headline": "The Bitcoin bounce-back no one is preparing for may make you rich (see how)",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace3e724f0fa.jpg"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=884784",
+    "headline": "U.S. Cardiologist Says Carbs Are Not The Problem (This Is)",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace87250e47e.jpg"
   },
   {
     "date": "18/04/12",
@@ -25,6 +25,15 @@
     "sponsor_url": "https://w3.newsmax.com/General/NMM/Offers/Killing-the-Deep-State-6mo-v2?dkt_nbr=010335huhdv3",
     "headline": "Trump targeted for 'wicked' attack, Corsi says",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/5/5ac69961b526b.jpg"
+  },
+  {
+    "date": "18/04/12",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Common Sense Publishing",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355775&encryptedSnaid=&snaid=&step=start",
+    "headline": "The Bitcoin bounce-back no one is preparing for may make you rich (see how)",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace3e724f0fa.jpg"
   },
   {
     "date": "18/04/11",
@@ -73,21 +82,21 @@
   },
   {
     "date": "18/04/06",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.healthrevelations.net/m/837892",
-    "headline": "What if God hid a warning inside the body of every Christian upon creation?",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3fd18657a9.jpg"
-  },
-  {
-    "date": "18/04/06",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=883639",
     "headline": "Diet expert tells all: \"It's like superfuel for your gut lining\"",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/t/5abd6ec476e9d.jpg"
+  },
+  {
+    "date": "18/04/06",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.healthrevelations.net/m/837892",
+    "headline": "What if God hid a warning inside the body of every Christian upon creation?",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3fd18657a9.jpg"
   },
   {
     "date": "18/04/05",
@@ -118,21 +127,21 @@
   },
   {
     "date": "18/04/03",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Fountainhead Marketing",
-    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353472",
-    "headline": "Americans who’ve given up on Bitcoin are set to lose a fortune",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac290ad7de17.jpg"
-  },
-  {
-    "date": "18/04/03",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Clarion Project",
     "sponsor_url": "http://faithkeepersmovie.com/",
     "headline": "'Faithkeepers' documentary premieres on April 18th on TheBlaze",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac2a98aa927a.jpg"
+  },
+  {
+    "date": "18/04/03",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353472",
+    "headline": "Americans who’ve given up on Bitcoin are set to lose a fortune",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac290ad7de17.jpg"
   },
   {
     "date": "18/04/02",
