@@ -10,6 +10,15 @@
   },
   {
     "date": "18/04/12",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Common Sense Publishing",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355775&encryptedSnaid=&snaid=&step=start",
+    "headline": "The Bitcoin bounce-back no one is preparing for may make you rich (see how)",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace3e724f0fa.jpg"
+  },
+  {
+    "date": "18/04/12",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
@@ -163,15 +172,6 @@
   },
   {
     "date": "18/03/30",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Guru Media",
-    "sponsor_url": "http://collicts-unityprus.com/637df760-38f9-4607-aec6-15c3e52ce054?s4=newsletterad1",
-    "headline": "Born before 1967? Claim these 19 senior rebates now",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/f/5aaaeadc01a7a.jpg"
-  },
-  {
-    "date": "18/03/30",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Renaissance Communications",
@@ -180,13 +180,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/3/q/5ab927833809e.png"
   },
   {
-    "date": "18/03/29",
-    "newsletter": "PM",
+    "date": "18/03/30",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Cosmo Hurts Kids",
-    "sponsor_url": "https://www.cosmohurtskids.com/",
-    "headline": "A family feud over a pornographic magazine",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab3f3321953c.jpg"
+    "sponsor_name": "Guru Media",
+    "sponsor_url": "http://collicts-unityprus.com/637df760-38f9-4607-aec6-15c3e52ce054?s4=newsletterad1",
+    "headline": "Born before 1967? Claim these 19 senior rebates now",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/f/5aaaeadc01a7a.jpg"
   },
   {
     "date": "18/03/29",
@@ -198,13 +198,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/3/n/5ab5600aea470.jpg"
   },
   {
-    "date": "18/03/28",
+    "date": "18/03/29",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.paulmovie.com/site/",
-    "headline": "Do you know the remarkable entire story of “Paul Apostle of Christ”?",
-    "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa97443c8085.png"
+    "sponsor_name": "Cosmo Hurts Kids",
+    "sponsor_url": "https://www.cosmohurtskids.com/",
+    "headline": "A family feud over a pornographic magazine",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab3f3321953c.jpg"
   },
   {
     "date": "18/03/28",
@@ -216,13 +216,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/3/5/5a9d6bd344340.jpeg"
   },
   {
-    "date": "18/03/27",
+    "date": "18/03/28",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Fountainhead Marketing",
-    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT352719",
-    "headline": "Finally: Brand new cryptocurrency course reveals the truth behind blockchain, Bitcoin, and other cryptos",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/q/5ab97e8de1b08.jpg"
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.paulmovie.com/site/",
+    "headline": "Do you know the remarkable entire story of “Paul Apostle of Christ”?",
+    "image_url": "https://media.sailthru.com/3jc/1k2/3/e/5aa97443c8085.png"
   },
   {
     "date": "18/03/27",
@@ -232,6 +232,15 @@
     "sponsor_url": "http://activatedyou.com/cmd.php?ad=883149",
     "headline": "Actress warns: Throw out your probiotics now",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab418565803c.jpg"
+  },
+  {
+    "date": "18/03/27",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT352719",
+    "headline": "Finally: Brand new cryptocurrency course reveals the truth behind blockchain, Bitcoin, and other cryptos",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/q/5ab97e8de1b08.jpg"
   },
   {
     "date": "18/03/26",
@@ -253,15 +262,6 @@
   },
   {
     "date": "18/03/24",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "https://icanonlyimagine.com/",
-    "headline": "God, faith and forgiveness score huge at the box office",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/k/5ab168d27d9a9.png"
-  },
-  {
-    "date": "18/03/24",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Lion Publishing",
@@ -270,13 +270,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab3f4c32f437.jpg"
   },
   {
-    "date": "18/03/23",
+    "date": "18/03/24",
     "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Truthfinder",
-    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=396&s1=DailyNativePM_3.23&subtheme=patriot-alert",
-    "headline": "Have you looked yourself up? It’s scary what this site knows about Americans",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/l/5ab2dc1db0419.jpg"
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "https://icanonlyimagine.com/",
+    "headline": "God, faith and forgiveness score huge at the box office",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/k/5ab168d27d9a9.png"
   },
   {
     "date": "18/03/23",
@@ -286,6 +286,15 @@
     "sponsor_url": "https://www.cosmohurtskids.com/",
     "headline": "A family feud over a pornographic magazine",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab3f3321953c.jpg"
+  },
+  {
+    "date": "18/03/23",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Truthfinder",
+    "sponsor_url": "https://tracking.truthfinder.com/?a=244&oc=27&c=396&s1=DailyNativePM_3.23&subtheme=patriot-alert",
+    "headline": "Have you looked yourself up? It’s scary what this site knows about Americans",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/l/5ab2dc1db0419.jpg"
   },
   {
     "date": "18/03/22",
