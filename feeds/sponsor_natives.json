@@ -36,13 +36,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace87250e47e.jpg"
   },
   {
-    "date": "18/04/12",
+    "date": "18/04/14",
     "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Newsmax",
-    "sponsor_url": "https://w3.newsmax.com/General/NMM/Offers/Killing-the-Deep-State-6mo-v2?dkt_nbr=010335huhdv3",
-    "headline": "Trump targeted for 'wicked' attack, Corsi says",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/5/5ac69961b526b.jpg"
+    "sponsor_name": "Lion Publishing",
+    "sponsor_url": "https://silencecomplete.net/?affId=42A4ADB8&c1=blnaneded14Apr18A",
+    "headline": "Tinnitus: This Is What Ear Ringing Does To Your Brain",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/c/5acf984c7544e.jpg"
   },
   {
     "date": "18/04/12",
@@ -52,6 +52,15 @@
     "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355775&encryptedSnaid=&snaid=&step=start",
     "headline": "The Bitcoin bounce-back no one is preparing for may make you rich (see how)",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace3e724f0fa.jpg"
+  },
+  {
+    "date": "18/04/12",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Newsmax",
+    "sponsor_url": "https://w3.newsmax.com/General/NMM/Offers/Killing-the-Deep-State-6mo-v2?dkt_nbr=010335huhdv3",
+    "headline": "Trump targeted for 'wicked' attack, Corsi says",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/5/5ac69961b526b.jpg"
   },
   {
     "date": "18/04/11",
@@ -118,21 +127,21 @@
   },
   {
     "date": "18/04/05",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Fountainhead Marketing",
-    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353652",
-    "headline": "Expert: “This event could push Bitcoin to $100,000 by the end of the year”",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3ec4bba3d1.png"
-  },
-  {
-    "date": "18/04/05",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Israel Media Group",
     "sponsor_url": "https://www.causematch.com/en/projects/dollaraday/?utm_source=the_blaze&utm_medium=email&utm_campaign=dollar-a-day&utm_content=04_05_2018",
     "headline": "This Passover, give $1 a day to feed a child",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac24da425d78.png"
+  },
+  {
+    "date": "18/04/05",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353652",
+    "headline": "Expert: “This event could push Bitcoin to $100,000 by the end of the year”",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3ec4bba3d1.png"
   },
   {
     "date": "18/04/04",
