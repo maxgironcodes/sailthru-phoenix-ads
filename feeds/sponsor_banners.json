@@ -14,6 +14,16 @@
     }
   },
   {
+    "date": "18/04/16",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Common Sense",
+    "both": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT356165&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/d/5ad1076d2b4e4.jpg"
+    }
+  },
+  {
     "date": "18/04/15",
     "newsletter": "AM",
     "type": "Banners",
