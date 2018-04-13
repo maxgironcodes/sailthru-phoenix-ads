@@ -18,6 +18,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace890256689.jpg"
   },
   {
+    "date": "18/04/19",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.tolifethemovie.com/",
+    "headline": "See how Israeli volunteers are helping the world",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/d/5ad0fff6411c5.jpg"
+  },
+  {
     "date": "18/04/18",
     "newsletter": "AM",
     "type": "Native",
@@ -41,7 +50,7 @@
     "type": "Native",
     "sponsor_name": "Lion Publishing",
     "sponsor_url": "https://silencecomplete.net/?affId=42A4ADB8&c1=blnaneded14Apr18A",
-    "headline": "Tinnitus: This Is What Ear Ringing Does To Your Brain",
+    "headline": "Tinnitus: This is what ear ringing does to your brain",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/c/5acf984c7544e.jpg"
   },
   {
@@ -154,21 +163,21 @@
   },
   {
     "date": "18/04/03",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Clarion Project",
-    "sponsor_url": "http://faithkeepersmovie.com/",
-    "headline": "'Faithkeepers' documentary premieres on April 18th on TheBlaze",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac2a98aa927a.jpg"
-  },
-  {
-    "date": "18/04/03",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Fountainhead Marketing",
     "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353472",
     "headline": "Americans who’ve given up on Bitcoin are set to lose a fortune",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac290ad7de17.jpg"
+  },
+  {
+    "date": "18/04/03",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Clarion Project",
+    "sponsor_url": "http://faithkeepersmovie.com/",
+    "headline": "'Faithkeepers' documentary premieres on April 18th on TheBlaze",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac2a98aa927a.jpg"
   },
   {
     "date": "18/04/02",
