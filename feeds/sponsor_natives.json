@@ -18,13 +18,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace890256689.jpg"
   },
   {
-    "date": "18/04/19",
-    "newsletter": "AM",
+    "date": "18/04/20",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Relief Factor",
-    "sponsor_url": "https://www.relieffactor.com/?utm_source=Blaze&utm_medium=email&utm_campaign=2q2018&utm_term=Drug-Free&utm_content=PM_Daily_Native",
-    "headline": "Relief Factor: Get drug-free pain relief now!",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/g/5ad503697733e.jpg"
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.greatcures.com/m/837894",
+    "headline": "[SHOCKING] Woman CURES Alzheimer’s with “super coffee”",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/g/5ad51e3177342.jpg"
   },
   {
     "date": "18/04/19",
@@ -34,6 +34,15 @@
     "sponsor_url": "http://www.tolifethemovie.com/",
     "headline": "See how Israeli volunteers are helping the world",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/d/5ad0fff6411c5.jpg"
+  },
+  {
+    "date": "18/04/19",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Relief Factor",
+    "sponsor_url": "https://www.relieffactor.com/?utm_source=Blaze&utm_medium=email&utm_campaign=2q2018&utm_term=Drug-Free&utm_content=PM_Daily_Native",
+    "headline": "Relief Factor: Get drug-free pain relief now!",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/g/5ad503697733e.jpg"
   },
   {
     "date": "18/04/18",
@@ -136,15 +145,6 @@
   },
   {
     "date": "18/04/06",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "E-tactics",
-    "sponsor_url": "https://pro.healthrevelations.net/m/837892",
-    "headline": "What if God hid a warning inside the body of every Christian upon creation?",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3fd18657a9.jpg"
-  },
-  {
-    "date": "18/04/06",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
@@ -153,13 +153,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/3/t/5abd6ec476e9d.jpg"
   },
   {
-    "date": "18/04/05",
-    "newsletter": "AM",
+    "date": "18/04/06",
+    "newsletter": "PM",
     "type": "Native",
-    "sponsor_name": "Fountainhead Marketing",
-    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353652",
-    "headline": "Expert: “This event could push Bitcoin to $100,000 by the end of the year”",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3ec4bba3d1.png"
+    "sponsor_name": "E-tactics",
+    "sponsor_url": "https://pro.healthrevelations.net/m/837892",
+    "headline": "What if God hid a warning inside the body of every Christian upon creation?",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3fd18657a9.jpg"
   },
   {
     "date": "18/04/05",
@@ -169,6 +169,15 @@
     "sponsor_url": "https://www.causematch.com/en/projects/dollaraday/?utm_source=the_blaze&utm_medium=email&utm_campaign=dollar-a-day&utm_content=04_05_2018",
     "headline": "This Passover, give $1 a day to feed a child",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac24da425d78.png"
+  },
+  {
+    "date": "18/04/05",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353652",
+    "headline": "Expert: “This event could push Bitcoin to $100,000 by the end of the year”",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3ec4bba3d1.png"
   },
   {
     "date": "18/04/04",
