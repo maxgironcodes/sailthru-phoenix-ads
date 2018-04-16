@@ -36,6 +36,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace87dfbdd2a.jpg"
   },
   {
+    "date": "18/04/17",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Relief Factor",
+    "sponsor_url": "https://www.relieffactor.com/?utm_source=Blaze&utm_medium=email&utm_campaign=2q2018&utm_term=Drug-Free&utm_content=PM_Daily_Native",
+    "headline": "Relief Factor: Get drug-free pain relief now!",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/g/5ad503697733e.jpg"
+  },
+  {
     "date": "18/04/16",
     "newsletter": "AM",
     "type": "Native",
@@ -55,21 +64,21 @@
   },
   {
     "date": "18/04/12",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Common Sense Publishing",
-    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355775&encryptedSnaid=&snaid=&step=start",
-    "headline": "The Bitcoin bounce-back no one is preparing for may make you rich (see how)",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace3e724f0fa.jpg"
-  },
-  {
-    "date": "18/04/12",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Newsmax",
     "sponsor_url": "https://w3.newsmax.com/General/NMM/Offers/Killing-the-Deep-State-6mo-v2?dkt_nbr=010335huhdv3",
     "headline": "Trump targeted for 'wicked' attack, Corsi says",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/5/5ac69961b526b.jpg"
+  },
+  {
+    "date": "18/04/12",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Common Sense Publishing",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355775&encryptedSnaid=&snaid=&step=start",
+    "headline": "The Bitcoin bounce-back no one is preparing for may make you rich (see how)",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace3e724f0fa.jpg"
   },
   {
     "date": "18/04/11",
@@ -118,15 +127,6 @@
   },
   {
     "date": "18/04/06",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=883639",
-    "headline": "Diet expert tells all: \"It's like superfuel for your gut lining\"",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/t/5abd6ec476e9d.jpg"
-  },
-  {
-    "date": "18/04/06",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-tactics",
@@ -135,13 +135,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3fd18657a9.jpg"
   },
   {
-    "date": "18/04/05",
-    "newsletter": "PM",
+    "date": "18/04/06",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Israel Media Group",
-    "sponsor_url": "https://www.causematch.com/en/projects/dollaraday/?utm_source=the_blaze&utm_medium=email&utm_campaign=dollar-a-day&utm_content=04_05_2018",
-    "headline": "This Passover, give $1 a day to feed a child",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac24da425d78.png"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=883639",
+    "headline": "Diet expert tells all: \"It's like superfuel for your gut lining\"",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/t/5abd6ec476e9d.jpg"
   },
   {
     "date": "18/04/05",
@@ -151,6 +151,15 @@
     "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353652",
     "headline": "Expert: “This event could push Bitcoin to $100,000 by the end of the year”",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3ec4bba3d1.png"
+  },
+  {
+    "date": "18/04/05",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Israel Media Group",
+    "sponsor_url": "https://www.causematch.com/en/projects/dollaraday/?utm_source=the_blaze&utm_medium=email&utm_campaign=dollar-a-day&utm_content=04_05_2018",
+    "headline": "This Passover, give $1 a day to feed a child",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac24da425d78.png"
   },
   {
     "date": "18/04/04",
@@ -163,21 +172,21 @@
   },
   {
     "date": "18/04/03",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Fountainhead Marketing",
-    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353472",
-    "headline": "Americans who’ve given up on Bitcoin are set to lose a fortune",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac290ad7de17.jpg"
-  },
-  {
-    "date": "18/04/03",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Clarion Project",
     "sponsor_url": "http://faithkeepersmovie.com/",
     "headline": "'Faithkeepers' documentary premieres on April 18th on TheBlaze",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac2a98aa927a.jpg"
+  },
+  {
+    "date": "18/04/03",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Fountainhead Marketing",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353472",
+    "headline": "Americans who’ve given up on Bitcoin are set to lose a fortune",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac290ad7de17.jpg"
   },
   {
     "date": "18/04/02",
@@ -199,21 +208,21 @@
   },
   {
     "date": "18/03/31",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Renaissance Communications",
-    "sponsor_url": "http://www.paulmovie.com/site/",
-    "headline": "This Easter weekend it’s important to know the true story of Paul and Luke",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/s/5abbb73426fc2.png"
-  },
-  {
-    "date": "18/03/31",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=883147",
     "headline": "How to fix crepe skin: Beverly Hills surgeon explains at home fix for crepe skin around the arms, legs, and stomach",
     "image_url": "https://media.sailthru.com/3ia/1k2/3/m/5ab418a68a40f.jpg"
+  },
+  {
+    "date": "18/03/31",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Renaissance Communications",
+    "sponsor_url": "http://www.paulmovie.com/site/",
+    "headline": "This Easter weekend it’s important to know the true story of Paul and Luke",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/s/5abbb73426fc2.png"
   },
   {
     "date": "18/03/30",
