@@ -19,6 +19,15 @@
   },
   {
     "date": "18/04/19",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Relief Factor",
+    "sponsor_url": "https://www.relieffactor.com/?utm_source=Blaze&utm_medium=email&utm_campaign=2q2018&utm_term=Drug-Free&utm_content=PM_Daily_Native",
+    "headline": "Relief Factor: Get drug-free pain relief now!",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/g/5ad503697733e.jpg"
+  },
+  {
+    "date": "18/04/19",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Renaissance Communications",
