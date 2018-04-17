@@ -63,6 +63,15 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace87dfbdd2a.jpg"
   },
   {
+    "date": "18/04/18",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Common Sense",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT356499&encryptedSnaid=&snaid=&step=start",
+    "headline": "Anyone who says, \"you’re too late for Bitcoin\" has no idea this is happening…",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/h/5ad61da236ebe.jpeg"
+  },
+  {
     "date": "18/04/17",
     "newsletter": "AM",
     "type": "Native",
@@ -154,15 +163,6 @@
   },
   {
     "date": "18/04/06",
-    "newsletter": "AM",
-    "type": "Native",
-    "sponsor_name": "Golden Hippo Media",
-    "sponsor_url": "http://gundrymd.com/cmd.php?ad=883639",
-    "headline": "Diet expert tells all: \"It's like superfuel for your gut lining\"",
-    "image_url": "https://media.sailthru.com/3ia/1k2/3/t/5abd6ec476e9d.jpg"
-  },
-  {
-    "date": "18/04/06",
     "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "E-tactics",
@@ -171,13 +171,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3fd18657a9.jpg"
   },
   {
-    "date": "18/04/05",
-    "newsletter": "PM",
+    "date": "18/04/06",
+    "newsletter": "AM",
     "type": "Native",
-    "sponsor_name": "Israel Media Group",
-    "sponsor_url": "https://www.causematch.com/en/projects/dollaraday/?utm_source=the_blaze&utm_medium=email&utm_campaign=dollar-a-day&utm_content=04_05_2018",
-    "headline": "This Passover, give $1 a day to feed a child",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac24da425d78.png"
+    "sponsor_name": "Golden Hippo Media",
+    "sponsor_url": "http://gundrymd.com/cmd.php?ad=883639",
+    "headline": "Diet expert tells all: \"It's like superfuel for your gut lining\"",
+    "image_url": "https://media.sailthru.com/3ia/1k2/3/t/5abd6ec476e9d.jpg"
   },
   {
     "date": "18/04/05",
@@ -187,6 +187,15 @@
     "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT353652",
     "headline": "Expert: “This event could push Bitcoin to $100,000 by the end of the year”",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/3/5ac3ec4bba3d1.png"
+  },
+  {
+    "date": "18/04/05",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Israel Media Group",
+    "sponsor_url": "https://www.causematch.com/en/projects/dollaraday/?utm_source=the_blaze&utm_medium=email&utm_campaign=dollar-a-day&utm_content=04_05_2018",
+    "headline": "This Passover, give $1 a day to feed a child",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/2/5ac24da425d78.png"
   },
   {
     "date": "18/04/04",
