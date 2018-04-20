@@ -1,5 +1,19 @@
 [
   {
+    "date": "18/04/22",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://juvetress.com/cmd.php?ad=885627",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/k/5ada6c8f41b5a.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=885621",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/k/5ada680638e80.jpg"
+    }
+  },
+  {
     "date": "18/04/19",
     "newsletter": "AM",
     "type": "Banners",
