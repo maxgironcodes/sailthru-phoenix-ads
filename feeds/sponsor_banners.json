@@ -1,5 +1,19 @@
 [
   {
+    "date": "18/04/23",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Common Sense Publishing",
+    "top": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT356970",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/k/5ada6e75b1977.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT356971",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/k/5ada6e904f551.jpg"
+    }
+  },
+  {
     "date": "18/04/22",
     "newsletter": "AM",
     "type": "Banners",
