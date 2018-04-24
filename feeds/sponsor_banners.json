@@ -1,5 +1,19 @@
 [
   {
+    "date": "18/04/26",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Common Sense Publishing",
+    "top": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT357283&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/o/5adfad470ceeb.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT357284&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/o/5adfae8868122.jpg"
+    }
+  },
+  {
     "date": "18/04/24",
     "newsletter": "AM",
     "type": "Banners",
@@ -127,20 +141,6 @@
   },
   {
     "date": "18/04/09",
-    "newsletter": "AM",
-    "type": "Banners",
-    "sponsor_name": "Golden Hippo Media",
-    "top": {
-      "sponsor_url": "http://juvetress.com/cmd.php?ad=884356",
-      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7b2340fbed.jpg"
-    },
-    "bottom": {
-      "sponsor_url": "http://gundrymd.com/cmd.php?ad=884353",
-      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7b2548a82e.jpg"
-    }
-  },
-  {
-    "date": "18/04/09",
     "newsletter": "PM",
     "type": "Banners",
     "sponsor_name": "Fountainhead Marketing",
@@ -151,6 +151,20 @@
     "bottom": {
       "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355467&encryptedSnaid=&snaid=&step=start",
       "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7d706e6ec4.jpg"
+    }
+  },
+  {
+    "date": "18/04/09",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://juvetress.com/cmd.php?ad=884356",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7b2340fbed.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=884353",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7b2548a82e.jpg"
     }
   },
   {
