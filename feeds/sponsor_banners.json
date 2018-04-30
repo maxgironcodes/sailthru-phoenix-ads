@@ -1,5 +1,33 @@
 [
   {
+    "date": "18/05/01",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=886251",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/u/5ae73ca777307.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://nucific.com/cmd.php?ad=886254",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/u/5ae73cc35c27a.jpg"
+    }
+  },
+  {
+    "date": "18/04/30",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Golden Hippo Media",
+    "top": {
+      "sponsor_url": "http://gundrymd.com/cmd.php?ad=886250",
+      "image_url": "https://media.sailthru.com/3ia/1k2/3/8/5aa1ba1c245c6.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=886253",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/r/5ae34b945e3e6.jpg"
+    }
+  },
+  {
     "date": "18/04/27",
     "newsletter": "AM",
     "type": "Banners",
@@ -155,20 +183,6 @@
   },
   {
     "date": "18/04/09",
-    "newsletter": "PM",
-    "type": "Banners",
-    "sponsor_name": "Fountainhead Marketing",
-    "top": {
-      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355400&encryptedSnaid=&snaid=&step=start",
-      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac795eec936e.jpg"
-    },
-    "bottom": {
-      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355467&encryptedSnaid=&snaid=&step=start",
-      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7d706e6ec4.jpg"
-    }
-  },
-  {
-    "date": "18/04/09",
     "newsletter": "AM",
     "type": "Banners",
     "sponsor_name": "Golden Hippo Media",
@@ -179,6 +193,20 @@
     "bottom": {
       "sponsor_url": "http://gundrymd.com/cmd.php?ad=884353",
       "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7b2548a82e.jpg"
+    }
+  },
+  {
+    "date": "18/04/09",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Fountainhead Marketing",
+    "top": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355400&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac795eec936e.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT355467&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/4/6/5ac7d706e6ec4.jpg"
     }
   },
   {
