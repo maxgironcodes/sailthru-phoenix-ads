@@ -1,5 +1,19 @@
 [
   {
+    "date": "18/05/03",
+    "newsletter": "AM",
+    "type": "Banners",
+    "sponsor_name": "Common Sense Publishing",
+    "top": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT358373&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/5/2/5aea291071d9c.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT358374&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/5/2/5aea292c05c45.jpg"
+    }
+  },
+  {
     "date": "18/05/02",
     "newsletter": "PM",
     "type": "Banners",
