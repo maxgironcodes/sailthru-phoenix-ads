@@ -28,6 +28,20 @@
     }
   },
   {
+    "date": "18/05/04",
+    "newsletter": "PM",
+    "type": "Banners",
+    "sponsor_name": "Common Sense Publishing",
+    "top": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT358373&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/5/2/5ae9fd1dcaf48.jpg"
+    },
+    "bottom": {
+      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT358374&encryptedSnaid=&snaid=&step=start",
+      "image_url": "https://media.sailthru.com/3ia/1k2/5/2/5ae9fd3bb52b0.jpg"
+    }
+  },
+  {
     "date": "18/05/03",
     "newsletter": "AM",
     "type": "Banners",
@@ -39,20 +53,6 @@
     "bottom": {
       "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT358374&encryptedSnaid=&snaid=&step=start",
       "image_url": "https://media.sailthru.com/3ia/1k2/5/2/5aea292c05c45.jpg"
-    }
-  },
-  {
-    "date": "18/05/02",
-    "newsletter": "PM",
-    "type": "Banners",
-    "sponsor_name": "Common Sense Publishing",
-    "top": {
-      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT358373&encryptedSnaid=&snaid=&step=start",
-      "image_url": "https://media.sailthru.com/3ia/1k2/5/2/5ae9fd1dcaf48.jpg"
-    },
-    "bottom": {
-      "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT358374&encryptedSnaid=&snaid=&step=start",
-      "image_url": "https://media.sailthru.com/3ia/1k2/5/2/5ae9fd3bb52b0.jpg"
     }
   },
   {
