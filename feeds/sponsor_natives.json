@@ -1,5 +1,23 @@
 [
   {
+    "date": "18/05/05",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Lion Publishing",
+    "sponsor_url": "http://theregrowhairsolution.com/?aff_id=605033&subid=blnaneded05May18A",
+    "headline": "This shocking trick regrows your hair almost overnight",
+    "image_url": "https://media.sailthru.com/3ia/1k2/5/3/5aeb544e7cc45.jpg"
+  },
+  {
+    "date": "18/05/04",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Relief Factor",
+    "sponsor_url": "https://www.relieffactor.com/?utm_source=Blaze&utm_medium=email&utm_campaign=2q2018&utm_term=Drug-Free&utm_content=PM_Daily_Native",
+    "headline": "Get drug-free pain relief now!",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/a/5acccb12ef432.jpg"
+  },
+  {
     "date": "18/05/02",
     "newsletter": "AM",
     "type": "Native",
@@ -154,21 +172,21 @@
   },
   {
     "date": "18/04/18",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Common Sense",
-    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT356499&encryptedSnaid=&snaid=&step=start",
-    "headline": "Anyone who says, \"you’re too late for Bitcoin\" has no idea this is happening…",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/h/5ad61da236ebe.jpeg"
-  },
-  {
-    "date": "18/04/18",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://beverlyhillsmd.com/cmd.php?ad=884795",
     "headline": "Beverly Hills surgeon explains at home fix for crepe skin around the arms, legs, and stomach",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/b/5ace87dfbdd2a.jpg"
+  },
+  {
+    "date": "18/04/18",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Common Sense",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT356499&encryptedSnaid=&snaid=&step=start",
+    "headline": "Anyone who says, \"you’re too late for Bitcoin\" has no idea this is happening…",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/h/5ad61da236ebe.jpeg"
   },
   {
     "date": "18/04/17",
