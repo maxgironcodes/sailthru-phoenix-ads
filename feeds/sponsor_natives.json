@@ -9,13 +9,13 @@
     "image_url": "https://media.sailthru.com/3ia/1k2/5/7/5af0a99568599.jpeg"
   },
   {
-    "date": "18/05/07",
-    "newsletter": "AM",
+    "date": "18/05/08",
+    "newsletter": "PM",
     "type": "Native",
     "sponsor_name": "Common Sense Publishing",
-    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT358641&encryptedSnaid=&snaid=&step=start",
-    "headline": "Anyone who says, \"you’re too late for Bitcoin\" has no idea this is happening…",
-    "image_url": "https://media.sailthru.com/3ia/1k2/5/3/5aeb56394bc7e.png"
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT358655&encryptedSnaid=&snaid=&step=start",
+    "headline": "Ex-hedge fund manager warns: “Forget stocks—Bitcoin is back!”",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/u/5ae73d7fc97d3.png"
   },
   {
     "date": "18/05/07",
@@ -25,6 +25,15 @@
     "sponsor_url": "https://pro.hsicures.com/m/837896",
     "headline": "Hillary loses it on camera - leaked footage",
     "image_url": "https://media.sailthru.com/3ia/1k2/5/3/5aeb58c91c6ff.jpg"
+  },
+  {
+    "date": "18/05/07",
+    "newsletter": "AM",
+    "type": "Native",
+    "sponsor_name": "Common Sense Publishing",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT351790&eid=MKT358641&encryptedSnaid=&snaid=&step=start",
+    "headline": "Anyone who says, \"you’re too late for Bitcoin\" has no idea this is happening…",
+    "image_url": "https://media.sailthru.com/3ia/1k2/5/3/5aeb56394bc7e.png"
   },
   {
     "date": "18/05/06",
@@ -109,21 +118,21 @@
   },
   {
     "date": "18/04/26",
-    "newsletter": "PM",
-    "type": "Native",
-    "sponsor_name": "Palm Beach Letter",
-    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT350533&eid=MKT357294&encryptedSnaid=&snaid=&step=start",
-    "headline": "Seniors: D.C.’s $9.7 billion retirement jackpot up for grabs",
-    "image_url": "https://media.sailthru.com/3ia/1k2/4/o/5adfb19cc8951.jpg"
-  },
-  {
-    "date": "18/04/26",
     "newsletter": "AM",
     "type": "Native",
     "sponsor_name": "Golden Hippo Media",
     "sponsor_url": "http://gundrymd.com/cmd.php?ad=885626",
     "headline": "How to reduce dark spots and uneven skin tones (at home)",
     "image_url": "https://media.sailthru.com/3ia/1k2/4/p/5ae0a82c5f9ed.jpg"
+  },
+  {
+    "date": "18/04/26",
+    "newsletter": "PM",
+    "type": "Native",
+    "sponsor_name": "Palm Beach Letter",
+    "sponsor_url": "https://secure.palmbeachgroup.com/chain?cid=MKT350533&eid=MKT357294&encryptedSnaid=&snaid=&step=start",
+    "headline": "Seniors: D.C.’s $9.7 billion retirement jackpot up for grabs",
+    "image_url": "https://media.sailthru.com/3ia/1k2/4/o/5adfb19cc8951.jpg"
   },
   {
     "date": "18/04/25",
